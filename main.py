@@ -110,5 +110,6 @@ if __name__ == "__main__":
 	server.start(categories)
 
 	while True:
+		# TODO: In this part, scareped data must be updated!
 		print("Alive...")
-		time.sleep(10)
+		time.sleep(100)
