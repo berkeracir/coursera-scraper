@@ -1,0 +1,625 @@
+name,url,category,subcategory,instructors,description,enrollment,views,rating,raters
+Advanced Capstone Spacecraft Dynamics and Control Project,https://www.coursera.org/learn/advanced-capstone-spacecraft-dynamics-control-project,Physical Science and Engineering,Physics and Astronomy,Hanspeter Schaub,"This capstone course is the 3rd and final course of the specialization Advanced Spacecraft Dynamics and Control. It assumes you have completed the prior courses on ""Attitude Control with Momentum Exchange Devices"" and ""Analytical Mechanics for Spacecraft Dynamics"".  This project course investigates the dynamics of a complex spacecraft system where there is a rigid hub onto which a hinged panel is attached.  This simulates a spacecraft with a time varying geometry.
+
+First, the three-dimensional kinematics of this system are explored.  Analytical relationships of the body and panel position and velocity states are derived, and the center of mass properties of this system are explored.
+
+Next, a simplified system is used to use Lagrange's equations of motion to predict the dynamical response.  With these differential equations we are then able to apply attitude control torques and investigate the rotational response if the spacecraft hub has a spring-hinged panel attached.  Two open-loop control torque solutions are investigated.  The classical minimum time bang-bang control solution is applied first, illustrating how such a control can yield unwanted panel oscillations.  Finally, a filtered version of the bang-bang control is applied to illustrated how the panel oscillations can be significantly reduced at the cost of a slightly longer nominal maneuver time.",,,,
+Analytical Mechanics for Spacecraft Dynamics,https://www.coursera.org/learn/analytical-mechanics-spacecraft-dynamics,Physical Science and Engineering,Physics and Astronomy,Hanspeter Schaub,"This course is part 2 of the specialization Advanced Spacecraft Dynamics and Control. It assumes you have a strong foundation in spacecraft dynamics and control, including particle dynamics, rotating frame, rigid body kinematics and kinetics.  The focus of the course is to understand key analytical mechanics methodologies to develop equations of motion in an algebraically efficient manner.  The course starts by first developing D’Alembert’s principle and how the associated virtual work and virtual displacement concepts allows us to ignore non-working force terms.  Unconstrained systems and holonomic constrains are investigated.  Next Kane's equations and the virtual power form of D'Alembert's equations are briefly reviewed for particles.
+
+Next Lagrange’s equations are developed which still assume a finite set of generalized coordinates, but can be applied to multiple rigid bodies as well.  Lagrange multipliers are employed to apply Pfaffian constraints.  
+
+Finally, Hamilton’s extended principle is developed to allow us to consider a dynamical system with flexible components.  Here there are an infinite number of degrees of freedom.  The course focuses on how to develop spacecraft related partial differential equations, but does not study numerically solving them.  The course ends comparing the presented assumed mode methods to classical final element solutions.",,6531.0,,
+Analyzing Thermodynamics Processes using Wolfram notebook,https://www.coursera.org/learn/analyzing-thermodynamics-processes,Physical Science and Engineering,Physics and Astronomy,Ashish Dikshit,"In this 1-hour long project-based course, you will learn to compute & analysis of thermodynamic processes viz  Adiabatic process ,Isobaric process, Isochoric process, Isothermal and polytropic process.This project gives you easy access to the invaluable learning techniques used by experts in Physics. We’ll learn about the how the brain uses two very different learning modes and how it encapsulates (“chunks”) information. We’ll cover through the best practices shown by research to be most effective in helping you master tough topics of physics.Using these approaches, no matter what your skill levels in topics you would like to master, you can change your thinking and change your attitude towards physics.Classical thermodynamics considers three main kinds of thermodynamic process: (1) changes in a system, (2) cycles in a system, and (3) flow processes.(1) A change in a system is defined by a passage from an initial to a final state of thermodynamic equilibrium. In classical thermodynamics, the actual course of the process is not the primary concern, and often is ignored. A state of thermodynamic equilibrium endures unchangingly unless it is interrupted by a thermodynamic operation that initiates a thermodynamic process.(2) A cyclic process carries the system through a cycle of stages, starting and being completed in some particular state. The descriptions of the staged states of the system are not the primary concern.(3) Defined by flows through a system, a flow process is a steady state of flows into and out of a vessel with definite wall properties. The internal state of the vessel contents is not the primary concern.",,,,
+Analyzing the Universe,https://www.coursera.org/learn/analyze,Physical Science and Engineering,Physics and Astronomy,Dr. Terry A. Matilsky,"Using publicly available data from NASA of actual satellite observations of astronomical  x-ray sources, we explore some of the mysteries of the cosmos, including neutron stars, black holes, quasars and supernovae.  We will analyze energy spectra and time series data to understand how these incredible objects work.  We utilize an imaging tool called DS9 to explore the amazing diversity of astronomical observations that have made x-ray astronomy one of the most active and exciting fields of  scientific investigation in the past 50 years.
+
+Each week we will explore a different facet of x-ray astronomy.  Beginning with an introduction to the nature of image formation, we then move on to examples of how our imaging program, DS9,  can aid our understanding of real satellite data.  You will using the actual data that scientists use when doing their work.  Nothing is ""canned"".  You will be able to appreciate the excitement that astronomers felt when they made their important discoveries concerning periodic binary x-ray sources, supernovae and their remnants, and extragalactic sources that have shaped our understanding of cosmology.",15933.0,7155.0,4.8,216.0
+Archaeoastronomy,https://www.coursera.org/learn/archaeoastronomy,Physical Science and Engineering,Physics and Astronomy,Giulio Magli,"Archaeoastronomy is the “science of stars and stones”.  It is an interdisciplinary science in between architecture, archaeology, and astronomy. It studies the relationships between the ancient monuments and the sky, in order to gain a better understanding of the ideas of the architects of the past and of their religious and symbolic world. The course provides the first complete, easy introduction to this fascinating discipline.
+
+During the course, many spectacular ancient sites of archaeology – such as Stonehenge in England, Giza and Karnak in Egypt, Chichen Itzá in the Yucatan, Macchu Picchu in Peru and the Pantheon in Rome – will be visited and the fascinating events occurring there in special days of the year (such as solstices, equinoxes, or the day of the foundation of Rome) will be shown and explained. The course also provides the necessary background on Astronomy with the naked eye and a general introduction to the role of Astronomy in religion and in the management of power among ancient cultures.",41039.0,15520.0,4.5,1259.0
+Astro 101: Black Holes,https://www.coursera.org/learn/black-holes-astro-101,Physical Science and Engineering,Physics and Astronomy,Sharon Morsink,"What is a black hole? Do they really exist? How do they form? How are they related
+
+to stars? What would happen if you fell into one? How do you see a black hole if they
+emit no light? What’s the difference between a black hole and a really dark star?
+Could a particle accelerator create a black hole? Can a black hole also be a worm
+hole or a time machine?
+
+In Astro 101: Black Holes, you will explore the concepts behind black holes. Using the theme of black holes, you will learn the basic ideas of astronomy, relativity, and quantum physics.
+
+After completing this course, you will be able to:
+
+• Describe the essential properties of black holes.
+• Explain recent black hole research using plain language and appropriate analogies.
+• Compare black holes in popular culture to modern physics to distinguish science fact from science fiction.
+• Describe the application of fundamental physical concepts including gravity, special and general relativity, and quantum mechanics to reported scientific observations.
+• Recognize different types of stars and distinguish which stars can potentially become black holes.
+• Differentiate types of black holes and classify each type as observed or theoretical.
+• Characterize formation theories associated with each type of black hole.
+• Identify different ways of detecting black holes, and appropriate technologies associated with each detection method.
+• Summarize the puzzles facing black hole researchers in modern science.",35342.0,48722.0,4.8,934.0
+AstroTech: The Science and Technology behind Astronomical Discovery,https://www.coursera.org/learn/astronomy-technology,Physical Science and Engineering,Physics and Astronomy,"Andy Lawrence, Catherine Heymans","""How do they know that?""
+
+Modern astronomy has made some astonishing discoveries - how stars burn and how black holes form; galaxies from the edge of the universe and killer rocks right next door; where the elements come from and how the expanding universe is accelerating. But how do we know all that? The truth is that astronomy would be impossible without technology, and every advance in astronomy is really an advance in technology. But the technology by itself is not enough. We have to apply it critically with a knowledge of physics to unlock the secrets of the Universe.
+
+Each week we will cover a different aspect of Astronomical technology, matching each piece of technology to a highlight science result. We will explain how the technology works, how it has allowed us to collect astronomical data, and, with some basic physics, how we interpret the data to make scientific discoveries.
+
+The class will consist of video lectures, weekly quizzes, and discussion forums. Each week there will be five videos, totalling approximately 40 minutes. They will be in a regular pattern - a short introduction, an example science story, an explanation of the key technology area, a look at how the technology is used in practice, and finally a look at what the future may hold.",16251.0,8907.0,4.7,1018.0
+Astrobiology and the Search for Extraterrestrial Life,https://www.coursera.org/learn/astrobiology,Physical Science and Engineering,Physics and Astronomy,Charles Cockell,Learn about the origin and evolution of life and the search for life beyond the Earth.,82764.0,15065.0,4.8,2479.0
+Astrobiology: Exploring Other Worlds,https://www.coursera.org/learn/astrobiology-exploring-other-worlds,Physical Science and Engineering,Physics and Astronomy,Chris Impey,"How are astronomers approaching their search for life in the universe? What have we learned from the surge of exoplanets discoveries? How likely is it that Earth does not host the only life in the Universe? In this course we explore the field of astrobiology, an emerging multidisciplinary field. Progress in astrobiology is driven by telescopes on the ground and in space, and by new insights on how life emerged on Earth and its diversity. The topics in this course range from the science of how exoplanets are detected, to the chemistry that supports the argument that the ingredients for life are common in the Universe.  
+
+We will follow the analyses of experts in chemistry, astronomy, geology and archaeology to build a strong foundation of understanding.  By the final assignment, students will be equipped with the knowledge necessary to identify what makes a planet habitable, and how likely it is that life exists there. Students will graduate from this course informed about one of the most exciting fields in all of science, and ready to discuss the current exoplanet news stories and discoveries.",23833.0,33196.0,4.9,386.0
+Astronomy: Exploring Time and Space,https://www.coursera.org/learn/astro,Physical Science and Engineering,Physics and Astronomy,Chris Impey,This course is designed for anyone who is interested in learning more about modern astronomy. We will help you get up to date on the most recent astronomical discoveries while also providing support at an introductory level for those who have no background in science.,202758.0,113607.0,4.8,3356.0
+Attitude Control with Momentum Exchange Devices,https://www.coursera.org/learn/attitude-control-momentum-exchange-devices,Physical Science and Engineering,Physics and Astronomy,Hanspeter Schaub,"This course is part 1 of the specialization Advanced Spacecraft Dynamics and Control. It is a direct continuation of the Coursera specialization Spacecraft Dynamics and Control.  This first course focuses on nonlinear attitude feedback control using a range of angular momentum devices.  The course provides a comprehensive review of prerequisite material.  Next it develops equations of motion of a spacecraft with momentum exchange devices such as reaction wheels (RWs), control momentum gyroscopes (CMGs) and variable speed control moment gyroscopes (VSCMGs). 
+
+The course discusses developing a complex spacecraft simulation with a number VSCMGs and how to approach debugging such complex software.  The use of the work/energy theorem is discussed to assist with debugging the simulation by validating angular momentum, energy, changes in momentum and mechanical power. 
+
+Further, the use of null motion is explored to reconfigure the attitude control devices to avoid singularities and gimbal lock.  The redundancy is exploited to seek control solutions that avoid classical CMG singularities.",,2275.0,,
+Big History - From the Big Bang until Today,https://www.coursera.org/learn/bighistory,Physical Science and Engineering,Physics and Astronomy,Esther Quaedackers,"Welcome to this Big History course! In this course, renowned scientists and scholars from the University of Amsterdam and beyond will take you on a journey from the Big Bang until today while addressing key questions in their fields. After completing this journey you will have developed a better understanding of how you and everything around you became the way they are today. You will also have gained an understanding of the underlying mechanisms that have helped shape the history of everything and how they wil help  shape the future. Last but not least, you will have developed the skill to use this knowledge to put smaller subjects into a bigger perspective with the aid of the little big history approach, which can help you develop some new ideas on these smaller subjects.",32197.0,12391.0,4.6,225.0
+Conceptos y Herramientas para la Física Universitaria,https://www.coursera.org/learn/fisica-universitaria,Physical Science and Engineering,Physics and Astronomy,"Dr. Genaro Zavala Enríquez, Ing. Rodolfo Fernández de Lara Hadad, Ing. José Rodrigo  Salmón Folgueras","Este curso provee al estudiante con conceptos y herramientas matemáticas para modelar problemas en física, que al aplicar podrá enfrentar con éxito los cursos de física universitarios.
+
+Así pues, la filosofía de este curso consiste en cubrir temas conceptuales relativos a la Física y desarrollar tu capacidad de aprender y aplicarlos en tu vida profesional.
+
+El curso se aborda en dos fases a través de las cuales el alumno:
+
+- Aprenderá a aplicar el cálculo diferencial e integral para interpretar y modelar la cinemática de una partícula en una dimensión,
+- Aprenderá el manejo de cantidades físicas vectoriales en forma gráfica y analítica en dos y tres dimensiones.",39658.0,41093.0,4.6,402.0
+Confronting The Big Questions: Highlights of Modern Astronomy,https://www.coursera.org/learn/astronomy,Physical Science and Engineering,Physics and Astronomy,Adam Frank,An introduction to modern astronomy's most important questions. The four sections of the course are Planets and Life in The Universe; The Life of Stars; Galaxies and Their Environments; The History of The Universe.,21145.0,8091.0,4.6,451.0
+Control of Nonlinear Spacecraft Attitude Motion,https://www.coursera.org/learn/nonlinear-spacecraft-attitude-control,Physical Science and Engineering,Physics and Astronomy,Hanspeter Schaub,"This course trains you in the skills needed to program specific orientation and achieve precise aiming goals for spacecraft moving through three dimensional space. First, we cover stability definitions of nonlinear dynamical systems, covering the difference between local and global stability. We then analyze and apply Lyapunov's Direct Method to prove these stability properties, and develop a nonlinear 3-axis attitude pointing control law using Lyapunov theory. Finally, we look at alternate feedback control laws and closed loop dynamics. 
+
+After this course, you will be able to...
+
+* Differentiate between a range of nonlinear stability concepts
+* Apply Lyapunov’s direct method to argue stability and convergence on a range of dynamical systems
+* Develop rate and attitude error measures for a 3-axis attitude control using Lyapunov theory
+* Analyze rigid body control convergence with unmodeled torque",8217.0,5777.0,4.7,61.0
+Crash couse in Gnuplot,https://www.coursera.org/learn/crash-couse-in-gnuplot,Physical Science and Engineering,Physics and Astronomy,Arthur Prado,"By the end of this project, you will be able to edit and plot your own functions and data points with Gnuplot. You will be familiar with the basic utilization of the command-driven plotting of  Gnuplot, making it easier to learn any other skill in Gnuplot. Plotting  your functions, data points and even automatizing the  production of many graphics will not be a challenge anymore.",,,,
+D'un infini à l'autre,https://www.coursera.org/learn/physique-deux-infinis-liens,Physical Science and Engineering,Physics and Astronomy,"Nicolas Arnaud, Sébastien Descotes-Genon, Olivier Drapier, Philippe Schune","Partez à la découverte de l'infiniment petit et de l'infiniment grand, en compagnie de physiciens et de physiciennes qui vont vous faire découvrir les liens entre la structure de la matière aux distances les plus petites et l'organisation de l'Univers aux distances les plus grandes ce jour, et entre les outils scientifiques utilisés pour les étudier. Vous découvrirez que de nombreux messagers venus de notre Univers (le photon, les neutrinos, ou encore les rayons cosmiques) sont aussi des objets d'intérêt pour les physiciens qui étudient la matière aux échelles les plus petites. Vous verrez aussi que l'histoire de l'Univers (comme la formation de la matière et la disparition de l'antimatière) peut être comprise grâce aux progrès de l'infiniment petit. Notre compréhension des deux infinis peut ainsi progresser harmonieusement, chaque infini s'appuyant sur les avancées et les outils de l'autre.
+
+Ce cours en français fait partie du MOOC ""Voyages de l'infiniment grand à l'infiniment petit"", conçus par des physiciens et des physiciennes du Labex P2IO (Physique des 2 Infinis et des Origines, IPP et Université Paris-Saclay) regroupant des laboratoires de physique de l'infiniment grand et de l'infiniment petit situés à Orsay et Saclay. Les différents parcours de ce MOOC vous montreront les connaissances et les énigmes de l'infiniment grand et de l'infiniment petit, les relations que ces deux infinis entretiennent, et les liens de ces découvertes avec la société :
+
+https://www.coursera.org/learn/physique-2-infinis-infiniment-petit
+https://www.coursera.org/learn/physique-2-infinis-infiniment-grand
+https://www.coursera.org/learn/physique-2-infinis-liens
+https://www.coursera.org/learn/physique-2-infinis-et-nous
+
+Le MOOC ""Voyages de l'infiniment grand à l'infiniment petit"" a été conçu avec le soutien financier du Labex P2IO (Physique des 2 Infinis et des Origines) présenté sur www.labex-p2io.fr (IPP et Université Paris-Saclay)",,,,
+D'un infini à l'autre - Voyages de l'infiniment grand à l'infiniment petit,https://www.coursera.org/learn/physique-2-infinis-liens,Physical Science and Engineering,Physics and Astronomy,"Sébastien Descotes-Genon, Olivier Drapier, Nicolas Arnaud, Philippe Schune","Partez à la découverte de l'infiniment petit et de l'infiniment grand, en compagnie de physiciens et de physiciennes qui vont vous faire découvrir les liens entre la structure de la matière aux distances les plus petites et l'organisation de l'Univers aux distances les plus grandes ce jour, et entre les outils scientifiques utilisés pour les étudier. Vous découvrirez que de nombreux messagers venus de notre Univers (le photon, les neutrinos, ou encore les rayons cosmiques) sont aussi des objets d'intérêt pour les physiciens qui étudient la matière aux échelles les plus petites. Vous verrez aussi que l'histoire de l'Univers (comme la formation de la matière et la disparition de l'antimatière) peut être comprise grâce aux progrès de l'infiniment petit. Notre compréhension des deux infinis peut ainsi progresser harmonieusement, chaque infini s'appuyant sur les avancées et les outils de l'autre.
+
+Ce cours en français fait partie du MOOC ""Voyages de l'infiniment grand à l'infiniment petit"", conçus par des physiciens et des physiciennes du Labex P2IO (Physique des 2 Infinis et des Origines) regroupant des laboratoires de physique de l'infiniment grand et de l'infiniment petit situés à Orsay et Saclay. Les différents parcours de ce MOOC vous montreront les connaissances et les énigmes de l'infiniment grand et de l'infiniment petit, les relations que ces deux infinis entretiennent, et les liens de ces découvertes avec la société :
+
+https://www.coursera.org/learn/physique-2-infinis-infiniment-petit
+https://www.coursera.org/learn/physique-2-infinis-infiniment-grand
+https://www.coursera.org/learn/physique-2-infinis-liens
+https://www.coursera.org/learn/physique-2-infinis-et-nous
+
+Le MOOC ""Voyages de l'infiniment grand à l'infiniment petit"" a été conçu avec le soutien financier du Labex P2IO (Physique des 2 Infinis et des Origines) présenté sur www.labex-p2io.fr",,,4.8,36.0
+Data-driven Astronomy,https://www.coursera.org/learn/data-driven-astronomy,Physical Science and Engineering,Physics and Astronomy,"Tara Murphy, Simon Murphy","Science is undergoing a data explosion, and astronomy is leading the way. Modern telescopes produce terabytes of data per observation, and the simulations required to model our observable Universe push supercomputers to their limits. To analyse this data scientists need to be able to think computationally to solve problems. In this course you will investigate the challenges of working with large datasets: how to implement algorithms that work; how to use databases to manage your data; and how to learn from your data with machine learning tools. The focus is on practical skills - all the activities will be done in Python 3, a modern programming language used throughout astronomy.
+
+Regardless of whether you’re already a scientist, studying to become one, or just interested in how modern astronomy works ‘under the bonnet’, this course will help you explore astronomy: from planets, to pulsars to black holes.
+
+Course outline:
+Week 1: Thinking about data
+- Principles of computational thinking
+- Discovering pulsars in radio images
+
+Week 2: Big data makes things slow
+- How to work out the time complexity of algorithms
+- Exploring the black holes at the centres of massive galaxies
+
+Week 3: Querying data using SQL
+- How to use databases to analyse your data
+- Investigating exoplanets in other solar systems
+
+Week 4: Managing your data
+- How to set up databases to manage your data
+- Exploring the lifecycle of stars in our Galaxy
+
+Week 5: Learning from data: regression
+- Using machine learning tools to investigate your data
+- Calculating the redshifts of distant galaxies
+
+Week 6: Learning from data: classification
+- Using machine learning tools to classify your data
+- Investigating different types of galaxies
+
+Each week will also have an interview with a data-driven astronomy expert.
+
+Note that some knowledge of Python is assumed, including variables, control structures, data structures, functions, and working with files.",29190.0,25403.0,4.8,1212.0
+Density Functional Theory,https://www.coursera.org/learn/density-functional-theory,Physical Science and Engineering,Physics and Astronomy,"Francesco Sottile, Lucia Reining","The aim of this course is to give a thorough introduction to Density Functional Theory (DFT). DFT is today the most widely used method to study interacting electrons, and its applicability ranges from atoms to solid systems, from nuclei to quantum fluids.  
+
+In this course, we introduce the most important concepts underlying DFT, its foundation, and basic ideas. We will in particular stress the features and reasons that lead DFT to become the dominant method for simulating quantum mechanical systems. 
+
+The course is intended for students and researchers with knowledge of basic quantum mechanics. No experience in simulation or solid-state physics is required. We try to give a concise mathematical background when particular concepts are needed.",9290.0,27199.0,4.9,128.0
+Developments of structural dynamics,https://www.coursera.org/learn/developments-of-structural-dynamics,Physical Science and Engineering,Physics and Astronomy,Yves Gourinat,"This course is devoted to the dynamic implementation of continuous structural elements vs discrete models. The matrix representation and implicit solution of Lagrange’s equation are at the heart of this approach, in the framework of conservative structural systems, with Gaussian modes. 
+
+The prototype of the continuous element being the prismatic beam - as an illustration, but with general value - and the implicit model/solution leads to the major place of natural eigenshapes in vibration and shocks theory and general dynamic representation of structures and foundations of the dynamic tests and certification.
+In fact, this course is a perspective on the double vision of any dynamic structure, with the continuous point of view and a digital model in perspective.
+
+At the end of this course, the physicist, the mechanical engineer, the specialist in control will have a general overview of the dynamic representation and implicit solution applicable in structural analysis and control of general dynamic systems.
+
+ In a certain way, it is founded on the famous discussions between Albert Einstein and Niels Bohr.
+
+Recommendation: we suggest having a look, at the course ""Foundation of structural dynamics: from static to discrete dynamics"". This course proposes an original point of view of the foundations of dynamics. And could highlight the present course.",,1796.0,,
+Emergent Phenomena in Science and Everyday Life,https://www.coursera.org/learn/emergent-phenomena,Physical Science and Engineering,Physics and Astronomy,"Michael Dennin, Jun Allard, Donald Saari, Andrea Nicholas, Fred Y.M. Wan, Siddharth A. Parameswaran","Before the advent of quantum mechanics in the early 20th century, most scientists believed that it should be possible to predict the behavior of any object in the universe simply by understanding the behavior of its constituent parts. For instance, if one could write down the equations of motion for every atom in a system, it should be possible to solve those equations (with the aid of a sufficiently large computing device) and make accurate predictions about that system’s future.
+
+However, there are some systems that defy this notion. Consider a living cell, which consists mostly of carbon, hydrogen, and oxygen along with other trace elements. We can study these components individually without ever imagining how combining them in just the right way can lead to something as complex and wonderful as a living organism! Thus, we can consider life to be an emergent property of what is essentially an accumulation of constituent parts that are somehow organized in a very precise way.
+
+This course lets you explore the concept of emergence using examples from materials science, mathematics, biology, physics, and neuroscience to illustrate how ordinary components when brought together can collectively yield unexpected, surprising behaviors.
+
+Note: The fractal image (Sierpinkski Triangle) depicted on the course home page was generated by a software application called XaoS 3.4, which is distributed by the Free Software Foundation under a GNU General Public License.
+
+Upon completing this course, you will be able to:
+1.       Explain the difference in assumptions between an emergent versus reductive approach to science.
+2.       Explain why the reductivist approach is understood by many to be inadequate as a means of describing and predicting complex systems.
+3.       Describe how the length scale used to examine a phenomenon can contribute to how you analyze and understand it.
+4.       Explain why the search for general principles that explain emergent phenomena make them an active locus of scientific investigation.
+5.       Discuss examples of emergent phenomena and explain why they are classified as emergent.",13104.0,11329.0,4.3,140.0
+Estrategias para ganar. Meteorología en la vuelta al mundo,https://www.coursera.org/learn/estrategiasparaganar-meteorologia,Physical Science and Engineering,Physics and Astronomy,Tomàs Molina,"Tanto si eres o no aficionado a la navegación, en este curso aprenderás cuáles son los principales motores del tiempo en la Tierra y lo que los navegantes deben saber de ellos. Conocerás cuáles son las bases de la meteorología oceánica, cómo se generan los archivos digitales a partir de los modelos de predicción y cómo los navegantes los reciben a bordo, vía satélite, para integrarlos al software de alta competición.
+
+Este curso enfoca la meteorología y climatología oceánicas desde la perspectiva de la navegación a vela.
+
+Aprenderás los conocimientos básicos de meteorología que necesitan los navegantes para participar en una regata como la Barcelona World Race, la única una vuelta al mundo sin escalas con dos tripulantes.
+
+Conocerás las estrategias que se aplican en una regata alrededor del mundo y cómo se conciben a bordo de los más avanzados veleros oceánicos.",4718.0,2511.0,4.7,160.0
+Exploring Light: Hands-on Activities and Strategies for Teachers,https://www.coursera.org/learn/teach-light-color,Physical Science and Engineering,Physics and Astronomy,"Zeke Kossover, Paul Doherty, PhD, Eric Muller","This is an Exploratorium teacher professional development course taught by Teacher Institute staff, open to any science teacher (particularly middle or high school level) and science enthusiast. This is a hands-on workshop that explores topics and strategies teachers can use to help their students become active investigators of light.
+
+Watch a preview video (copy and paste this link into your browser): https://youtu.be/fPvT_quBVIw
+
+There are four weeks of course content, which require 2-4 hours per week. Each module builds upon the previous one, so we strongly suggest you follow the sequence we've outlined rather than skip ahead or do the course in less time. The course is designed to give you an opportunity to learn and share with others, not test what you know. There are weekly activity and reflection assignments, but these will not be graded. To receive credit for this course, you will need to complete the peer-reviewed final assignment.
+
+As a participant, you will:
+- Watch videos that demonstrate natural phenomena and the Exploratorium's approach to teaching and learning 
+- Conduct personal investigations by engaging in hands-on activities based in those phenomena
+- Reflect and share your experience doing activities
+- Discuss and identify challenges and opportunities for teaching
+- Devise a lesson of your own based on one or more of the activities
+
+Each week, we'll look at a different light-related topic: We will start by examining human visual perception, then take a brief historical tour of our evolving scientific understanding. We’ll also look at optics and optical instruments and finish by looking at the wave nature of light. 
+
+To get the most out of this experience, you'll have to try out some activities! In return, you'll get lots of valuable teaching resources, an in-depth understanding of the subject matter, and useful tips and techniques for the classroom.
+
+NOTE: This is a hands-on workshop, so you will need to buy or find materials. All of the materials required are inexpensive and should be easy to obtain, and we welcome substitutions! A separate list of materials is available for each activity.",9248.0,2034.0,4.8,51.0
+Exploring Quantum Physics,https://www.coursera.org/learn/quantum-physics,Physical Science and Engineering,Physics and Astronomy,"Charles W. Clark, Dr. Victor Galitski","An introduction to quantum physics with emphasis on topics at the frontiers of research, and developing understanding through exercise.",24432.0,18956.0,4.2,51.0
+Exploring concepts of Optics using Wolfram notebook,https://www.coursera.org/learn/concepts-of-optics,Physical Science and Engineering,Physics and Astronomy,Ashish Dikshit,Exploring concepts of Optics using Wolfram notebook,,,,
+Flight Mechanics - Anemobarometry,https://www.coursera.org/learn/anemobarometry-flight-mechanics,Physical Science and Engineering,Physics and Astronomy,Eric Poquillon,"This course focuses on the physics of the atmosphere and its consequences on speed and altitude measurements.
+
+At the end of this course, you will understand precisely the meaning of the speed and altitude indication available to the pilot of an airplane. You will understand the difference between standard and actual atmosphere and be able to perform basic altitude and speed correction computations.
+You will understand why jet airliners need to be pressurized, or why a clogged Pitot tube can mislead a pilot.
+Although some math equations are used from time to time to justify certain results. This course insists on curve shapes, figures, tables, and you can efficiently follow it while skipping the equation-solving parts if you do not fancy them.
+
+This course is a part of the specialization ""Fundamentals of Flight mechanics"".",,6320.0,4.9,23.0
+Flight mechanics - Lift and trajectory,https://www.coursera.org/learn/lift-flight-mechanics,Physical Science and Engineering,Physics and Astronomy,Eric Poquillon,"In this course, you will understand the influence of the angle of attack and speed on the lift. Then we will focus on hazards and limitations, like stall, spiral dive, or flutter.
+
+You will understand why stall phenomenon and Mach number limit the maximum lift and altitude the airplane can achieve. Then, you must understand what is flutter and why the altitude and speed of the airplane must be restricted to a safe domain.
+In the end, we will explain how to control the trajectory of the airplane and the relation with lift and load factor.
+
+This course is a part of the specialization ""Fundamentals of Flight mechanics"".",,7327.0,4.9,15.0
+Flight mechanics - Propulsive balance and energy,https://www.coursera.org/learn/flight-mecha-balance,Physical Science and Engineering,Physics and Astronomy,Eric Poquillon,"This course is dedicated to energy management, i.e. speed and altitude control. 
+
+The various sources of drag are first described and modeled, as well as thrust origin, and evolution with speed and altitude. Using these models, we can evaluate the propulsive balance and derive important concepts like flight regimes, best climb speed, or propulsion ceiling.
+We take then a glance at cruise performances and the evolution of range with weight.
+
+This course is a part of the specialization ""Fundamentals of Flight mechanics"".",,6245.0,,
+Flight mechanics - The basis,https://www.coursera.org/learn/basis-flight-mechanics,Physical Science and Engineering,Physics and Astronomy,Eric Poquillon,"More than one century after the Wright brothers' first flight, the flight still defy our intuition. You will learn here how to name the different parts of the airplane and how to describe and quantify its geometry. For that, we need now to share a precise vocabulary to describe the airplane's movement and attitude in space, and a refresher on basic general mechanic principles. You will remind how Newton's 2nd law allows you to determine what force must be applied on an apple - or on an airplane, to modify the magnitude and direction of its speed. Coming back on the concepts of kinetic energy and potential energy, you will discover the very useful concept of total height and you will be able to explain how an airplane can quickly exchange speed for altitude, while changes in total height are much slower. 
+
+In the end, you will discover that only a very small number of forces apply on an airplane in flight and that you will be able to classify those that change its energy state and those that modify its trajectory. You will discover the concept of load factor and understand why the pilot of a combat aircraft can feel a weight nine-time greater than his actual weight! Finally, we will establish the lift and propulsion equations, that form the basis of flight mechanics, and you will be able to compute the lift and thrust necessary to follow a given trajectory at a given speed.
+
+This course is for anybody interested in learning more about how planes work, the physics of flying, or flight mechanics. It will be of particular interest to undergraduate students in aerospace engineering, trainees as well as senior pilots, journalists, and professionals in the aeronautics sector.
+
+Although some mathematical formalism may be present sometimes. It is always doubled by sketches, figures, and hands-explanations. So that, anybody can skip the formulas without losing the core understanding of the concepts.
+
+No apples were harmed in the making of this course...
+
+This course is only a foretaste of the mechanics of flight. ISAE-SUPAERO and Eric Poquillon will offer you other courses and the first specialization in autumn 2021. Initially, three courses will be published to answer several questions: Can we fly as high as we want? What is a stall? Why do some planes have propellers and others have jet engines? Is an airplane always stable? How do you control an airplane following an engine failure? All this and more will be covered in this series of flight mechanics courses.
+
+This course is a part of the specialization ""Fundamentals of Flight mechanics"".",8693.0,29785.0,4.6,217.0
+Foundation of Structural Dynamics,https://www.coursera.org/learn/structural-dynamics-foundation,Physical Science and Engineering,Physics and Astronomy,Yves Gourinat,"A course with variable geometry where everyone, we hope, will find personal benefits. The parts can be studied sequentially or independently; and inside each part, elementary learning items can be picked up. 
+
+Globally, this course proposes a deep knowledge of fundamental dynamics, with possible explicit and implicit applications in structural dynamics, but also in physics and control of any dynamic system (automatics, …).
+
+The concepts of static, dynamic, and thermodynamic approaches are defined, followed by the analytical Newtonian foundations of discrete (digital) dynamics.
+
+Dynamics is not simply an extension of statics, but another modeling with open possibilities. The basic theorems (Newton‘s equivalence principle, König’ s theorems, conservations) are detailed in the perspective of structural applications.
+
+This course opens perspectives towards not only the general dynamics of structures but also towards robotics and control of dynamic systems. These concepts will be learned in a second course (Developments of structural dynamics).",,2276.0,,
+From the Big Bang to Dark Energy,https://www.coursera.org/learn/big-bang,Physical Science and Engineering,Physics and Astronomy,Hitoshi Murayama,"We have learned a lot recently about how the Universe evolved in 13.7 billion years since the Big Bang. More than 80% of matter in the Universe is mysterious Dark Matter, which made stars and galaxies to form. The newly discovered Higgs-boson became frozen into the Universe a trillionth of a second after the Big Bang and brought order to the Universe. Yet we still do not know how ordinary matter (atoms) survived against total annihilation by Anti-Matter. The expansion of the Universe started acceleration about 7 billion years ago and the Universe is being ripped apart. The culprit is Dark Energy, a mysterious energy multiplying in vacuum. I will present evidence behind these startling discoveries and discuss what we may learn in the near future.
+
+This course is offered in English.",86502.0,46619.0,4.8,3231.0
+Fundamentals of Materials Science,https://www.coursera.org/learn/fundamentals-of-materials-science,Physical Science and Engineering,Physics and Astronomy,"Kolan M. Reddy, Liu Jing, Qiang Guo","Materials are the physical foundations for the development of science and technology. The human civilizations are historically designated by the evolution of materials, such as the Stone Age, the Bronze Age and the Iron Age. Nowadays, materials science and technology support most of the industrial sectors, including aerospace, telecommunications, transportation, architecture, infrastructure and so on. Fundamentals of Materials Science is a core module for undergraduates majored in materials science and engineering. This English course will be taught by Prof. Guo Qiang, Prof. Reddy and Prof. Liu Jing from Shanghai Jiao Tong University. An integrated approach of combining metallic, ceramic and polymeric materials will be adopted in this course, for the attendants to attain a deep understanding on the correlation of composition, microstructure, processing and properties in materials science. Let’s gather in this course and explore the wonderland of materials together.",5443.0,14469.0,4.5,81.0
+Física: Dimensión y Movimiento,https://www.coursera.org/learn/fisica-dimension-movimiento,Physical Science and Engineering,Physics and Astronomy,"Dr. Genaro Zavala Enríquez, Ing. Rodolfo Fernández de Lara Hadad, Ing. José Rodrigo  Salmón Folgueras","Este curso forma parte de una secuencia y como podrás ver, no sólo te preparará para la física universitaria, sino que al mismo tiempo te sensibilizará para poder comprender y asimilar fenómenos y resolver problemas de la vida cotidiana.
+
+Curso con crédito académico para alumnos admitidos y aspirantes a ingresar a su primer semestre de un programa de profesional en el Tecnológico de Monterrey. Si estás inscrito en este MOOC con el fin de obtener el crédito académico para el curso de Introducción a la Física (Física Remedial), confirma tu interés en la acreditación a la cuenta: mooc@servicios.itesm.mx 
+
+Consulta las preguntas frecuentes para conocer el proceso de acreditación.",14512.0,4204.0,4.5,192.0
+"Física: Vectores, Trabajo y Energía",https://www.coursera.org/learn/fisica-vectores-trabajo-energia,Physical Science and Engineering,Physics and Astronomy,"Dr. Genaro Zavala Enríquez, Ing. Rodolfo Fernández de Lara Hadad, Ing. José Rodrigo  Salmón Folgueras","Este curso provee al estudiante con conceptos y herramientas matemáticas para modelar problemas en física, que al aplicar podrá enfrentar con éxito los cursos de física universitarios.
+
+Así pues, la filosofía de este curso consiste en cubrir temas conceptuales relativos a la Física y desarrollar tu capacidad de aprender y aplicarlos en tu vida profesional.
+
+El curso se aborda en dos fases a través de las cuales el alumno:
+
+- Aprenderá a aplicar el cálculo diferencial e integral para interpretar y modelar la cinemática de una partícula en una dimensión,
+- Aprenderá el manejo de cantidades físicas vectoriales en forma gráfica y analítica en dos y tres dimensiones.",24833.0,9159.0,4.2,162.0
+How Things Work: An Introduction to Physics,https://www.coursera.org/learn/how-things-work,Physical Science and Engineering,Physics and Astronomy,Louis A. Bloomfield,An introduction to physics in the context of everyday objects.,237653.0,52040.0,4.8,2660.0
+Imagining Other Earths,https://www.coursera.org/learn/life-on-other-planets,Physical Science and Engineering,Physics and Astronomy,David Spergel,"Are we alone? This course introduces core concepts in astronomy, biology, and planetary science that enable the student to speculate scientifically about this profound question and invent their own solar systems.
+
+All the features of this course are available for free.  It does not offer a certificate upon completion.",47923.0,9293.0,4.7,368.0
+Introduction to Acoustics (Part 2),https://www.coursera.org/learn/intro-to-acoustics-2,Physical Science and Engineering,Physics and Astronomy,Yang-Hann Kim,"Learners might have learned the basic concepts of the acoustics from the ‘Introduction to Acoustics (Part 1).’ Now it is time to apply to the real situation and develop their own acoustical application. Learners will analyze the radiation, scattering, and diffraction phenomenon with the Kirchhoff –Helmholtz Equation. Then learners will design their own reverberation room or ducts that fulfill the condition they have set up.",3956.0,2349.0,4.7,40.0
+Introduction to advanced tomography,https://www.coursera.org/learn/cinemaxe,Physical Science and Engineering,Physics and Astronomy,"Lars Pilgaard Mikkelsen, Jens Wenzel Andreasen, Vedrana Andersen Dahl, Jakob Sauer Jørgensen, Henning Osholm Soerensen","In this course you get the chance to get teaching and hands-on experience with the complete workflow of high-resolution tomography analysis. You will get introduced to data acquisition, 3D reconstruction, segmentation and meshing and, finally, 3D modelling of data to extract physical parameters describing mechanical and flow properties. The teaching and the exercises will take place in close interaction with top experts in the field. Exercises will require some basic programming skills, and will be carried out in a common python environment.",3469.0,4061.0,4.6,46.0
+"Introduzione alla fisica sperimentale: elettromagnetismo, ottica, fisica moderna",https://www.coursera.org/learn/fisica-sperimentale-fisica-moderna,Physical Science and Engineering,Physics and Astronomy,Maurizio Zani,"Il corso affronta le tematiche dell'elettromagnetismo e dell'ottica, fornendo le nozioni che risultano utili per affrontare insegnamenti di fisica di base, a partire dalla comprensione del metodo sperimentale per poi mostrare le grandezze fondamentali e loro relazioni in tali ambiti, imparando a identificarle, distinguerle e utilizzarle.
+
+Gli argomenti affrontati relativamente all'elettromagnetismo sono, divisi per settimane:
+· campo elettrico, conduttori, condensatori e materiali dielettrici
+· corrente elettrica, campo magnetico e materiali magnetici
+
+mentre per l'ottica si ha 
+· onde elettromagnetiche, ottica geometrica e ottica ondulatoria
+
+con un'ultima settimana di accenno alla fisica moderna.
+
+All’interno di ogni settimana si trovano video relativi a lezioni, esercizi ed approfondimenti su alcuni argomenti, nonché quiz a risposta chiusa allo scopo di fornire allo studente l’opportunità di un primo feedback di auto-valutazione. Ognuna delle tematiche si chiude poi con un quiz riepilogativo per verificare l’acquisizione delle nozioni presentate.",1652.0,2230.0,4.7,26.0
+"Introduzione alla fisica sperimentale: meccanica, termodinamica",https://www.coursera.org/learn/fisica-sperimentale-meccanica-termodinamica,Physical Science and Engineering,Physics and Astronomy,Maurizio Zani,"Il corso affronta le tematiche della meccanica e della termodinamica, fornendo le nozioni che risultano utili per affrontare insegnamenti di fisica di base, a partire dalla comprensione del metodo sperimentale per poi mostrare le grandezze fondamentali e loro relazioni in tali ambiti, imparando a identificarle, distinguerle e utilizzarle.
+
+Gli argomenti affrontati relativamente alla meccanica sono, divisi per settimane:
+· cinematica del punto materiale ed esempi di moti
+· dinamica del punto materiale ed esempi di forze 
+· lavoro, energia, urti e gravitazione universale
+
+mentre per la termodinamica si ha 
+· cinematica e dinamica dei liquidi ideali
+· temperatura, gas ideali, calore, macchine termiche ed entropia
+
+All’interno di ogni settimana si trovano video relativi a lezioni, esercizi ed approfondimenti su alcuni argomenti, nonché quiz a risposta chiusa allo scopo di fornire allo studente l’opportunità di un primo feedback di auto-valutazione. Ognuna delle tematiche si chiude poi con un quiz riepilogativo per verificare l’acquisizione delle nozioni presentate.",2125.0,2949.0,4.7,20.0
+Introdução ao Inkscape,https://www.coursera.org/learn/introducao-ao-inkscape,Physical Science and Engineering,Physics and Astronomy,Arthur Prado,"Ao final deste projeto, você será capaz de editar e criar suas próprias imagens vetoriais nos formatos de arquivo mais populares. Você estará familiarizado com a interface básica do Inkscape, dando-lhe a chance de uma curva de aprendizado suave para qualquer outra habilidade no Inkscape. Fazer seus próprios infográficos, diagramas e pôsteres de congressos de alta qualidade não será mais um desafio.",,,,
+Kinematics: Describing the Motions of Spacecraft,https://www.coursera.org/learn/spacecraft-dynamics-kinematics,Physical Science and Engineering,Physics and Astronomy,Hanspeter Schaub,"The movement of bodies in space (like spacecraft, satellites, and space stations) must be predicted and controlled with precision in order to ensure safety and efficacy. Kinematics is a field that develops descriptions and predictions of the motion of these bodies in 3D space. This course in Kinematics covers four major topic areas: an introduction to particle kinematics, a deep dive into rigid body kinematics in two parts (starting with classic descriptions of motion using the directional cosine matrix and Euler angles, and concluding with a review of modern descriptors like quaternions and Classical and Modified Rodrigues parameters). The course ends with a look at static attitude determination, using modern algorithms to predict and execute relative orientations of bodies in space.
+
+After this course, you will be able to...
+
+* Differentiate a vector as seen by another rotating frame and derive frame dependent velocity and acceleration vectors
+* Apply the Transport Theorem to solve kinematic particle problems and translate between various sets of attitude descriptions
+* Add and subtract relative attitude descriptions and integrate those descriptions numerically to predict orientations over time
+* Derive the fundamental attitude coordinate properties of rigid bodies and determine attitude from a series of heading measurements",20796.0,20298.0,4.9,294.0
+Kinetics: Studying Spacecraft Motion,https://www.coursera.org/learn/spacecraft-dynamics-kinetics,Physical Science and Engineering,Physics and Astronomy,Hanspeter Schaub,"As they tumble through space, objects like spacecraft move in dynamical ways. Understanding and predicting the equations that represent that motion is critical to the safety and efficacy of spacecraft mission development. Kinetics: Modeling the Motions of Spacecraft trains your skills in topics like rigid body angular momentum and kinetic energy expression shown in a coordinate frame agnostic manner, single and dual rigid body systems tumbling without the forces of external torque, how differential gravity across a rigid body is approximated to the first order to study disturbances in both the attitude and orbital motion, and how these systems change when general momentum exchange devices are introduced.
+
+After this course, you will be able to...
+
+*Derive from basic angular momentum formulation the rotational equations of motion and predict and determine torque-free motion equilibria and associated stabilities
+* Develop equations of motion for a rigid body with multiple spinning components and derive and apply the gravity gradient torque
+* Apply the static stability conditions of a dual-spinner configuration and predict changes as momentum exchange devices are introduced
+* Derive equations of motion for systems in which various momentum exchange devices are present
+
+Please note: this is an advanced course, best suited for working engineers or students with college-level knowledge in mathematics and physics.",9287.0,6380.0,4.8,121.0
+Les deux infinis et nous,https://www.coursera.org/learn/physique-deux-infinis-et-nous,Physical Science and Engineering,Physics and Astronomy,"Sébastien Descotes-Genon, Olivier Drapier, Nicolas Arnaud, Philippe Schune","Partez à la découverte de l'infiniment grand et de l'infiniment petit dans leurs aspects les plus proches de notre quotidien, en compagnie de physiciens et de physiciennes qui vont vous faire découvrir leur présence insoupçonnée dans notre vie de tous les jours. Vous vous initierez à la vie et aux métiers d'une grande collaboration en physique de l'infiniment petit et de l'infiniment grand, vous découvrirez comment les outils développés dans ces domaines ont trouvé des applications inattendues, comment la physique nucléaire a profondément modifié les domaines de l'énergie et de la santé, et comment les propriétés de certaines particules aident à présent d'autres disciplines à sonder la matière d'une manière totalement différente.
+
+Ce cours en français fait partie du MOOC ""Voyages de l'infiniment grand à l'infiniment petit"", conçus par des physiciens et des physiciennes du Labex P2IO (Physique des 2 Infinis et des Origines, IPP et Université Paris-Saclay) regroupant des laboratoires de physique de l'infiniment grand et de l'infiniment petit situés à Orsay et Saclay. Les différents parcours de ce MOOC vous montreront les connaissances et les énigmes de l'infiniment grand et de l'infiniment petit, les relations que ces deux infinis entretiennent, et les liens de ces découvertes avec la société :
+
+https://www.coursera.org/learn/physique-2-infinis-infiniment-petit
+https://www.coursera.org/learn/physique-2-infinis-infiniment-grand
+https://www.coursera.org/learn/physique-2-infinis-liens
+https://www.coursera.org/learn/physique-2-infinis-et-nous
+
+Le MOOC ""Voyages de l'infiniment grand à l'infiniment petit"" a été conçu avec le soutien financier du Labex P2IO (Physique des 2 Infinis et des Origines) présenté sur www.labex-p2io.fr (IPP et Université Paris-Saclay)",,,,
+Les deux infinis et nous - Voyages de l'infiniment grand à l'infiniment petit,https://www.coursera.org/learn/physique-2-infinis-et-nous,Physical Science and Engineering,Physics and Astronomy,"Sébastien Descotes-Genon, Olivier Drapier, Nicolas Arnaud, Philippe Schune","Partez à la découverte de l'infiniment grand et de l'infiniment petit dans leurs aspects les plus proches de notre quotidien, en compagnie de physiciens et de physiciennes qui vont vous faire découvrir leur présence insoupçonnée dans notre vie de tous les jours. Vous vous initierez à la vie et aux métiers d'une grande collaboration en physique de l'infiniment petit et de l'infiniment grand, vous découvrirez comment les outils développés dans ces domaines ont trouvé des applications inattendues, comment la physique nucléaire a profondément modifié les domaines de l'énergie et de la santé, et comment les propriétés de certaines particules aident à présent d'autres disciplines à sonder la matière d'une manière totalement différente.
+
+Ce cours en français fait partie du MOOC ""Voyages de l'infiniment grand à l'infiniment petit"", conçus par des physiciens et des physiciennes du Labex P2IO (Physique des 2 Infinis et des Origines) regroupant des laboratoires de physique de l'infiniment grand et de l'infiniment petit situés à Orsay et Saclay. Les différents parcours de ce MOOC vous montreront les connaissances et les énigmes de l'infiniment grand et de l'infiniment petit, les relations que ces deux infinis entretiennent, et les liens de ces découvertes avec la société :
+
+https://www.coursera.org/learn/physique-2-infinis-infiniment-petit
+https://www.coursera.org/learn/physique-2-infinis-infiniment-grand
+https://www.coursera.org/learn/physique-2-infinis-liens
+https://www.coursera.org/learn/physique-2-infinis-et-nous
+
+Le MOOC ""Voyages de l'infiniment grand à l'infiniment petit"" a été conçu avec le soutien financier du Labex P2IO (Physique des 2 Infinis et des Origines) présenté sur www.labex-p2io.fr",,,4.7,39.0
+"Mechanics: Motion, Forces, Energy and Gravity, from Particles to Planets",https://www.coursera.org/learn/mechanics-particles-planets,Physical Science and Engineering,Physics and Astronomy,"Prof. Joe Wolfe, Dr Elizabeth  J.  Angstmann, Mr Sebastian Fricke","Most of the phenomena in the world around you are, at the fundamental level, based on physics, and much of physics is based on mechanics. Mechanics begins by quantifying motion, and then explaining it in terms of forces, energy and momentum. This allows us to analyse the operation of many familiar phenomena around us, but also the mechanics of planets, stars and galaxies.
+
+This on-demand course is recommended for senior high school and beginning university students and anyone with a curiosity about basic physics. (The survey tells us that it's often used by science teachers, too.) 
+
+The course uses rich multimedia tutorials to present the material: film clips of key experiments, animations and worked example problems, all with a friendly narrator. You'll do a range of interesting practice problems, and in an optional component, you will use your ingenuity to complete at-home experiments using simple, everyday materials.
+
+You will need some high-school mathematics: arithmetic, a little algebra, quadratic equations, and the sine, cosine and tangent functions from trigonometry. The course does not use calculus. However, we do provide a study aid introducing the calculus that would accompany this course if it were taught in a university.
+
+By studying mechanics in this course, you will understand with greater depth many of the wonders around you in everyday life, in technology and in the universe at large. Meanwhile, we think you'll have some fun, too.",54874.0,19234.0,4.7,968.0
+Mécanique : Solide Indéformable,https://www.coursera.org/learn/mecanique-solide,Physical Science and Engineering,Physics and Astronomy,"Jean-Philippe Ansermet, Paul-Salomon Ngohe-Ekam","Ces quelques leçons de mécanique du solide indéformable font partie d'un cours de formation de base en mécanique Newtonienne présenté sous la forme d'un MOOC en quatre parties : 
+
+1. Lois de Newton
+https://www.coursera.org/learn/mecanique-newton
+
+2. Mécanique du point matériel
+https://www.coursera.org/learn/mecanique-point-materiel
+
+3. Mécanique du Solide Indéformable
+
+Cette partie traite la mécanique du solide indéformable. Dans certains établissements, cette matière est vue avec une application des torseurs. Aussi, nous avons inclus dans cette partie un supplément de formation sur ce sujet. Deux leçons introduisent  les torseurs. Le cours de mécanique se poursuit alors avec l'option de voir comment la matière présentée par le prof. Ansermet peut aussi être appréhendée avec l'usage des torseurs. Ces compléments ont été préparés par le Prof. Paul Salmon Ngohé Ekam de l'Ecole Nationale Supérieure Polytechnique de Yaoundé, Cameroun. Les exercices peuvent être résolus sans ou avec les torseurs, suivant l'option choisie.
+
+4. Mécanique Lagrangienne
+https://www.coursera.org/learn/mecanique-lagrangienne",6966.0,5784.0,4.8,32.0
+Mécanique de Newton,https://www.coursera.org/learn/mecanique-newton,Physical Science and Engineering,Physics and Astronomy,Jean-Philippe Ansermet,"Ces quelques leçons de mécanique de Newton font partie d'un cours de formation de base en mécanique Newtonienne présenté sous la forme d'un MOOC en quatre parties : 
+
+1. Lois de Newton
+
+À l’École Polytechnique Fédérale de Lausanne, un cours de mécanique fait partie de la formation de tous les futurs ingénieurs et scientifiques. Il a pour but de leur apprendre à transcrire sous forme mathématique un phénomène physique, afin de pouvoir en formuler une analyse raisonnée. Cette partie couvrira notamment la cinématique du point matériel, la balistique dans le champ de la pesanteur et l’oscillateur harmonique. 
+
+2. Mécanique du point matériel
+https://www.coursera.org/learn/mecanique-point-materiel
+
+3. Mécanique du Solide Indéformable
+https://www.coursera.org/learn/mecanique-solide
+
+4. Mécanique Lagrangienne
+https://www.coursera.org/learn/mecanique-lagrangienne",12028.0,10655.0,4.7,108.0
+Mécanique du point matériel,https://www.coursera.org/learn/mecanique-point-materiel,Physical Science and Engineering,Physics and Astronomy,Jean-Philippe Ansermet,"Ces quelques leçons de mécanique du point matériel font partie d'un cours de formation de base en mécanique Newtonienne présenté sous la forme d'un MOOC en quatre parties : 
+
+1. Lois de Newton
+https://www.coursera.org/learn/mecanique-newton
+
+2. Mécanique du point matériel
+
+Pour illustrer les concepts introduits dans la première partie, on traite ici des problèmes pour lesquels le système mécanique peut être considéré comme un point matériel.  Cette partie couvre notamment les problèmes à traiter en coordonnées cylindriques ou sphériques,  le problème des orbites des planètes et les référentiels accélérés.
+
+3. Mécanique du Solide Indéformable
+https://www.coursera.org/learn/mecanique-solide
+
+4. Mécanique Lagrangienne
+https://www.coursera.org/learn/mecanique-lagrangienne",6173.0,3545.0,4.8,38.0
+Mécanique quantique,https://www.coursera.org/learn/mecanique-quantique,Physical Science and Engineering,Physics and Astronomy,"Jean Dalibard, Philippe Grangier, Manuel Joffre, Mathieu de Naurois","Comme l'ont montré de plus en plus d'expériences effectuées dès le début du vingtième siècle, les lois de la mécanique newtonienne cessent d'être valables dès qu'on tente de les appliquer à très petite échelle, celle des atomes, des molécules ou des noyaux. On entre alors dans le domaine de la mécanique quantique, où les lois physiques prennent une tout autre nature qui a pu être formalisée de manière rigoureuse à la fin des années 1920. Cette véritable révolution intellectuelle est non seulement indispensable pour comprendre la véritable nature du monde physique, des particules élémentaires au big bang, mais elle est également à l'origine de la plupart des technologies modernes comme la micro-électronique, les lasers ou les télécommunications optiques.
+
+Ce cours constitue une première introduction à la mécanique quantique. En employant une approche historique et en s'appuyant sur une confrontation entre expériences et théorie, il vous permettra de comprendre les principes de base de la mécanique quantique et d'entrevoir quelques-unes de ses applications. Le cours se composera des huit séances ci-dessous.
+
+1. Dualité onde-corpuscule
+2. La fonction d'onde
+3. Transformée de Fourier
+4. De l'impulsion à l'hamiltonien
+5. La particule quantique confinée
+6. Mesures quantiques individuelles
+7. Puis de potentiel à une dimension
+8. Effet Tunnel",8895.0,13053.0,4.8,117.0
+New Space: Access to space - Basics,https://www.coursera.org/learn/newspace-access-to-space,Physical Science and Engineering,Physics and Astronomy,"Yves Gourinat, Annafederica Urbano","The spirit of NewSpace is revolutionizing our vision of access to space. Reading keys will enable you to understand the technological and strategic challenges in games with new rules, fixed by ambitious players. Combine the new technologies and management of space access with the classical paradigm of the existing space context.
+
+It is difficult to give a definition of the New Space, but we can say that there are several aspects that characterize the New Space and access to space in the New Space: innovation, private actors, reducing the price of access to space, space for all, awareness of societal challenges.
+
+In this course, you will first acquire basic knowledge to understand how to access space. This will concern mission analysis, launchers, and rocket engines design. This introductory information will help you to understand what characterizes space access in the New Space in relation to three main aspects:
+	1.	Methodologies of design, development, and production of launchers and rockets 
+	2.	Innovative technologies
+	3.	Sustainable space with the future development of green launchers, towards a green space",,4132.0,4.9,10.0
+Origens da Vida no Contexto Cósmico,https://www.coursera.org/learn/origensdavida,Physical Science and Engineering,Physics and Astronomy,"Rodrigo de Souza, Elysandra Figueredo Cypriano, Augusto Damineli Neto, Douglas Galante, Amelia dos Santos, Amancio Friaça","Origens da vida no contexto cósmico é um curso desenvolvido no Instituto de Astronomia, Geofísica e Ciências Atmosféricas da Universidade de São Paulo, com o objetivo de apresentar os mais recentes avanços científicos na compreensão deste intrigante assunto. É um curso com formato multidisciplinar que o levará a compreender melhor os aspectos envolvidos no surgimento de vida na Terra e no possível surgimento de vida em outros planetas.
+
+Como o curso está sendo oferecido em sessões contínuas, não haverá interação dos professores no fórum.",69102.0,6151.0,4.8,2027.0
+"Origins - Formation of the Universe, Solar System, Earth and Life",https://www.coursera.org/learn/origins-universe-solarsystem,Physical Science and Engineering,Physics and Astronomy,"Henning Haack, James Connelly, Vivi Vajda, Jon Fjeldså, Thomas Gilbert, Michael Houmark-Nielsen, Bent Erik Kramer Lindow, Gilles Guy Roger Cuny, Ole Seberg, Gitte Petersen, Tais Wittchen Dahl, Arne Thorshøj Nielsen, Martin Vinther Sørensen, Svend Stouge, Danny Eibye Jacobsen, Jan Audun Rasmussen, Emily Catherine Pope",The Origins course tracks the origin of all things – from the Big Bang to the origin of the Solar System and the Earth. The course follows the evolution of life on our planet through deep geological time to present life forms.,32393.0,10890.0,4.7,609.0
+Particle Physics: an Introduction,https://www.coursera.org/learn/particle-physics,Physical Science and Engineering,Physics and Astronomy,"Martin Pohl, Anna Sfyrla","This course introduces you to subatomic physics, i.e. the physics of nuclei and particles. 
+
+More specifically, the following questions are addressed:
+- What are the concepts of particle physics and how are they implemented?
+- What are the properties of atomic nuclei and how can one use them?
+- How does one accelerate and detect particles and measure their properties?
+- What does one learn from particle reactions at high energies and particle decays?
+- How do electromagnetic interactions work and how can one use them?
+- How do strong interactions work and why are they difficult to understand?
+- How do weak interactions work and why are they so special?
+- What is the mass of objects at the subatomic level and how does the Higgs boson intervene?
+- How does one search for new phenomena beyond the known ones?
+- What can one learn from particle physics concerning astrophysics and the Universe as a whole?
+
+The course is structured in eight modules. Following the first one which introduces our subject, the modules 2 (nuclear physics)
+and 3 (accelerators and detectors) are rather self contained and can be studied separately. The modules 4 to 6 go into more depth about matter and forces as described by the standard model of particle physics. Module 7 deals with our ways to search for new phenomena. And the last module introduces you to two mysterious components of the Universe, namely Dark Matter and Dark Energy.",70731.0,28724.0,4.4,839.0
+Physics 101 - Energy and Momentum,https://www.coursera.org/learn/physics-101-energy-momentum,Physical Science and Engineering,Physics and Astronomy,Jason Hafner,"This course serves as an introduction to the physics of energy and momentum.  Upon completion, learners will have an understanding of how mathematical laws and conservation principles describe the motions and interactions of objects all around us.  They will gain experience in solving physics problems with tools such as graphical analysis, algebra, vector analysis, and calculus.  The course follows the typical progression of topics of a first-semester university physics course:  Kinematics, Newton’s Laws, Energy, and Momentum.  Each of five modules contains reading links to a free textbook, complete video lectures, conceptual quizzes, and a set of homework problems.  Once the modules are completed, the course ends with an exam.  With 100 brief lectures and over 100 problems, this comprehensive course is similar in detail and rigor to those taught on-campus.  It will thoroughly prepare learners for their upcoming introductory physics courses, or more advanced courses in physics.",3825.0,6379.0,4.9,11.0
+Physics 101 - Forces and Kinematics,https://www.coursera.org/learn/physics-101-forces-kinematics,Physical Science and Engineering,Physics and Astronomy,Jason Hafner,"This course serves as an introduction to the physics of force and motion.  Upon completion, learners will have an understanding of how mathematical laws and conservation principles describe the motions and interactions of objects all around us.  They will gain experience in solving physics problems with tools such as graphical analysis, algebra, vector analysis, and calculus.  The course follows the typical progression of topics of a first-semester university physics course:  Kinematics, Newton’s Laws, Energy, and Momentum.  Each of five modules contains reading links to a free textbook, complete video lectures, conceptual quizzes, and a set of homework problems.  Once the modules are completed, the course ends with an exam.  With 100 brief lectures and over 100 problems, this comprehensive course is similar in detail and rigor to those taught on-campus.  It will thoroughly prepare learners for their upcoming introductory physics courses, or more advanced courses in physics.",10251.0,31072.0,4.5,55.0
+Physics 101 - Rotational Motion and Gravitation,https://www.coursera.org/learn/physics-101-rotational-motion-gravitation,Physical Science and Engineering,Physics and Astronomy,Jason Hafner,"This course serves as an introduction to the physics of rotational motion and gravitation.  Upon completion, learners will have an understanding of how mathematical laws and conservation principles describe the motions and interactions of objects all around us.  They will gain experience in solving physics problems with tools such as graphical analysis, algebra, vector analysis, and calculus.  The course is the third course in the Physics 101 specialization, which follows the typical progression of topics of a first-semester university physics course:  Kinematics, Newton’s Laws, Energy, and Momentum.  Each of the modules contains reading links to a free textbook, complete video lectures, conceptual quizzes, and a set of homework problems.  Once the modules are completed, the course ends with an exam.  This comprehensive course is similar in detail and rigor to those taught on-campus.  It will thoroughly prepare learners for their upcoming introductory physics courses, or more advanced courses in physics.",2624.0,7992.0,4.6,13.0
+Physics 102  - Magnetic Fields and Faraday's Law,https://www.coursera.org/learn/physics-102-magnetic-fields-faradays-law,Physical Science and Engineering,Physics and Astronomy,Jason Hafner,"This course serves as an introduction to the physics of electricity and magnetism.  Upon completion, learners will have an understanding of how the forces between electric charges are described by fields, and how these fields are related to electrical circuits. They will gain experience in solving physics problems with tools such as graphical analysis, algebra, vector analysis, and calculus.  The course follows the typical progression of topics of a first-semester university physics course:  charges, electric forces, electric fields potential, magnetic fields, currents, magnetic moments, electromagnetic induction, and circuits.  Each module contains reading links to a free textbook, complete video lectures, conceptual quizzes, and a set of homework problems.  Once the modules are completed, the course ends with an exam.  This comprehensive course series is similar in detail and rigor to what is taught on-campus.  It will thoroughly prepare learners for their upcoming introductory physics courses, or more advanced courses in physics.",,4935.0,,
+Physics 102 - AC Circuits and Maxwell's Equations,https://www.coursera.org/learn/physics-102-ac-circuits-maxwell-equations,Physical Science and Engineering,Physics and Astronomy,Jason Hafner,"This course serves as an introduction to the physics of electricity and magnetism.  Upon completion, learners will have an understanding of how the forces between electric charges are described by fields, and how these fields are related to electrical circuits. They will gain experience in solving physics problems with tools such as graphical analysis, algebra, vector analysis, and calculus.  The course follows the typical progression of topics of a first-semester university physics course:  charges, electric forces, electric fields potential, magnetic fields, currents, magnetic moments, electromagnetic induction, and circuits.  Each module contains reading links to a free textbook, complete video lectures, conceptual quizzes, and a set of homework problems.  Once the modules are completed, the course ends with an exam.  This comprehensive course series is similar in detail and rigor to what is taught on-campus.  It will thoroughly prepare learners for their upcoming introductory physics courses, or more advanced courses in physics.",,3034.0,,
+Physics 102 - Electric Charges and Fields,https://www.coursera.org/learn/physics-102-electric-charges-fields,Physical Science and Engineering,Physics and Astronomy,Jason Hafner,"This course serves as an introduction to the physics of electricity and magnetism.  Upon completion, learners will have an understanding of how the forces between electric charges are described by fields, and how these fields are related to electrical circuits. They will gain experience in solving physics problems with tools such as graphical analysis, algebra, vector analysis, and calculus.  The course follows the typical progression of topics of a first-semester university physics course:  charges, electric forces, electric fields potential, magnetic fields, currents, magnetic moments, electromagnetic induction, and circuits.  Each module contains reading links to a free textbook, complete video lectures, conceptual quizzes, and a set of homework problems.  Once the modules are completed, the course ends with an exam.  This comprehensive course series is similar in detail and rigor to what is taught on-campus.  It will thoroughly prepare learners for their upcoming introductory physics courses, or more advanced courses in physics.",4013.0,20090.0,4.7,31.0
+Physics 102 - Electric Potential and DC Circuits,https://www.coursera.org/learn/physics-102-electric-potential-and-dc-circuits,Physical Science and Engineering,Physics and Astronomy,Jason Hafner,"This course serves as an introduction to the physics of electricity and magnetism.  Upon completion, learners will have an understanding of how the forces between electric charges are described by fields, and how these fields are related to electrical circuits. They will gain experience in solving physics problems with tools such as graphical analysis, algebra, vector analysis, and calculus.  The course follows the typical progression of topics of a first-semester university physics course:  charges, electric forces, electric fields potential, magnetic fields, currents, magnetic moments, electromagnetic induction, and circuits.  Each module contains reading links to a free textbook, complete video lectures, conceptual quizzes, and a set of homework problems.  Once the modules are completed, the course ends with an exam.  This comprehensive course series is similar in detail and rigor to what is taught on-campus.  It will thoroughly prepare learners for their upcoming introductory physics courses, or more advanced courses in physics.",,6613.0,4.7,13.0
+Physics of silicon solar cells,https://www.coursera.org/learn/physics-silicon-solar-cells,Physical Science and Engineering,Physics and Astronomy,"Pr. Bernard Drevillon, Erik Johnson","The first MOOC “Photovoltaic solar energy” is a general presentation of the solar photovoltaics technologies in the global energetic context, without extensive details. In particular the description of the solar cell operation is restricted to the ideal case 
+
+In contrast this second MOOC allows a deep understanding of the properties of solar cells based on crystalline semiconductors. It consists in a general presentation of the physics of the photovoltaics devices with a particular emphasize on the silicon technology that currently represents more than 90% share of the market. Photovoltaic applications of III-V semiconductors are also mentioned. 
+Indeed from a fundamental point of view, a solar cell can be considered as a semiconductor device (a diode) exposed to the sunlight. An introduction to the semiconductor physics is given, followed by the electron transport phenomena in a diode device. A detailed description of the solar cell operation is then provided, including the conversion efficiency limitations. A description of the solar spectrum and the optical properties of the cells are also presented. Finally the crystalline silicon technology is described from the bulk crystalline growth up to the preparation of heterojunctions combining crystalline and amorphous materials.",6150.0,4840.0,4.2,63.0
+Physique des particules - une introduction,https://www.coursera.org/learn/physique-particules,Physical Science and Engineering,Physics and Astronomy,"Martin Pohl, Mercedes Paniccia","Ce cours vous introduit à la physique subatomique, c'est à dire à la physique du noyau et à celle des particules élémentaires. 
+
+Plus spécifiquement les questions adressées sont les suivantes :
+- Quels sont les concepts de la physique des particules et comment sont-ils implémentés?
+- Quelles sont les propriétés du noyau atomique et comment peut on les utiliser?
+- Comment accélérer et détecter des particules et mesurer leurs propriétés?
+- Qu’est-ce qu’on apprend à partir des réactions de particules à haute énergie et leurs désintégrations?
+- Comment fonctionnent les interactions électromagnétiques et comment peut-on les mettre à contribution?
+- Comment fonctionnent les interactions fortes et pourquoi sont-elles difficiles à comprendre?
+- Comment fonctionnent les interactions faibles et pourquoi sont-elles spéciales?
+- Quelle est la masse des objets au niveau subatomique, et comment y intervient le Higgs?
+- Que peut-on apprendre de la physique des particules concernant l’astrophysique et l’Univers tout entier?
+
+Le cours est structuré en sept modules. Suivant le premier module qui introduit notre sujet, les modules 2 (Physique nucléaire) et 3 (Accélérateurs et détecteurs) dépendent peu du reste du cours et peuvent être étudiés séparément. Les modules 4 à 7 approfondissent les notions de la matière et des forces élémentaires.",7760.0,5775.0,4.4,71.0
+Preparing for the AP Physics 1 Exam,https://www.coursera.org/learn/ap-physics-1,Physical Science and Engineering,Physics and Astronomy,"Dr. Paige K. Evans, Mariam Manuel","This course is designed for high school students preparing to take the AP* Physics 1 Exam. * AP Physics 1 is a registered trademark of the College Board, which was not involved in the production of, and does not endorse, this product.",6779.0,1965.0,4.3,36.0
+Quantum Optics 1 : Single Photons,https://www.coursera.org/learn/quantum-optics-single-photon,Physical Science and Engineering,Physics and Astronomy,"Alain Aspect, Michel Brune","This course gives you access to basic tools and concepts to understand research articles and books on modern quantum optics. You will learn about quantization of light, formalism to describe quantum states of light without any classical analogue, and observables allowing one to demonstrate typical quantum properties of these states. These tools will be applied to the emblematic case of a one-photon wave packet, which behaves both as a particle and a wave. Wave-particle duality is a great quantum mystery in the  words of Richard Feynman. You will be able to fully appreciate real experiments demonstrating wave-particle duality for a single photon, and applications to quantum technologies based on single photon sources, which are now commercially available. The tools presented in this course will be widely used in our second quantum optics course, which will present more advanced topics such as entanglement, interaction of quantized light with matter, squeezed light, etc...
+
+So if you have a good knowledge in basic quantum mechanics and classical electromagnetism, but always wanted to know:
+•	how to go from classical electromagnetism to quantized radiation,
+•	how the concept of photon emerges,
+•	how a unified formalism is able to describe apparently contradictory behaviors observed in quantum optics labs,
+•	how creative physicists and engineers have invented totally new technologies based on quantum properties of light,
+then this course is for you.",21753.0,29828.0,4.8,269.0
+Quantum Optics 2 - Two photons and more,https://www.coursera.org/learn/quantum-optics-two-photons,Physical Science and Engineering,Physics and Astronomy,"Alain Aspect, Michel Brune","""Quantum Optics 1, Single photons"", allowed learners to be introduced to the basic principles of light quantization, and to the standard formalism of Quantum Optics. All the examples were taken in single photons phenomena, including applications to quantum technologies.
+
+In the same spirit, ""Quantum Optics 2, Two photons and more"", will allow learners to use the Quantum Optics formalism to  describe entangled photon, a unique feature at the root of the second quantum revolution and its applications to quantum technologies. Learners will also discover how the Quantum Optics formalism allows one to describe classical light, either coherent such as laser light, or incoherent such as thermal radiation. Using a many photons description, it is possible to derive the so-called Standard Quantum Limit (SQL), which applies to classical light, and to understand how new kinds of quantum states of light, such as squeezed states of light, allow one to beat the SQL, one of the achievements of quantum metrology. Several examples of Quantum Technologies based on entangled photons will be presented, firstly in quantum communication, in particular Quantum Teleportation and Quantum Cryptography. Quantum Computing and Quantum Simulation will also be presented, including some insights into the recently proposed Noisy Intermediate Scale Quantum (NISQ) computing, which raises a serious hope to demonstrate, in a near future, the actively searched quantum advantage, ie, the possibility to effect calculations exponentially faster than with classical computers.",5795.0,6510.0,4.9,89.0
+Spacecraft Dynamics Capstone: Mars Mission,https://www.coursera.org/learn/capstone-mars-mission,Physical Science and Engineering,Physics and Astronomy,Hanspeter Schaub,"The goal of this capstone spacecraft dynamics project is to employ the skills developed in the rigid body Kinematics, Kinetics and Control courses.  An exciting two-spacecraft mission to Mars is considered where a primary mother craft is in communication with a daughter vehicle in another orbit.  The challenges include determining the kinematics of the orbit frame and several desired reference frames, numerically simulating the attitude dynamics of the spacecraft in orbit, and implementing a feedback control that then drives different spacecraft body frames to a range of mission modes including sun pointing for power generation, nadir pointing for science gathering, mother spacecraft pointing for communication and data transfer.  Finally, an integrated mission simulation is developed that implements these attitude modes and explores the resulting autonomous closed-loop performance. 
+
+Tasks 1 and 2 use three-dimensional kinematics to create the mission related orbit simulation and the associated orbit frames.  The introductory step ensures the satellite is undergoing the correct motion, and that the orbit frame orientation relative to the planet is being properly evaluated.
+
+Tasks 3 through 5 create the required attitude reference frame for the three attitude pointing modes called sun-pointing, nadir-pointing and GMO-pointing.  The reference attitude frame is a critical component to ensure the feedback control drives the satellite to the desired orientation.  The control employed remains the same for all three pointing modes, but the performance is different because different attitude reference frames are employed.  
+
+Tasks 6 through 7 create simulation routines to first evaluate the attitude tracking error between a body-fixed frame and a particular reference frame of the current attitude mode.  Next the inertial attitude dynamics is evaluated through a numerical simulation to be able to numerically analyze the control performance.
+
+Tasks 8-11 simulate the closed-loop attitude performance for the three attitude modes.  Tasks 8 through 10 first simulate a single attitude at a time, while tasks 11 develops a comprehensive attitude mission simulation which considers the attitude modes switching autonomously as a function of the spacecraft location relative to the planet.",4259.0,1501.0,4.7,40.0
+Statistical Mechanics: Algorithms and Computations,https://www.coursera.org/learn/statistical-mechanics,Physical Science and Engineering,Physics and Astronomy,Werner Krauth,"In this course you will learn a whole lot of modern physics (classical and quantum) from basic computer programs that you will download, generalize, or write from scratch, discuss, and then hand in. Join in if you are curious (but not necessarily knowledgeable) about algorithms, and about the deep insights into science that you can obtain by the algorithmic approach.",34047.0,11955.0,4.8,255.0
+Strategies for winning. Meteorology in a round the world regatta,https://www.coursera.org/learn/meteorology,Physical Science and Engineering,Physics and Astronomy,Tomàs Molina,"In this course you can learn about the mechanics of global weather, the foundations of ocean meteorology, predictive modeling and how sailors receive data via satellite and use high-performance navigation software.
+
+This course looks at oceanic meteorology and climatology through the lens of the sport of sailing.
+
+You will gain a basic knowledge of meteorology needed by sailors to take part in a regatta such as the Barcelona World Race, the only double-handed, round the world regatta with no stops.
+
+You will learn about the strategies employed during a round the world regatta and how these are put to use on board the latest ocean racing yachts.",4534.0,4022.0,4.5,126.0
+Tesoros de la Física y sus Descubridores I,https://www.coursera.org/learn/tesoros-de-la-fisica,Physical Science and Engineering,Physics and Astronomy,Bernardo Gómez,"¿Sabes que viajamos por el espacio sobre el planeta Tierra que se traslada y gira muy rápido y no lo percibimos?
+
+¿O acaso, notas efectos de su movimiento?
+¿Cuál es nuestro lugar en el universo?
+¿Cómo funciona el universo? ... ¿Cuáles son sus leyes fundamentales?
+
+¡Preguntas, muchas preguntas! Con espíritu de descubridores nuestra curiosidad nos motiva a buscar respuestas, a explorar nuestro entorno, a entrar a lo desconocido y hallar nuevo conocimiento.
+
+Recibimos como verdaderos tesoros las contribuciones de quienes nos antecedieron en la aventura que es la ciencia, la física en particular. Asociamos estos tesoros a los científicos que los hallaron. Conociendo a los descubridores, los conocimientos de la física se tornan más humanos. Nos ubicamos en lo que era el pensamiento de sus contemporáneos para contrastar y reconocer lo extraordinario de sus logros innovadores, cómo impactaron en su momento, y luego tomando distancia, valoramos qué efecto han tenido como resultados notables, que trascienden su época y perduran hasta nosotros y tal vez hasta tiempos lejanos en el futuro.
+
+Con este curso para amantes de la ciencia, sin requisitos previos, adquieres una mejor imagen y perspectiva del universo, de su orden, del cosmos, formas de pensar, principios fundamentales para comprender mejor lo que existe, incluso para maravillarnos con nuestra propia existencia. 
+
+Objetivos de aprendizaje:
+•	Reconocer y nombrar cuáles han sido los más destacados descubrimientos en la comprensión del universo físico desde la revolución científica de los siglos XVI y XVII hasta el final del siglo XIX, y cómo se llegó a encontrar este conocimiento.
+•	Asociar los conocimientos de la física a los científicos quienes hicieron los descubrimientos, a la época y al pensamiento establecido en el entorno en que vivieron estos personajes.
+•	Identificar el impacto de los descubrimientos en la época de los científicos protagonistas, cuando hicieron sus contribuciones; y pensar críticamente sobre la trascendencia de este impacto hasta nuestros días.
+•	Formar y construir una imagen informada de lo maravilloso que es el universo físico, el cosmos del cual somos parte.
+•	Descubrir nuevas formas de pensar sobre el mundo a nuestro alrededor, reconociendo la belleza intrínseca de las leyes y principios físicos, que hacen posible nuestra existencia. 
+•	Encontrar la motivación para continuar enriqueciendo nuestro conocimiento sobre el universo físico, sobre la labor activa de los científicos en su investigación y sobre su impacto en nuestra vida cotidiana.
+
+Prerrequisitos:
+No hay requisitos previos especiales para este curso, aunque es de utilidad tener una formación escolar básica. Sólo necesitas una actitud positiva y disposición para adquirir nuevo conocimiento enriquecedor en la cultura, no por la utilidad inmediata de adquirir una nueva destreza práctica, sino… ¡simplemente por el gusto y el placer de conocer mejor el universo y las leyes físicas fundamentales, por las cuales es posible que nosotros los humanos existamos!
+
+Material suplementario:
+Todos los videos y textos que encontrarás han sido desarrollados por el profesor, especialmente para este curso. Los materiales complementarios utilizados son de dominio público que puedes consultar a través del Internet, como por ejemplo páginas web “abiertas” donde encontrarás resultados científicos de la NASA, del CERN, etc.",36115.0,17962.0,4.8,821.0
+The Diversity of Exoplanets,https://www.coursera.org/learn/exoplanets,Physical Science and Engineering,Physics and Astronomy,"Stéphane Udry, Michel Mayor, Didier Queloz, Francesco Pepe, Christophe Lovis, Damien Ségransan, François Bouchy, David Ehrenreich, Maxime Marmier","In this MOOC, you will have the opportunity to practice several methods of detection and characterisation of exoplanets. 
+
+You will discover their statistical properties and the current state of knowledge we have in this very recent field of research. You will also understand the limitations and biases of the different detection techniques.
+At the end of this MOOC, you will have a good general understanding of the methods of detection and characterisation of exoplanets and their atmosphere. You will also have a basic understanding of spectroscopy and light curve analysis.
+All this knowledge will help you to participate in and understand citizen science projects.
+
+The original version of the MOOC dates from 2014 and some of the content has been updated in 2020 to take into account the progress of research in the field.",,3739.0,,
+The Evolving Universe,https://www.coursera.org/learn/evolvinguniverse,Physical Science and Engineering,Physics and Astronomy,S. George Djorgovski,"This is an introductory astronomy survey class that covers our understanding of the physical universe and its major constituents, including planetary systems, stars, galaxies, black holes, quasars, larger structures, and the universe as a whole.",68666.0,25053.0,4.6,742.0
+The Science of the Solar System,https://www.coursera.org/learn/solar-system,Physical Science and Engineering,Physics and Astronomy,Mike Brown,"Learn about the science behind the current exploration of the solar system in this free class. Use principles from physics, chemistry, biology, and geology to understand the latest from Mars, comprehend the outer solar system, ponder planets outside our solar system, and search for habitability in our neighborhood and beyond. This course is generally taught at an advanced level assuming a prior knowledge of undergraduate math and physics, but the majority of the concepts and lectures can be understood without these prerequisites. The quizzes and final exam are designed to make you think critically about the material you have learned rather than to simply make you memorize facts. The class is expected to be challenging but rewarding.",62998.0,21836.0,4.8,718.0
+The Sun and the Total Eclipse of August 2017,https://www.coursera.org/learn/eclipse,Physical Science and Engineering,Physics and Astronomy,Douglas Duncan,"A total eclipse is one of the most spectacular sights you can ever see!  It looks like the end of the world may be at hand. There is a black hole in the sky where the sun should be. Pink flames of solar prominences and long silver streamers of the sun's corona stretch across the sky. It gets cold, and animals do strange things. People scream and shout and cheer, and remember the experience their whole life.  But total eclipses are important scientifically as well. They let us see parts of the sun’s atmosphere that are otherwise invisible. A total eclipse presented the first chance to test Einstein’s prediction that matter can bend space – like near a black hole. The best total eclipse in the United States in 40 years happens August 21st, 2017.  
+
+This course has two primary goals: 
+
+1) to get you excited for the total solar eclipse coming in August 2017 and prepare you and your community to safely view it 
+2) to provide an inviting overview of the science of the sun and the physics of light
+
+If you are most interested in preparing for the eclipse, you can hop right into Week 5! If you want the full course experience, and to get some fun scientific context for what you'll be seeing on August 21st, start with Week 1 and move through the course week by week!
+
+[Note: if you start with Week 1, you can skip through some of the repeated material once you get to Week 5.]
+
+Overall this course will prepare you to... 
+
+* Safely view the total or partial solar eclipse
+* Help others watch safely and even make money by leading a “neighborhood watch” of the eclipse
+* Review fundamental sun science, including the physics of light, how astronomers study the sun, how it formed, how we know what’s inside it, and where the energy that supports life on earth is generated",5137.0,,4.7,66.0
+Thermodynamique : applications,https://www.coursera.org/learn/thermo-apps,Physical Science and Engineering,Physics and Astronomy,"Jean-Philippe Ansermet, Michael Graetzel, Paul-Salomon Ngohe-Ekam, Miltiadis V. Papalexandris, Théophile Mbang, André Talla, Marthe Boyomo Onana, Sylvain Bréchet, Marwan Brouche, Etienne Robert, Chantal Maatouk","Ce cours complète le MOOC « Thermodynamique : fondements »  qui vous permettra de mettre en application les concepts fondamentaux de la thermodynamique. Pour atteindre cet objectif, le Professeur J.-Ph. Ansermet de l’Ecole Polytechnique Fédérale de Lausanne s’est entouré d’experts et de spécialistes des différents domaines d’application provenant de diverses institutions partenaires du réseau RESCIF. Vous pourrez ainsi voir l’usage de la thermodynamique en chimie, en ingénierie et en physique.
+
+L’objectif du cours est la compréhension et la capacité de mise en application des concepts fondamentaux de la thermodynamique. Après la présentation du premier et deuxième principe de la thermodynamique, l’exposé abordera les questions d’irréversibilité ainsi que les potentiels thermodynamiques. 
+
+Après l’établissement de ces bases conceptuelles qui font l’objet de la première partie, leurs applications à l’ingénierie tels que les transferts thermiques, la calorimétrie et les transitions de phases, seront traitées. Ensuite le point de vue de la chimie sera présenté pour aborder la conversion de l’énergie chimique en électricité. 
+
+Finalement, des sujets plus avancés sont abordés, à savoir les cycles thermodynamiques, les machines thermiques, les concepts de thermodynamique adaptés au milieu continu et finalement les processus irréversibles.
+
+Le professeur J.-Ph. Ansermet qui est l’instigateur de ce cours est entouré d’experts et de spécialistes des différents domaines d’application, enseignant la thermodynamique dans diverses institutions partenaires du réseau RESCIF. Ce sont : le Professeur Michael Grätzel et  le docteur Sylvain Brechet de l’EPFL,  les Professeurs Paul Ekam, Théophile Mband, Marthe Boyomo et André Talla de l’ENSP de Yaoundé, le professeur Miltiadis Papalexandris de UCL à Louvain, le Professeur Etienne Robert du Polytechnique de Montréal et le Professeur Marwan Brouche de l’Université St-Joseph de Beyrouth.",5399.0,4478.0,4.5,10.0
+Thermodynamique : fondements,https://www.coursera.org/learn/thermo-base,Physical Science and Engineering,Physics and Astronomy,"Jean-Philippe Ansermet, Paul-Salomon Ngohe-Ekam, Sylvain Bréchet","Ce cours vous apportera une compréhension des concepts fondamentaux de la thermodynamique du point de vue de la physique, de la chimie et de l’ingénierie. Il est scindé un deux MOOCs. Dans la première partie, le Professeur J.-Ph. Ansermet de l’EPFL et son collaborateur le Dr. Sylvain Bréchet ont rassemblé en quatre leçons tous les principes fondamentaux de la thermodynamique.  La deuxième partie du MOOC illustre l’approche thermodynamique par une série d’applications présentées par des spécialistes provenant de diverses institutions partenaires du réseau RESCIF. 
+
+L’objectif du cours est la compréhension et la capacité de mise en application des concepts fondamentaux de la thermodynamique. Après la présentation du premier et deuxième principe de la thermodynamique, l’exposé abordera les questions d’irréversibilité ainsi que les potentiels thermodynamiques. 
+
+Après l’établissement de ces bases conceptuelles, leurs applications à l’ingénierie tels que les transferts thermiques, la calorimétrie et les transitions de phases, seront traitées. Ensuite le point de vue de la chimie sera présenté pour aborder la conversion de l’énergie chimique en électricité. Finalement, des sujets plus avancés seront abordés, à savoir les cycles thermodynamiques, les machines thermiques, les concepts de thermodynamique adaptés au milieu continu et finalement les processus de transports.
+
+Le professeur J.-Ph. Ansermet qui est l’instigateur de ce cours s’est entouré d’experts et de spécialistes des différents domaines d’application enseignant la thermodynamique dans diverses institutions partenaires du réseau RESCIF, c’est à dire  le Professeur Michael Grätzel et  le docteur Sylvain Brechet de l’EPFL,  les Professeurs Paul Ekam, Théophile Mband, Marthe Boyomo et André Talla de l’ENSP de Yaoundé, le professeur Miltiadis Papalexandris de UCL à Louvain, le Professeur Etienne Robert du Polytechnique de Montréal,  les Professeurs Marwan Brouche et Chantal Maatouk de l’Université St-Joseph de Beyrouth.",10531.0,4053.0,4.6,44.0
+Transmission electron microscopy for materials science,https://www.coursera.org/learn/microscopy,Physical Science and Engineering,Physics and Astronomy,"Cécile Hébert, Duncan Alexander","Learn about the fundamentals of transmission electron microscopy in materials sciences: you will be able to understand papers where TEM has been used and have the necessary theoretical basis for taking a practical training on the TEM.
+
+This course provides a comprehensive introduction to transmission electron microscopy (TEM) in the field of materials science. For an instrument operated by a single user, modern TEM provides an analytical platform with unsurpassed versatility, giving access to structural and chemical information from the micrometer to the sub-angstrom scale. In a thin, electron-transparent sample one can measure the crystallinity, grain structure, size, and defects, and the chemical composition. The crystal lattice can be imaged with atomic resolution, allowing observation of grain boundaries and interfaces. It is the only direct structural analysis method for studying nanoparticles.
+ 
+With this course you will gain a deep understanding of modern TEM and the connection between: 
+-	the optics and operation of the instrument; 
+-	the physics of electron-matter interactions; 
+-	insights into the materials properties of the sample. 
+
+This gives the background to: 
+-	identify TEM techniques suitable to solving specific scientific problems; 
+-	interpret TEM data presented in articles; appreciate the impact of technological advances that have, for instance, led to sub-angstrom resolution by aberration correction. 
+It can also be the basis for subsequent practical training on this remarkable instrument, and a stepping stone towards  learning very advanced techniques with magical names like “dark field holography” or  “angular resolved electron energy-loss spectroscopy”. 
+
+Recommended background: 
+
+Basics of crystallography and diffraction, college optics (construction of ray diagrams) are absolutely mandatory prerequisites; Fourier optics, more advanced crystallography and solid state physics are of great advantage.",11718.0,21468.0,4.6,99.0
+Understanding Einstein: The Special Theory of Relativity,https://www.coursera.org/learn/einstein-relativity,Physical Science and Engineering,Physics and Astronomy,Larry Randles Lagerstrom,"In this course we will seek to “understand Einstein,” especially focusing on the special theory of relativity that Albert Einstein, as a twenty-six year old patent clerk, introduced in his “miracle year” of 1905. Our goal will be to go behind the myth-making and beyond the popularized presentations of relativity in order to gain a deeper understanding of both Einstein the person and the concepts, predictions, and strange paradoxes of his theory. Some of the questions we will address include: How did Einstein come up with his ideas? What was the nature of his genius? What is the meaning of relativity? What’s “special” about the special theory of relativity? Why did the theory initially seem to be dead on arrival? What does it mean to say that time is the “fourth dimension”? Can time actually run more slowly for one person than another, and the size of things change depending on their velocity? Is time travel possible, and if so, how? Why can’t things travel faster than the speed of light? Is it possible to travel to the center of the galaxy and return in one lifetime? Is there any evidence that definitively confirms the theory, or is it mainly speculation? Why didn’t Einstein win the Nobel Prize for the theory of relativity?
+
+About the instructor: Dr. Larry Lagerstrom is the Director of Academic Programs at Stanford University’s Center for Professional Development, which offers graduate certificates in subjects such as artificial intelligence, cyber security, data mining, nanotechnology, innovation, and management science. He holds degrees in physics, mathematics, and the history of science, has published a book and a TED Ed video on ""Young Einstein: From the Doxerl Affair to the Miracle Year,"" and has had over 30,000 students worldwide enroll in his online course on the special theory of relativity (this course!).",142760.0,86421.0,4.9,2817.0
+Understanding Modern Physics I: Relativity and Cosmology,https://www.coursera.org/learn/understanding-modern-physics-1-relativity-and-cosmology,Physical Science and Engineering,Physics and Astronomy,Yi Wang,"Course Overview: https://youtu.be/xyF-MmGNxd0
+
+The 20th century was known as the century of physics. In the past 120 years, concepts such as space, time, energy, entropy and particles were understood to much deeper levels. New paradigms of thinking such as relativity and quantum mechanics emerged. 
+
+This course is the first course in the Understanding Modern Physics series, which covers an introduction to special relativity, general relativity and cosmology. We will find: (i) How space and time are relative to observers, and unified into a more fundamental construction of spacetime; (ii) Why the spacetime is not absolute, but rather curves in response to matter, and how gravity emerge as a result of such spacetime curvature; and (iii) What is the framework to understand the evolution of the whole universe, and how that is related to problems such as the origin of space and matter, and the fate of our universe.
+
+Note: the videos with a (*) are optional. They provide complementary information but not in the learning objective or assignment questions. Feel free to choose to watch them or not.",6404.0,18578.0,4.7,66.0
+Understanding Modern Physics II: Quantum Mechanics and Atoms,https://www.coursera.org/learn/understanding-modern-physics-2-quantum-mechanics-and-atoms,Physical Science and Engineering,Physics and Astronomy,Yi Wang,"Course Overview: https://youtu.be/xyF-MmGNxd0
+
+The 20th century was known as the century of physics. In the past 120 years, concepts such as space, time, energy, entropy and particles were understood to much deeper levels. New paradigms of thinking such as relativity and quantum mechanics emerged. 
+
+This course is the second course in the Understanding Modern Physics series, which covers an introduction to quantum mechanics, atomic physics and quantum information. We will find (i) How the quantum world is different from our everyday experience, and why we need quantum mechanics; (ii) How to describe atoms in fundamental physics, why atoms do not collapse, and what are the atomic states; (iii) The nature of quantum information, and why quantum information is much richer than classical information.",3140.0,11807.0,4.6,22.0
+Understanding Modern Physics III: Simplicity and Complexity,https://www.coursera.org/learn/understanding-modern-physics-3-simplicity-and-complexity,Physical Science and Engineering,Physics and Astronomy,Yi Wang,"The 20th century was known as the century of physics. In the past 120 years, concepts such as space, time, energy, entropy and particles were understood to much deeper levels. New paradigms of thinking such as relativity and quantum mechanics emerged. 
+
+This course is the third course in the Understanding Modern Physics series, which covers an introduction to action principle, fundamental particle physics, entropy & information and complexity. This course offers a broad view between simplicity and complexity, to complement the first and second course in the Understanding Modern Physics series.",,2028.0,4.6,17.0
+Vers l'infiniment grand,https://www.coursera.org/learn/physique-deux-infinis-infiniment-grand,Physical Science and Engineering,Physics and Astronomy,"Sébastien Descotes-Genon, Olivier Drapier, Nicolas Arnaud, Philippe Schune","Partez à la découverte de l'infiniment grand, en compagnie de physiciens et de physiciennes qui vont vous faire découvrir l'Univers aux distances les plus grandes connues à ce jour et les outils scientifiques utilisés pour l'étudier. Vous comprendrez ce que les scientifiques ont pu apprendre sur l'histoire et la structure de l'Univers, ses composantes, et comment ils ont pu accumuler ces observations sur les étoiles, les galaxies, les amas de galaxies, et l'Univers dans son ensemble.
+
+Ce cours en français fait partie du MOOC ""Voyages de l'infiniment grand à l'infiniment petit"", conçus par des physiciens et des physiciennes du Labex P2IO (Physique des 2 Infinis et des Origines, IPP et Université Paris-Saclay) regroupant des laboratoires de physique de l'infiniment grand et de l'infiniment petit situés à Orsay et Saclay. Les différents parcours de ce MOOC vous montreront les connaissances et les énigmes de l'infiniment grand et de l'infiniment petit, les relations que ces deux infinis entretiennent, et les liens de ces découvertes avec la société :
+
+https://www.coursera.org/learn/physique-2-infinis-infiniment-petit
+https://www.coursera.org/learn/physique-2-infinis-infiniment-grand
+https://www.coursera.org/learn/physique-2-infinis-liens
+https://www.coursera.org/learn/physique-2-infinis-et-nous
+
+Le MOOC ""Voyages de l'infiniment grand à l'infiniment petit"" a été conçu avec le soutien financier du Labex P2IO (Physique des 2 Infinis et des Origines) présenté sur www.labex-p2io.fr (IPP et Université Paris-Saclay)",,,,
+Vers l'infiniment grand - Voyages de l'infiniment grand à l'infiniment petit,https://www.coursera.org/learn/physique-2-infinis-infiniment-grand,Physical Science and Engineering,Physics and Astronomy,"Sébastien Descotes-Genon, Olivier Drapier, Nicolas Arnaud, Philippe Schune","Partez à la découverte de l'infiniment grand, en compagnie de physiciens et de physiciennes qui vont vous faire découvrir l'Univers aux distances les plus grandes connues à ce jour et les outils scientifiques utilisés pour l'étudier. Vous comprendrez ce que les scientifiques ont pu apprendre sur l'histoire et la structure de l'Univers, ses composantes, et comment ils ont pu accumuler ces observations sur les étoiles, les galaxies, les amas de galaxies, et l'Univers dans son ensemble.
+
+Ce cours en français fait partie du MOOC ""Voyages de l'infiniment grand à l'infiniment petit"", conçus par des physiciens et des physiciennes du Labex P2IO (Physique des 2 Infinis et des Origines) regroupant des laboratoires de physique de l'infiniment grand et de l'infiniment petit situés à Orsay et Saclay. Les différents parcours de ce MOOC vous montreront les connaissances et les énigmes de l'infiniment grand et de l'infiniment petit, les relations que ces deux infinis entretiennent, et les liens de ces découvertes avec la société :
+
+https://www.coursera.org/learn/physique-2-infinis-infiniment-petit
+https://www.coursera.org/learn/physique-2-infinis-infiniment-grand
+https://www.coursera.org/learn/physique-2-infinis-liens
+https://www.coursera.org/learn/physique-2-infinis-et-nous
+
+Le MOOC ""Voyages de l'infiniment grand à l'infiniment petit"" a été conçu avec le soutien financier du Labex P2IO (Physique des 2 Infinis et des Origines) présenté sur www.labex-p2io.fr",,,4.8,44.0
+Vers l'infiniment petit,https://www.coursera.org/learn/infiniment-petit,Physical Science and Engineering,Physics and Astronomy,"Sébastien Descotes-Genon, Olivier Drapier, Nicolas Arnaud, Philippe Schune","Partez à la découverte de l'infiniment petit, en compagnie de physiciens et de physiciennes qui vont vous faire découvrir les secrets de la matière quand on l'étudie aux distances les plus courtes, aux énergies les plus élevées. Vous vous initierez aux progrès les plus récents de la recherche en physique nucléaire et de la physique des particules, et vous découvrirez les principes des accélérateurs et des détecteurs avec lesquels on a pu étudier la matière à ces échelles, pour arriver jusqu'à la découverte du boson de Higgs en 2012 auprès du collisionneur de particules du CERN, le LHC.
+
+Ce cours en français fait partie du MOOC ""Voyages de l'infiniment grand à l'infiniment petit"", conçus par des physiciens et des physiciennes du Labex P2IO (Physique des 2 Infinis et des Origines, IPP et Université Paris-Saclay) regroupant des laboratoires de physique de l'infiniment grand et de l'infiniment petit situés à Orsay et Saclay. Les différents parcours de ce MOOC vous montreront les connaissances et les énigmes de l'infiniment grand et de l'infiniment petit, les relations que ces deux infinis entretiennent, et les liens de ces découvertes avec la société :
+
+https://www.coursera.org/learn/physique-2-infinis-infiniment-petit
+https://www.coursera.org/learn/physique-2-infinis-infiniment-grand
+https://www.coursera.org/learn/physique-2-infinis-liens
+https://www.coursera.org/learn/physique-2-infinis-et-nous
+
+Le MOOC ""Voyages de l'infiniment grand à l'infiniment petit"" a été conçu avec le soutien financier du Labex P2IO (Physique des 2 Infinis et des Origines) présenté sur www.labex-p2io.fr (IPP et Université Paris-Saclay)",,,,
+Vers l'infiniment petit - Voyages de l'infiniment grand à l'infiniment petit,https://www.coursera.org/learn/physique-infiniment-petit,Physical Science and Engineering,Physics and Astronomy,"Sébastien Descotes-Genon, Olivier Drapier, Nicolas Arnaud, Philippe Schune","Partez à la découverte de l'infiniment petit, en compagnie de physiciens et de physiciennes qui vont vous faire découvrir les secrets de la matière quand on l'étudie aux distances les plus courtes, aux énergies les plus élevées. Vous vous initierez aux progrès les plus récents de la recherche en physique nucléaire et de la physique des particules, et vous découvrirez les principes des accélérateurs et des détecteurs avec lesquels on a pu étudier la matière à ces échelles, pour arriver jusqu'à la découverte du boson de Higgs en 2012 auprès du collisionneur de particules du CERN, le LHC.
+
+Ce cours en français fait partie du MOOC ""Voyages de l'infiniment grand à l'infiniment petit"", conçus par des physiciens et des physiciennes du Labex P2IO (Physique des 2 Infinis et des Origines) regroupant des laboratoires de physique de l'infiniment grand et de l'infiniment petit situés à Orsay et Saclay. Les différents parcours de ce MOOC vous montreront les connaissances et les énigmes de l'infiniment grand et de l'infiniment petit, les relations que ces deux infinis entretiennent, et les liens de ces découvertes avec la société :
+
+https://www.coursera.org/learn/physique-2-infinis-infiniment-petit
+https://www.coursera.org/learn/physique-2-infinis-infiniment-grand
+https://www.coursera.org/learn/physique-2-infinis-liens
+https://www.coursera.org/learn/physique-2-infinis-et-nous
+
+Le MOOC ""Voyages de l'infiniment grand à l'infiniment petit"" a été conçu avec le soutien financier du Labex P2IO (Physique des 2 Infinis et des Origines) présenté sur www.labex-p2io.fr",2308.0,,4.8,93.0
+基礎光學一 (Introduction to Optics (1)),https://www.coursera.org/learn/ji-chu-guang-xue,Physical Science and Engineering,Physics and Astronomy,朱士維,以深入淺出的概念說明日常生活與科學應用中常見的光學現象，特色在於大量的範例以及實驗展示。,9534.0,6657.0,4.7,69.0
+天文探秘,https://www.coursera.org/learn/tianwenxue,Physical Science and Engineering,Physics and Astronomy,"施勇, 谢懿, 陈鹏飞, 李向东, 周济林","大家好，欢迎来到《天文探秘》课堂。本课程主要简单介绍天文学的基本知识，包括宇宙和星系、引力和暗物质、太阳和太阳活动、恒星和致密星（黑洞）、以及系外行星 等多个领域和方面。通过本课程的学习，你能够系统地了解到很多不曾了解的事实，惊奇地发现许多令人惊叹的奥秘。
+
+本课程总共十周，由五位老师共同授课（各位老师均为相关领域的专家）、每人两周。课程以介绍基本知识为主，尽量避免复杂公式的推导和计算，所以难度不大，但知识点比较多。学习者通过观看视频学习，然后完成每周小测即可。最后总成绩即为每周小测成绩之和。
+
+《天文探秘》课程是一门难得的好课，期待大家的加入，让我们一起探索神秘的宇宙！",3644.0,3848.0,4.8,78.0
+普通物理學-電磁學、光學及近代物理 (General Physics (1)),https://www.coursera.org/learn/wuli,Physical Science and Engineering,Physics and Astronomy,朱士維,物理學是描述世上質量與能量交互作用的學問，在這門課中我們將為大家介紹近代物理對於世界的認識。我們會從電磁學出發，進展到光學，並進而說明近代物理對人類觀念的突破。,8266.0,5755.0,4.8,23.0
+电磁学上——恒定电场,https://www.coursera.org/learn/dianci,Physical Science and Engineering,Physics and Astronomy,Ms 王稼军   WangJiaJun,"电磁学是普通物理系列中最重要的基础课之一，是高等学校每一个理工科学生必修课程，本课程包括静电场、恒磁场、电磁感应、电磁介质、电路、麦克斯韦电磁场理论、电磁波等内容，首次系统地向学生介绍“场”的概念和处理“场”的方法，对学生今后学习和工作有深远的影响。本课程作为中国大学先修课（AP课程）向有志于学习物理及相关专业的学有余力的优秀中学生开放，培养学科兴趣，提高科学素养，打下扎实的物理基础。
+
+2014年9月以来《电磁学》已经两度上线开课，教学内容是按周上载，共有十三周课程。考虑到很多大学生和中学生不一定有条件按照我们原来按周上载课件的节奏学习，有的同学反映开始拉下了进度，后面就跟不上了，练习也是有时限的，过了时限就没法记录练习的成绩了。因此我们团队决定将原来上线的《电磁学》课程拆分成两个学习进程在on demand上线，在on demand上，我们将所有课程内容全部上载，没有教学时限，由学生自行安排学习时间和进度，自己完成课后练习，以便随时为需要的学生提供学习的资料和练习。练习题可以多次尝试，只是必须做对每个模块练习题的80%，才可以通过。又考虑到《电磁学》内容比较多，因此将原来十三周的教学内容分成两个学习阶段。《电磁学上》包含的内容是《大学物理通用教程》电磁学的前三章即静电场、导体和电介质以及直流电。这三部分内容属于恒定电场范畴，这些内容应该是深入学习电磁学的基础，在这部分课程结尾，设置了一个结业考试，相当于大学课程的期中考试。第二个学习进程《电磁学下》包含的内容是《大学物理通用教程》电磁学的后五章即恒磁场、磁介质，电磁感应、交流电和电磁场电磁波。建议大家学习了第一进程，通过了结业考试以后再进入第二学习进程《电磁学下》的学习。
+        本课程的课程是按照知识点设置模块，《电磁学上》包含5个模块，《电磁学下》包含6个模块。每个模块又包含几节课，每个模块结束有一个小测，同学们可以自我测试，没有时间限制，大家可以根据自己的需要和时间安排来自主学习，以免一步跟不上，步步跟不上，这对于学习我们这种理论性比较强的课是有利的，已经明白的可以跳过去，不清楚的可以重点学习。
+       《电磁学上》包含以下五个模块
+模块一      库仑定律和电场强度 
+模块二      高斯定理和环路定理
+模块三      导体与静电平衡
+模块四      电介质与电场能量
+模块五      直流电
+欢迎大家选课！",4388.0,8433.0,4.9,40.0
+电磁学下——恒磁场与时变电磁场,https://www.coursera.org/learn/dianci-2,Physical Science and Engineering,Physics and Astronomy,Ms 王稼军   WangJiaJun,"《电磁学下》是《电磁学》的第二学习进程，教学内容含恒磁场、磁介质，电磁感应、交流电和电磁场电磁波。虽然《电磁学下》内容比较多，但是处理场的基本方法大家已经熟悉和适应了，应该说，电磁学的前两章是整个电磁学的基础。建议大家学习了第一进程，通过了结业考试以后再进入第二学习进程《电磁学下》的学习。本课程的课程是按照知识点设置模块，《电磁学下》包含6个模块。每个模块又包含几节课，每个模块结束有一个小测，同学们可以自我测试，没有时间限制，大家可以根据自己的需要和时间安排来自主学习，以免一步跟不上，步步跟不上，这对于学习我们这种理论性比较强的课是有利的，已经明白的可以跳过去，不清楚的可以重点学习。
+
+教学大纲
+模块一      恒定磁场的基本规律
+模块二      磁力
+模块三      磁介质
+模块四      电磁感应
+模块五      交流电
+模块六      电磁场电磁波",2283.0,3721.0,5.0,15.0
+走进天文学,https://www.coursera.org/learn/intro-astronomy-nju,Physical Science and Engineering,Physics and Astronomy,"谢懿, 徐晓杰, 姜冰","人类的祖先靠知晓天文而掌握了生存之道。今天，天文学的发展已经深刻且深远地改变了人类对宇宙以及对自身在宇宙中位置的认识。
+
+本课程是一门面向大众开设的天文学入门介绍课程，旨在把天文学中最基本的概念和最前沿的发现用尽可能通俗易懂的语言呈现给大家，彰显出宇宙的美丽和魅力。本课程内容包括：最基本的天体运动和天球概念，天文学研究的基本原理和方法，望远镜的历史和最新发展，光谱学，恒星的性质与演化，宇宙组成和暗物质等。通过学习本课程，学习者可以初步掌握一些天文常识和基本概念，了解探索宇宙的方法，感受宇宙的奥妙。",1565.0,4590.0,4.8,139.0

@@ -1,0 +1,1082 @@
+name,url,category,subcategory,instructors,description,enrollment,views,rating,raters
+5G for Everyone,https://www.coursera.org/learn/5g-training-qualcomm,Physical Science and Engineering,Electrical Engineering,Nakul H. Navarange,"Take the next step in your career by gaining a greater understanding of 5G technology and how it is changing the way we operate both personally and professionally. Learn how 5G is revolutionizing the business world and begin to understand how 5G can benefit your business by helping you meet your ever-evolving needs. You do not need any prior knowledge of 5G or other wireless technology to take this course.
+
+WHY TAKE THIS COURSE?
+- Understand what 5G technology is, the endless possibilities it offers, and how you can leverage it to enhance business strategy.
+- Receive 5G training from engineers at Qualcomm Technologies – a world leader in 5G tech and wireless communication.
+- Receive a Qualcomm-branded certificate of completion that may help you get that next job or promotion.
+
+COURSE OUTLINE:
+- Overview of wireless and cellular communications.
+- Overview of the 5G NR vision.
+- Introduction to 5G networks and features.
+- Discuss 5G spectrum and mmWave.
+- Learn about Massive MIMO and its impact on wireless technology.
+- Discuss the evolution of the 5G radio access network (RAN).
+- Dive into 5G private networks and industrial IoT.
+- Overview of 5G security.",7405.0,89555.0,4.8,149.0
+Analizar e incrementar - Parte 1,https://www.coursera.org/learn/analizar-e-incrementar-p1,Physical Science and Engineering,Electrical Engineering,"Mohammad Reza Azarang Esfandiari, Edgardo Jorge Escalante Vázquez ","Es en esta fase ANALIZAR es donde se aplican una serie de técnicas tanto de Seis Sigma como de Lean para realizar un análisis profundo del proceso con la finalidad de determinar los factores significativos que influyen en el comportamiento del mismo y usarlos para obtener un mejor nivel de desempeño.
+
+Los objetivos del curso son los siguientes:
+
+➤ Aprender a realizar un análisis profundo de su proceso.
+➤ Distinguir algunas técnicas estadísticas de Seis Sigma para determinar factores significativos de su proceso.
+➤ Conocer algunas técnicas de Lean para determinar puntos críticos de su proceso.",,2840.0,,
+Análisis de Sistemas Eléctricos y Transición Energética,https://www.coursera.org/learn/analisis-sistemas-electricos-y-transicion-energetica,Physical Science and Engineering,Electrical Engineering,"Gustavo Andrés Ramos López, Paulo Manuel De Oliveira De Jesús, Mario Alberto Ríos Mesías","En nuestra sociedad, nos hemos fijado metas que permitan reducir nuestra dependencia de recursos energéticos no renovables, en especial de los combustibles fósiles. Por lo tanto, se han planteado incentivos hacia lo que se denomina transición energética. En el ámbito del sector eléctrico, esa transición se ha centrado principalmente en la integración de fuentes no convencionales de energías renovables (FNCER) como la energía solar y eólica, así como el almacenamiento de esta en baterías, además de promover el desarrollo de la movilidad eléctrica.  Es importante tener en cuenta que en la medida que aumenta la integración de las FNCER se debe reconocer los posibles impactos en la operación del sistema de potencia. Estos impactos se podrán establecer con las técnicas analíticas de los sistemas de potencia. 
+
+En este curso queremos brindarle un panorama del análisis de los sistemas eléctricos de potencia teniendo en cuenta la transición energética en la cadena de valor del sector eléctrico: generación, transmisión, distribución y uso final de la energía eléctrica. Este panorama te permitirá entender los impactos de la transición energética en los sistemas de potencia, y la manera como se pueden formalizar desde las técnicas de análisis de sistemas de potencia.  
+
+El curso provee conceptos y técnicas de análisis de manera práctica, de fácil uso y apropiación, para que se aprenda sobre el rol de los ingenieros de sistemas de potencia que afrontan la transición energética, e identifiquen, además, las oportunidades de formación y desarrollo profesional en el sector energético, y, en particular, en la interesante área de los sistemas eléctricos de potencia.   
+
+Adicionalmente, el curso propone realizar una evaluación al final de cada módulo que le permitirá revisar los aprendizajes con las realimentaciones registradas en la plataforma, de manera que se pueda continuar progresando al conectarse nuevamente; en el caso de que decida optar por el certificado entregado por la Universidad de los Andes.",,9756.0,,
+Análisis estático lineal y no lineal de estructuras,https://www.coursera.org/learn/analisis-estatico-lineal-nolineal-estructuras,Physical Science and Engineering,Electrical Engineering,Juan Carlos Reyes Ortiz,"Este curso busca reforzar y ampliar los conceptos básicos del análisis lineal estático presentados en cursos de pregrado en ingeniería civil, y estudiar métodos no lineales estáticos para el análisis de estructuras más complejas. 
+
+Al final del curso, el estudiante estará en capacidad de, primero, analizar estructuras complejas que presenten comportamiento lineal o no lineal cuando son sometidas a cargas estáticas. Segundo, desarrollar programas en Python para conducir los análisis de estructuras sencillas. Tercero, manejar a nivel básico la plataforma Opensees e interpretar correctamente los resultados e implicaciones de los análisis realizados. 
+
+El curso está compuesto de cinco módulos. En los dos primeros se abordarán análisis lineales, y en los siguientes análisis incluyendo no linealidades geométricas y del material. Este curso exige la utilización intensiva de los programas de computador Python y Opensees. Se tendrán disponibles tutoriales sobre el uso de estos programas. La evaluación del curso se hará mediante la solución de problemas cerrados y un proyecto integrador de todos los conceptos.",,7620.0,,
+Approximation Methods,https://www.coursera.org/learn/approximation-methods,Physical Science and Engineering,Electrical Engineering,Wounjhang Park,"This course can also be taken for academic credit as ECEA 5612, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This course teaches commonly used approximation methods in quantum mechanics. They include time-independent perturbation theory, time-dependent perturbation theory, tight binding method, variational method and the use of finite basis set. In each case, a specific example is given to clearly show how the method works. 
+
+At the end of this course learners will be able to:
+1. use time-dependent perturbation theory to obtain first- and second -order corrections to energies and wavefunctions,
+2. use time-dependent perturbation theory and obtain transition rates, and
+3. use tight binding method, variational method and finite basis set to obtain approximate solutions of various quantum mechanics problems.",,3249.0,,
+Automating Image Processing,https://www.coursera.org/learn/automating-image-processing,Physical Science and Engineering,Electrical Engineering,"Amanda  Wang, Matt Rich, Brandon Armstrong, Megan Thompson, Isaac Bruss, Sam Jones","In this course, you will build on the skills acquired in Image Segmentation, Filtering, and Region Analysis to explore large sets of images and video files. It’s impractical to manually inspect results in large data sets. Automating image processing allows you to do your work more efficiently. 
+
+At the end of this course, you’ll apply all the skills learned in this specialization to a final project. You’ll take the role of an engineer being asked to monitor traffic on a busy road. You’ll detect cars from a noisy video and analyze the results.
+
+You will use MATLAB throughout this course.  MATLAB is the go-to choice for millions of people working in engineering and science, and provides the capabilities you need to accomplish your image processing tasks.  You will be provided with free access to MATLAB for the duration of the course to complete your work.
+
+To be successful in this course you should have a background in basic math and some exposure to MATLAB. If you want to familiarize yourself with MATLAB check out the free, two-hour MATLAB Onramp. Experience with image processing is not required.",,6249.0,,
+Averaged-Switch Modeling and Simulation,https://www.coursera.org/learn/averagedswitchmodelingandsimulation,Physical Science and Engineering,Electrical Engineering,Dr. Dragan Maksimovic,"This course can also be taken for academic credit as ECEA 5705, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This is Course #1 in the Modeling and Control of Power Electronics course sequence. The course is focused on practical design-oriented modeling and control of pulse-width modulated switched mode power converters using analytical and simulation tools in time and frequency domains. A design-oriented analysis technique known as the Middlebrook's feedback theorem is introduced and applied to analysis and design of voltage regulators and other feedback circuits. Furthermore, it is shown how circuit averaging and averaged-switch modeling techniques lead to converter averaged models suitable for hand analysis, computer-aided analysis, and simulations of converters. After completion of this course, the student will be able to practice design of high-performance control loops around switched-mode power converters using analytical and simulation techniques. 
+
+We strongly recommend students complete the CU Boulder Power Electronics specialization before enrolling in this course (course numbers provided for students in CU Boulder's MS-EE program):
+ 
+● Introduction to Power Electronics (ECEA 5700)
+● Converter Circuits (ECEA 5701)
+● Converter Control (ECEA 5702)
+
+After completing this course, you will be able to:
+
+● Explain operation and modeling of switched-mode power converters
+● Model open-loop transfer functions and frequency responses
+● Design closed-loop regulated switched-mode power converters
+● Verify operation of switched-mode power converters by simulations
+● Understand the Feedback Theorem principles
+● Apply the Feedback Theorem to practical design examples
+● Derive averaged switch models of and averaged circuit models of power converters
+● Apply averaged-switch modeling techniques to analysis and design and simulations of power converters",5583.0,11852.0,4.7,66.0
+Battery Pack Balancing and Power Estimation,https://www.coursera.org/learn/battery-pack-balancing-power-estimation,Physical Science and Engineering,Electrical Engineering,Gregory Plett,"This course can also be taken for academic credit as ECEA 5734, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+In this course, you will learn how to design balancing systems and to compute remaining energy and available power for a battery pack. By the end of the course, you will be able to:
+-	Evaluate different design choices for cell balancing and articulate their relative merits
+-	Design component values for a simple passive balancing circuit
+-	Use provided Octave/MATLAB simulation tools to evaluate how quickly a battery pack must be balanced
+-	Compute remaining energy and available power using a simple cell model
+-	Use provided Octave/MATLAB script to compute available power using a comprehensive equivalent-circuit cell model",8807.0,13938.0,4.9,82.0
+Battery State-of-Charge (SOC) Estimation,https://www.coursera.org/learn/battery-state-of-charge,Physical Science and Engineering,Electrical Engineering,Gregory Plett,"This course can also be taken for academic credit as ECEA 5732, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+In this course, you will learn how to implement different state-of-charge estimation methods and to evaluate their relative merits. By the end of the course, you will be able to:
+
+-	Implement simple voltage-based and current-based state-of-charge estimators and understand their limitations
+-	Explain the purpose of each step in the sequential-probabilistic-inference solution
+-	Execute provided Octave/MATLAB script for a linear Kalman filter and evaluate results
+-	Execute provided Octave/MATLAB script for state-of-charge estimation using an extended Kalman filter on lab-test data and evaluate results
+-	Execute provided Octave/MATLAB script for state-of-charge estimation using a sigma-point Kalman filter on lab-test data and evaluate results
+-	Implement method to detect and discard faulty voltage-sensor measurements",12680.0,41136.0,4.8,160.0
+Battery State-of-Health (SOH) Estimation,https://www.coursera.org/learn/battery-state-of-health,Physical Science and Engineering,Electrical Engineering,Gregory Plett,"This course can also be taken for academic credit as ECEA 5733, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+In this course, you will learn how to implement different state-of-health estimation methods and to evaluate their relative merits. By the end of the course, you will be able to:
+-	Identify the primary degradation mechanisms that occur in lithium-ion cells and understand how they work
+-	Execute provided Octave/MATLAB script to estimate total capacity using WLS, WTLS, and AWTLS methods and lab-test data, and to evaluate results
+-	Compute confidence intervals on total-capacity estimates 
+-	Compute estimates of a cell’s equivalent-series resistance using lab-test data
+-	Specify the tradeoffs between joint and dual estimation of state and parameters, and steps that must be taken to ensure robust estimates (honors)",9354.0,32910.0,4.7,93.0
+"Beauty, Form & Function: An Exploration of Symmetry",https://www.coursera.org/learn/symmetry2021,Physical Science and Engineering,Electrical Engineering,"Tim White, Jiang Shuo","Symmetry is everywhere. In the grand scheme of things it is the blueprint by which the universe operates. We see symmetry in nature, art, architecture, science and engineering. This course explores the Beauty, Form and Function of Symmetry in common objects, then progresses to investigate tiling and tessellation, with the extension of these concepts to the atomic structure of crystals.
+
+To amplify these ideas, you will undertake field-exercises and be introduced to specialists – botanists, artists, geomancers, historians, scientists and engineers - that work with symmetry, and who will provide their personal insights into its ‘magic’ and impact on their disciplines.",,4044.0,,
+Beginning Custom Projects with Raspberry Pi,https://www.coursera.org/learn/beginning-custom-projects-with-raspberry-pi,Physical Science and Engineering,Electrical Engineering,Drew Wilson,"In this course you will use a Raspberry Pi 4 to build a complete network-connected project with sensors and motors and access it from your smartphone. We'll explore all the parts which make this work, so you can use this experience as a foundation for your own projects. We'll use the Raspberry Pi as an ""embedded system"" (as opposed to a desktop computer) so you're ready to build a Raspberry Pi into your projects as the brains that make it all work. Want to build your own Internet of Things (IoT) device? Home automation? Robotics? This is the class to learn how it all works, to get you building on your own. No experience in embedded systems, programming, or electronics is assumed, and optional bonus sections are provided for those who want a fast start in Python programming, Linux essentials, and basic electronics. The course is divided into four modules to explore each focus area with demontrations and extras along the way: 1) installing and configuring a Raspberry Pi, 2) accessing the Raspberry Pi over the network, 3) programmatically controlling external sensors and motors, and 4) accessing the embedded device through a web interface. After these four modules you'll get started building your own projects right away, and the three follow-on courses in this Coursera specialization dive into each area to really boost your skills and the complexity of your projects. I hope you enjoy all the courses and I hope you take your builds to the next level.",,3375.0,,
+Circuitos con SPICE: Análisis en el tiempo y la frecuencia,https://www.coursera.org/learn/circuitos-spicey-2,Physical Science and Engineering,Electrical Engineering,Angel Abusleme,"Los circuitos eléctricos han respaldado el desarrollo científico y tecnológico de la humanidad, ostentando un rol clave en los últimos 50 años. Nos admiramos de la capacidad del ser humano de diseñar circuitos integrados que contienen millones de transistores y que nos permiten procesar con gran precisión las señales más débiles provenientes de las antenas de telefonía celular, de las neuronas del cerebro, de una cámara digital, o de la carga depositada por partículas subatómicas que colisionan en el Gran Colisionador de Hadrones en Suiza.
+
+Puede parecer un completo misterio un circuito eléctrico cuando lo observamos por primera vez y este tiene muchos componentes con diferentes conexiones y símbolos, pareciendo ser muy complejo el comprender como funciona este circuito o qué función realizan algunos componentes. Sin embargo, no son pocas las herramientas que podemos aprender para analizar circuitos eléctricos y deducir el funcionamiento de estos con sus componentes, lo cual nos ayuda al mismo tiempo a comprender cómo diseñar más de estos circuitos con requerimientos específicos. Circuitos aliñados con SPICE 2: Análisis de circuitos eléctricos en el tiempo y la frecuencia"", nos introduce al mundo de los circuitos eléctricos empezando con los fundamentos del análisis de circuitos tales como el método de nodos, el método de mallas, los equivalentes de Thévenin y Norton. Luego nos introduciremos a los circuitos de primer y segundo orden, que analizaremos tanto en el dominio del tiempo como en el dominio de la frecuencia que describirán su comportamiento para señales de diferentes frecuencias. Las videolecciones acompañadas de pequeños cuestionarios te ayudarán a reforzar tu aprendizaje en cuanto a la comprensión del funcionamiento y análisis de los circuitos eléctricos.",,3328.0,,
+Circuitos con SPICE: Fundamentos de los circuitos eléctricos,https://www.coursera.org/learn/circuitos-spicey-1,Physical Science and Engineering,Electrical Engineering,Angel Abusleme,"Los circuitos eléctricos han respaldado el desarrollo científico y tecnológico de la humanidad, ostentando un rol clave en los últimos 50 años. Nos admiramos de la capacidad del ser humano de diseñar circuitos integrados que contienen millones de transistores y que nos permiten procesar con gran precisión las señales más débiles provenientes de las antenas de telefonía celular, de las neuronas del cerebro, de una cámara digital, o de la carga depositada por partículas subatómicas que colisionan en el Gran Colisionador de Hadrones en Suiza.
+
+Puede parecer un completo misterio un circuito eléctrico cuando lo observamos por primera vez y este tiene muchos componentes con diferentes conexiones y símbolos, pareciendo ser muy complejo el comprender como funciona este circuito o qué función realizan algunos componentes. Sin embargo, no son pocas las herramientas que podemos aprender para analizar circuitos eléctricos y deducir el funcionamiento de estos con sus componentes, lo cual nos ayuda al mismo tiempo a comprender cómo diseñar más de estos circuitos con requerimientos específicos. Este es el primer curso de una serie de tres , que nos introduce al mundo de los circuitos eléctricos empezando con los conceptos de corriente, voltaje y potencia, siguiendo con la presentación de SPICE como una valiosa herramienta para simular y analizar circuitos. Además, aprenderemos las leyes fundamentales que nos serán muy importantes para introducirnos después al analizar de circuitos eléctricos.",,4401.0,,
+Circuitos con SPICE: Sistemas trifásicos y análisis avanzado,https://www.coursera.org/learn/circuitos-spicey-3,Physical Science and Engineering,Electrical Engineering,Angel Abusleme,"Los circuitos eléctricos han respaldado el desarrollo científico y tecnológico de la humanidad, ostentando un rol clave en los últimos 50 años. Nos admiramos de la capacidad del ser humano de diseñar circuitos integrados que contienen millones de transistores y que nos permiten procesar con gran precisión las señales más débiles provenientes de las antenas de telefonía celular, de las neuronas del cerebro, de una cámara digital, o de la carga depositada por partículas subatómicas que colisionan en el Gran Colisionador de Hadrones en Suiza.
+
+Puede parecer un completo misterio un circuito eléctrico cuando lo observamos por primera vez y este tiene muchos componentes con diferentes conexiones y símbolos, pareciendo ser muy complejo el comprender como funciona este circuito o qué función realizan algunos componentes. Sin embargo, no son pocas las herramientas que podemos aprender para analizar circuitos eléctricos y deducir el funcionamiento de estos con sus componentes, lo cual nos ayuda al mismo tiempo a comprender cómo diseñar más de estos circuitos con requerimientos específicos. ""Circuitos aliñados con SPICE 3: Sistemas trifásicos y técnicas avanzadas de análisis"", el tercer y último curso de una serie de tres MOOCs, nos introduce al mundo de los circuitos eléctricos empezando con circuitos con transformadores y sistemas trifásicos, circuitos con amplificadores operacionales y técnicas de análisis más complejas como el Teorema del Elemento Extra.",,,,
+Communications and High-Speed Signals with Raspberry Pi,https://www.coursera.org/learn/communications-and-high-speed-signals-with-raspberry-pi,Physical Science and Engineering,Electrical Engineering,Drew Wilson,"Course two of this specialization is all about hardware physical layer and communication between elements of your project, how to troubleshoot high-speed signals when they don't work, and how to design your projects so they do work. 
+
+We start with a review of common signal protocols available . Then, to build a deep and intuitive understanding of how circuits send and receive these signals, Module 2 explores the physics of high-frequency signals in an easy-to-follow way. 
+
+Module 3 flips your thinking from the time-domain to the frequency-domain to examine the frequency components of signals and understand how unintended filtering in your circuits distorts your digital waveforms. These are ""signal integrity"" concepts, distilled to what you need for your Raspberry Pi projects. 
+
+Now, with our knowledge of signals, Module 4 develops five rules of thumb for designing your circuits so that your high-speed signals work the first time. These five rules of thumb, combined with the experience from earlier modules, help you estimate spectral bandwidth of signals, rise time, and gain insights whether you're troubleshooting a broken design or designing something new.",,1503.0,,
+Comprendre les Microcontroleurs,https://www.coursera.org/learn/microcontroleurs,Physical Science and Engineering,Electrical Engineering,"Jean-Daniel Nicoud, Pierre-Yves Rochat","Ce cours donne les bases théoriques et pratiques nécessaires à une bonne compréhension et utilisation des microcontrôleurs. De nombreux exemples seront abordés. Des exercices seront proposés, compatibles avec les cartes à microcontrôleurs Arduino ou LaunchPad MSP430G.",11822.0,13236.0,4.6,96.0
+Computer Architecture,https://www.coursera.org/learn/comparch,Physical Science and Engineering,Electrical Engineering,David Wentzlaff ,"In this course, you will learn to design the computer architecture of complex modern microprocessors.
+
+All the features of this course are available for free.  It does not offer a certificate upon completion.",202728.0,133351.0,4.8,1964.0
+Control automático: La tecnología invisible,https://www.coursera.org/learn/control-automatico,Physical Science and Engineering,Electrical Engineering,"Dr. Paul Rolando Maya Ortiz , Marco Antonio Arteaga Pérez, Marcos Ángel González Olvera","A lo largo de la historia, el ser humano se ha empeñado en construir dispositivos que le hagan más cómodo su día a día. Además, siempre ha estado interesado en que éstos lleven a cabo la tarea por sí mismos, sin necesidad de una supervisión continua. En nuestros días, muchos dispositivos llevan a cabo tareas como por arte de magia; pareciera que piensan o que adivinan nuestros deseos, que nunca se pueden equivocar o que su precisión y velocidad no puede ser superada. Los sistemas de control son una parte crucial de este funcionamiento. 
+
+Con este curso, los participantes conocerán la aplicación de los sistemas de control y algunos ejemplos de ellos. Además, revisarán a grandes rasgos sus características básicas y sus diferentes representaciones, con especial énfasis en el modelado matemático.
+
+Al término del curso:
+Identificarás la utilidad y las características principales de los sistemas de control.
+Distinguirás entre un sistema de control en lazo abierto y un sistema de control en lazo cerrado.",18129.0,6054.0,4.7,339.0
+Controle Usando a Resposta em Frequência,https://www.coursera.org/learn/resposta-frequencia,Physical Science and Engineering,Electrical Engineering,"Rubens Junqueira Magalhães Afonso, Jackson Paul Matsuura","Neste curso você aprenderá a obter  a resposta em frequência de um sistema Linear e Invariante no Tempo (LIT) e a usá-la para projetar controladores que atinjam requisitos de reposta transitória e em regime estacionário. Você aprenderá a obter o diagrama de Bode a partir de dados de amplitude e fase de entradas e saídas senoidais. Também será capaz de esboçar o diagrama de Bode de um sistema dada a sua função de transferência. Outrossim, será capaz de representar a resposta em frequência na carta de Nichols-Black.
+
+A fim de se determinar a estabilidade do sistema, você aprenderá a aplicar o critério de Nyquist, que faz uso da resposta em frequência em malha aberta e permite determinar se um sistema será estável em malha fechada.
+Ao fim do curso, você será capaz de projetar controladores com dinâmica, isto é, com polos e zeros, portanto mais complexos do que um simples ganho de realimentação. Essa flexibilidade permitirá que você projete controladores para satisfazer simultaneamente requisitos de sobressinal e tempo de resposta que seriam impossíveis de atender com um simples ganho. Também poderá com isso alterar as características da resposta em regime estacionário, aumentando as constantes de erro sem alterar (muito) a resposta transitória.
+Por fim, você aprenderá a projetar controladores do tipo PD, PI e PID, que estão entre os mais disseminados em aplicações de engenharia de controle.",11636.0,2726.0,4.3,140.0
+Controle a Tempo Discreto,https://www.coursera.org/learn/controle-tempo-discreto,Physical Science and Engineering,Electrical Engineering,"Rubens Junqueira Magalhães Afonso, Jackson Paul Matsuura","O objetivo deste curso é apresentar o assunto de Controle a Tempo Discreto para sistemas lineares e invariantes no tempo. São apresentadas técnicas para lidar com implementação de controladores por computador, requerendo a consideração da discretização do tempo inerente aos seu uso. A importância dos conhecimentos apresentados nesse curso se justifica pela onipresença de controladores digitais em aplicações atualmente.
+
+O curso é dividido em 4 módulos, resumidamente:
+1) Apresentação de modelos para sistemas operando a tempo discreto e critérios para avaliar sua estabilidade.
+2) Formas de discretizar aproximadamente uma função de transferência a tempo contínuo e estimação do efeito da discretização na resposta do sistema.
+3) Projeto do controlador diretamente em tempo discreto, usando duas abordagens: resposta em frequência e Lugar Geométrico das Raízes (LGR).
+4) Projeto do controlador diretamente em tempo discreto, usando o espaço de estados.
+Ao longo do curso, ferramentas computacionais de projeto de controladores auxiliado por computador são usadas para ilustrar a aplicação das técnicas através de exemplos. Apesar de ser possível concluir o curso prescindindo dessas ferramentas, seu uso é recomendado por dois motivos: facilidade de realizar as operações mais tediosas, liberando mais tempo para focar no conteúdo, e aproximação com o que é feito na prática de projetos no âmbito de atuação do(a) profissional.
+Ao final desse curso, o(a) aluno(a) deve ser capaz de adaptar criteriosamente um projeto de controlador feito a tempo contínuo para aplicação em sistemas controlador por computador digital e projetar diretamente um controlador a tempo discreto para o mesmo uso.",1508.0,1554.0,,
+Controle de Sistemas no Plano-s,https://www.coursera.org/learn/controle-s,Physical Science and Engineering,Electrical Engineering,"Jackson Paul Matsuura, Rubens Junqueira Magalhães Afonso","Após esse curso você será capaz de esboçar o Lugar Geométrico das Raízes (LGR - Root Locus) do denominador da Função de Transferência em Malha Fechada a partir dos polos e zeros da Função de Transferência em Malha aberta.
+
+Você também será capaz de projetar controladores de avanço de fase para atender simultaneamente requisitos de desempenho de amortecimento e de velocidade da resposta. Você também será capaz de projetar controladores de atraso de fase para atender requisitos de erro em regime permanente sem alterar as características de estabilidade e da resposta transitória do sistema. Você verá que os controladores PD e PI podem ser considerados como casos especiais dos controladores de avanço e de atraso de fase e verá também que você pode combinar os dois tipos de controladores em controladores de avanço e atraso de fase ou em controladores PID.
+Por fim você será capaz de modelar o efeito do atraso de transporte em um sistema com realimentação e de contrapor esse efeito projetando um controlador ou fazendo ajustes em um controlador já projetado.
+Desso modo dado um sistema linear e invariante no tempo e requisitos de amortecimento, velocidade e erro em regime permanente você será capaz de projetar um controlador que fará com que o sistema em malha fechada atenda simultaneamente a esses três tipos de requisitos.
+E você aprenderá tudo isso usando o MATLAB, uma ferramenta computacional extremamente útil para a análise, projeto e simulação de sistemas.",5237.0,2367.0,4.8,86.0
+Converter Circuits,https://www.coursera.org/learn/converter-circuits,Physical Science and Engineering,Electrical Engineering,Dr. Robert Erickson,"This course can also be taken for academic credit as ECEA 5701, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This course introduces more advanced concepts of switched-mode converter circuits. Realization of the power semiconductors in inverters or in converters having bidirectional power flow is explained. Power diodes, power MOSFETs, and IGBTs are explained, along with the origins of their switching times. Equivalent circuit models are refined to include the effects of switching loss. The discontinuous conduction mode is described and analyzed. A number of well-known converter circuit topologies are explored, including those with transformer isolation.
+
+The homework assignments include a boost converter and an H-bridge inverter used in a grid-interfaced solar inverter system, as well as transformer-isolated forward and flyback converters.
+
+After completing this course, you will:
+●  Understand how to implement the power semiconductor devices in a switching converter
+●  Understand the origins of the discontinuous conduction mode and be able to solve converters operating in DCM
+●  Understand the basic dc-dc converter and dc-ac inverter circuits
+●  Understand how to implement transformer isolation in a dc-dc converter, including the popular forward and flyback converter topologies
+
+Completion of the first course Introduction to Power Electronics is the assumed prerequisite for this course.",38066.0,166977.0,4.8,1031.0
+Converter Control,https://www.coursera.org/learn/converter-control,Physical Science and Engineering,Electrical Engineering,Dr. Robert Erickson,"This course can also be taken for academic credit as ECEA 5702, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This course teaches how to design a feedback system to control a switching converter. The equivalent circuit models derived in the previous courses are extended to model small-signal ac variations. These models are then solved, to find the important transfer functions of the converter and its regulator system. Finally, the feedback loop is modeled, analyzed, and designed to meet requirements such as output regulation, bandwidth and transient response, and rejection of disturbances.
+
+Upon completion of this course, you will be able to design and analyze the feedback systems of switching regulators.
+
+This course assumes prior completion of courses Introduction to Power Electronics and Converter Circuits.",24028.0,21504.0,4.8,595.0
+Current-Mode Control,https://www.coursera.org/learn/current-modecontrol,Physical Science and Engineering,Electrical Engineering,Dr. Dragan Maksimovic,"This course can also be taken for academic credit as ECEA 5708, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This is Course #4 in the Modeling and Control of Power Electronics course sequence. The course is focused on current-mode control techniques, which are very frequently applied in practical realizations of switched-mode. Practical advantages of peak current mode control are discussed, including built-in overcurrent protection, simpler and more robust dynamic responses, as well as abilities to ensure current sharing in parallel connected converter modules. For peak current-mode controlled converters, slope compensation, and high-frequency effects are discussed in detail. Upon completion of the course, you will be able to understand, analyze, model, and design high-performance current-mode controllers for dc-dc power converters, including peak current-mode controllers and average current-mode controllers. 
+
+We strongly recommend students complete the CU Boulder Power Electronics specialization as well as Course #1 (Averaged-Switch Modeling and Simulation) before enrolling in this course (the course numbers provided below are for students in the CU Boulder's MS-EE program):
+ 
+● Introduction to Power Electronics (ECEA 5700)
+● Converter Circuits (ECEA 5701)
+● Converter Control (ECEA 5702)
+● Averaged-Switch Modeling and Simulation (ECEA 5705)
+
+After completing this course, you will be able to:
+
+● Understand the operating principles and benefits of current-mode control for dc-dc converters 
+● Model and design peak current-mode controlled dc-dc converters 
+● Model and design average current-mode controlled dc-dc converters 
+● Use computer-aided tools and simulations to verify current-mode controlled dc-dc converters",2561.0,12023.0,4.9,12.0
+Cómo autoconstruir tu vivienda. Segunda etapa,https://www.coursera.org/learn/como-autoconstruir-tu-vivienda-segunda-etapa,Physical Science and Engineering,Electrical Engineering,"Ing. Ernesto René Mendoza Sánchez, M. en I. Héctor Guzmán Olguín, Dr. Enrique César Valdez , Ing. Francisco López Rivas","Si te has preguntado cómo es el proceso de construcción de losas, así como el diseño e instalación tanto eléctrica, hidráulica y sanitaria; no te puedes perder el curso ""Cómo autoconstruir tu vivienda. Segunda etapa"", que en su primera versión tuvo más de 60,000 estudiantes inscritos.
+
+En esta segunda etapa, te brindaremos información importante acerca de la construcción y mantenimiento de una vivienda; donde aprenderás cómo hacer el armado de una cimbra, la función de las cadenas de remate, el proceso de construcción de las escaleras, y los tipos de losas; así como los materiales y procesos principales para el diseño de una instalación eléctrica, hidráulica y sanitaria. Todo ello de la mano de especialistas en el tema, y con ayuda de recursos que te permitan conocer el funcionamiento de los componentes de tu vivienda para mejorarla, construirla o incluso autoemplearte.
+¡Inscríbete, te esperamos!",20101.0,14176.0,4.8,252.0
+Cómo entrenar a tus electrones 1: Fundamentos de la electrónica analógica,https://www.coursera.org/learn/fundamentos-de-la-electronica-analogica,Physical Science and Engineering,Electrical Engineering,Angel Abusleme,"La electrónica ha respaldado el desarrollo científico y tecnológico de la humanidad, ostentando un rol clave en los últimos 50 años. Nos admiramos de la capacidad del ser humano de diseñar circuitos integrados que contienen millones de transistores y que nos permiten procesar con gran precisión las señales más débiles provenientes de las antenas de telefonía celular, de las neuronas del cerebro, de una cámara digital, o de la carga depositada por partículas subatómicas que colisionan en el Gran Colisionador de Hadrones en Suiza.
+
+Es difícil entender un circuito electrónico, y aún más difícil diseñarlo. Pero no es imposible. Los electrones pueden ser muy dóciles si sabemos dominarlos. ""Cómo entrenar a tus electrones 1: Fundamentos de la electrónica analógica"", el primero de una serie de tres MOOCs, te permitirá aprender lo más básico de la electrónica a nivel de diagramas de bloques y amplificadores operacionales.",5889.0,4387.0,4.7,123.0
+Cómo entrenar a tus electrones 2: Diodos y Transistores,https://www.coursera.org/learn/entrenar-electrones-diodos-transistores,Physical Science and Engineering,Electrical Engineering,Angel Abusleme,"La electrónica ha respaldado el desarrollo científico y tecnológico de la humanidad, ostentando un rol clave en los últimos 50 años. Nos admiramos de la capacidad del ser humano de diseñar circuitos integrados que contienen millones de transistores y que nos permiten procesar con gran precisión las señales más débiles provenientes de las antenas de telefonía celular, de las neuronas del cerebro, de una cámara digital, o de la carga depositada por partículas subatómicas que colisionan en el Gran Colisionador de Hadrones en Suiza.
+
+Es difícil entender un circuito electrónico, y aún más difícil diseñarlo. Pero no es imposible. Los electrones pueden ser muy dóciles si sabemos dominarlos. ""Cómo entrenar a tus electrones 2: Diodos y Transistores"", el segundo de una serie de tres MOOCs, te permitirá dar los primeros pasos para comprender los dispositivos semiconductores más importantes: diodos y transistores de efecto de campo. Las videolecciones acompañadas de pequeños cuestionarios te ayudarán a reforzar tu aprendizaje en cuanto a la comprensión del funcionamiento de los semiconductores, los circuitos principales para rectificar y amplificar voltajes, y las técnicas de análisis más utilizadas.",2391.0,5346.0,4.9,51.0
+Cómo entrenar a tus electrones 3: Aplicaciones interesantes,https://www.coursera.org/learn/entrenar-electrones-aplicaciones-electronica,Physical Science and Engineering,Electrical Engineering,Angel Abusleme,"La electrónica ha respaldado el desarrollo científico y tecnológico de la humanidad, ostentando un rol clave en los últimos 50 años. Nos admiramos de la capacidad del ser humano de diseñar circuitos integrados que contienen millones de transistores y que nos permiten procesar con gran precisión las señales más débiles provenientes de las antenas de telefonía celular, de las neuronas del cerebro, de una cámara digital, o de la carga depositada por partículas subatómicas que colisionan en el Gran Colisionador de Hadrones en Suiza.
+
+Es difícil entender un circuito electrónico, y aún más difícil diseñarlo. Pero no es imposible. Los electrones pueden ser muy dóciles si sabemos dominarlos. ""Cómo entrenar a tus electrones 3: Aplicaciones interesantes"", el último curso de una serie de tres MOOCs, introduce los dispositivos semiconductores discretos más utilizados en la actualidad en aplicaciones analógicas, los transistores bipolares, y finaliza con aplicaciones interesantes tales como los osciladores. Las videolecciones acompañadas de pequeños cuestionarios te ayudarán a reforzar tu aprendizaje en cuanto a la comprensión del funcionamiento de los semiconductores, los circuitos principales para amplificar, y las técnicas de análisis más utilizadas.",1833.0,2980.0,,
+Design of High-Performance Optical Systems,https://www.coursera.org/learn/design-high-performance-optical-systems,Physical Science and Engineering,Electrical Engineering,Robert McLeod,"This course can also be taken for academic credit as ECEA 5602, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+Optical instruments are how we see the world, from corrective eyewear to medical endoscopes to cell phone cameras to orbiting telescopes. This course extends what you have learned about first-order, paraxial system design and optical resolution and efficiency with the introduction to real lenses and their imperfections. We begin with a description of how different wavelengths propagate through systems, then move on to aberrations that appear with high angle, non-paraxial systems and how to correct for those problems. The course wraps up with a discussion of optical components beyond lenses and an excellent example of a high-performance optical system – the human eye. The mathematical tools required for analysis of high-performance systems are complicated enough that this course will rely more heavily on OpticStudio by Zemax. This will allow students to analyze systems that are too complicated for the simple analysis thus far introduced in this set of courses.",5095.0,14077.0,4.7,41.0
+Designing Hardware for Raspberry Pi Projects,https://www.coursera.org/learn/designing-hardware-for-raspberry-pi-projects,Physical Science and Engineering,Electrical Engineering,Drew Wilson,"This is course 4 of this specialization (although it can be taken out of order) and focuses on applying experience and knowledge gained in the first three courses to build physical electronics hardware. Specifically, this course focuses on four areas: circuit simulation, schematic entry, PCB layout, and 3D CAD modeling. There are many excellent commercial applications available in these areas, however to give everyone access we'll be using all free and open-source software.
+
+By the end of this course you should feel comfortable using free and open-source software to design your own printed circuit board and any bracketry or case to hold it, customized for your application.
+
+Module 1 covers circuit simulation using several open-source projects and simulation methods for simulating transient response of circuits as well as frequency-domain response of filters. Additionally, we'll use open-source filter synthesis tools to help you quickly design and simulation filters.
+
+Module 2 is all about creating professional looking electrical schematics. This is both an art and a skill and we'll cover the technical elements of using schematic entry software as well as broad concepts that are portable to any commercial application.
+
+Module 3 takes our schematic and turns it into a physical PCB design. Understanding this process of how the schematic and the PCB layout work together is critical. We'll be demonstrating this with open-source software, but again, the concepts apply to any commercial software you may have access to.
+
+Module 4 demonstrates the powerful idea of co-designing your electrical and mechanical systems together. We'll create a 3D model of our electrical PCB and bring it into 3D CAD software to design mechanical parts around it. Tying together these two applications opens another dimension in customizing your projects.",,10315.0,,
+Digital Signal Processing 1: Basic Concepts and Algorithms,https://www.coursera.org/learn/dsp1,Physical Science and Engineering,Electrical Engineering,"Paolo Prandoni, Martin Vetterli","Digital Signal Processing is the branch of engineering that, in the space of just a few decades, has enabled unprecedented levels of interpersonal communication and of on-demand entertainment. By reworking the principles of electronics, telecommunication and computer science into a unifying paradigm, DSP is a the heart of the digital revolution that brought us CDs, DVDs, MP3 players, mobile phones and countless other devices. 
+
+In this series of four courses, you will learn the fundamentals of Digital Signal Processing from the ground up. Starting from the basic definition of a discrete-time signal, we will work our way through Fourier analysis, filter design, sampling, interpolation and quantization to build a DSP toolset complete enough to analyze a practical communication system in detail. Hands-on examples and demonstration will be routinely used to close the gap between theory and practice.
+
+To make the best of this class, it is recommended that you are proficient in basic calculus and linear algebra; several programming examples will be provided in the form of Python notebooks but you can use your favorite programming language to test the algorithms described in the course.",36113.0,55914.0,4.5,489.0
+Digital Signal Processing 2: Filtering,https://www.coursera.org/learn/dsp2,Physical Science and Engineering,Electrical Engineering,"Paolo Prandoni, Martin Vetterli","Digital Signal Processing is the branch of engineering that, in the space of just a few decades, has enabled unprecedented levels of interpersonal communication and of on-demand entertainment. By reworking the principles of electronics, telecommunication and computer science into a unifying paradigm, DSP is a the heart of the digital revolution that brought us CDs, DVDs, MP3 players, mobile phones and countless other devices. 
+
+The goal, for students of this course, will be to learn the fundamentals of Digital Signal Processing from the ground up. Starting from the basic definition of a discrete-time signal, we will work our way through Fourier analysis, filter design, sampling, interpolation and quantization to build a DSP toolset complete enough to analyze a practical communication system in detail. Hands-on examples and demonstration will be routinely used to close the gap between theory and practice.
+
+To make the best of this class, it is recommended that you are proficient in basic calculus and linear algebra; several programming examples will be provided in the form of Python notebooks but you can use your favorite programming language to test the algorithms described in the course.",12119.0,11311.0,4.7,151.0
+Digital Signal Processing 3: Analog vs Digital,https://www.coursera.org/learn/dsp3,Physical Science and Engineering,Electrical Engineering,"Paolo Prandoni, Martin Vetterli","Digital Signal Processing is the branch of engineering that, in the space of just a few decades, has enabled unprecedented levels of interpersonal communication and of on-demand entertainment. By reworking the principles of electronics, telecommunication and computer science into a unifying paradigm, DSP is a the heart of the digital revolution that brought us CDs, DVDs, MP3 players, mobile phones and countless other devices. 
+
+The goal, for students of this course, will be to learn the fundamentals of Digital Signal Processing from the ground up. Starting from the basic definition of a discrete-time signal, we will work our way through Fourier analysis, filter design, sampling, interpolation and quantization to build a DSP toolset complete enough to analyze a practical communication system in detail. Hands-on examples and demonstration will be routinely used to close the gap between theory and practice.
+
+To make the best of this class, it is recommended that you are proficient in basic calculus and linear algebra; several programming examples will be provided in the form of Python notebooks but you can use your favorite programming language to test the algorithms described in the course.",9016.0,5556.0,4.8,66.0
+Digital Signal Processing 4: Applications,https://www.coursera.org/learn/dsp4,Physical Science and Engineering,Electrical Engineering,"Paolo Prandoni, Martin Vetterli","Digital Signal Processing is the branch of engineering that, in the space of just a few decades, has enabled unprecedented levels of interpersonal communication and of on-demand entertainment. By reworking the principles of electronics, telecommunication and computer science into a unifying paradigm, DSP is a the heart of the digital revolution that brought us CDs, DVDs, MP3 players, mobile phones and countless other devices. 
+
+The goal, for students of this course, will be to learn the fundamentals of Digital Signal Processing from the ground up. Starting from the basic definition of a discrete-time signal, we will work our way through Fourier analysis, filter design, sampling, interpolation and quantization to build a DSP toolset complete enough to analyze a practical communication system in detail. Hands-on examples and demonstration will be routinely used to close the gap between theory and practice.
+
+To make the best of this class, it is recommended that you are proficient in basic calculus and linear algebra; several programming examples will be provided in the form of Python notebooks but you can use your favorite programming language to test the algorithms described in the course.",8165.0,5345.0,4.7,52.0
+Digital Systems: From Logic Gates to Processors,https://www.coursera.org/learn/digital-systems,Physical Science and Engineering,Electrical Engineering,"Elena Valderrama, Jean-Pierre Deschamps, Lluis Terés, Merce Rullan, Joaquín Saiz Alcaine, David Bañeres, Juan Antonio Martínez","This course gives you a complete insight into the modern design of digital systems fundamentals from an eminently practical point of view. Unlike other more ""classic"" digital circuits courses, our interest focuses more on the system than on the electronics that support it. This approach will allow us to lay the foundation for the design of complex digital systems.
+
+You will learn a set of design methodologies and will use a set of (educational-oriented) computer-aided-design tools (CAD) that will allow you not only to design small and medium size circuits, but also to access to higher level courses covering so exciting topics as application specific integrated circuits (ASICs) design or computer architecture, to give just two examples.
+
+Course topics are complemented with the design of a simple processor, introduced as a transversal example of a complex digital system. This example will let you understand and feel comfortable with some fundamental computer architecture terms as the instruction set, microprograms and microinstructions.
+
+After completing this course you will be able to:
+
+   * Design medium complexity digital systems.
+   * Understand the description of digital systems using high-level languages such as VHDL.
+   * Understand how computers operate at their most basic level (machine language).",67223.0,67482.0,4.4,685.0
+Diode - pn Junction and Metal Semiconductor Contact,https://www.coursera.org/learn/diode-pn-junction-metal-semiconductor-contact,Physical Science and Engineering,Electrical Engineering,Wounjhang Park,"This course can also be taken for academic credit as ECEA 5631, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This course presents in-depth discussion and analysis of pn junction and metal-semiconductor contacts including equilibrium behavior, current and capacitance responses under bias, breakdown, non-rectifying behavior, and surface effect. You'll work through sophisticated analysis and application to electronic devices.
+
+At the end of this course learners will be able to:
+1. Analyze pn junction at equilibrium and under bias, capacitance and current characteristics, and breakdown behavior
+2. Analyze metal-semiconductor contact at equilibrium and under bias, capacitance and current characteristics, non-rectifying contact and surface effects",9680.0,12213.0,4.5,243.0
+Displays,https://www.coursera.org/learn/displays,Physical Science and Engineering,Electrical Engineering,Juliet Gopinath,"This course can also be taken for academic credit as ECEA 5607, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+Displays Course Introduction
+The course will dive deep into electronic display devices, including liquid crystals, electroluminescent, plasma, organic light emitting diodes, and electrowetting based displays. You'll learn about various design principles, affordances and liabilities, and also a variety of applications in the real world of professional optics.
+
+Course Learning Outcomes
+ At the end of this course you will be able to…
+ (1) Select a display technology for a given application (LIDAR, imaging, microscopy etc.)
+ (2) Design a system around the limitations of a given display technology (ie. addressing)
+ (3) Design a system that maximizes contract",3619.0,2335.0,4.3,42.0
+Electric Power Systems,https://www.coursera.org/learn/electric-power-systems,Physical Science and Engineering,Electrical Engineering,Ilya Grinberg,"This course familiarizes you with standards and policies of the electric utility industry, and provides you with basic vocabulary used in the business. It introduces the electric power system, from generation of the electricity all the way to the wall plug. You will learn about the segments of the system, and common components like power cables and transformers. 
+
+This course is for individuals considering a career in the energy field (who have a high school diploma, at minimum, and basic knowledge of mathematics), and existing energy sector employees with less than three years of experience who have not completed similar training and would benefit from a course of foundational industry concepts.
+
+The course is a combination of online lectures, videos, readings and discussions. 
+
+This is the first course in the Energy Production, Distribution & Safety specialization that explores various facets of the power sector, and features a culminating project involving creation of a roadmap to achieve a self-established, energy-related professional goal. To learn more about the specialization, check out a video overview at https://www.youtube.com/watch?v=2Yh9qIYiUDk.",93624.0,281290.0,4.7,6881.0
+Electrical Power Distribution,https://www.coursera.org/learn/electrical-power-distribution,Physical Science and Engineering,Electrical Engineering,Subject Matter Expert,"This is an application-oriented course explaining the various aspects of power distribution, indoor and outdoor equipment up to 33kV. The course adopts a cross-disciplinary approach to ensure that the learners understand site execution, testing and commissioning. Throughout the course, safety aspects have been emphasized in every area of work. This course blends with conceptual knowledge covering the latest technological trends like SCADA & automation.
+
+This course  helps learners know the Electrical distribution system and master as a Construction Engineer/Planning Engineer and Commissioning Engineer .
+
+This course gives the learners insights about:
+1. Electrical distribution methods
+2. Types of loads 
+3. Green Field Construction of Overhead Lines
+4. Distribution Line  Components
+5. Concepts of  Auto reclosers and Sectionalizes
+6. SCADA in detail",,11537.0,,
+Electrodynamics: An Introduction,https://www.coursera.org/learn/electrodynamics-introduction,Physical Science and Engineering,Electrical Engineering,Seungbum Hong,"The depth and breadth of electromagnetism, the foundation for many fields including materials science, electrical engineering, and physical chemistry, requires a long, steep, and steady learning curve. This course aims to bridge the gap between the fundamental principles taught in electromagnetism and its practical application to specific fields such as materials, physics, and chemistry related to energy storage and harvesting. 
+
+The goal of Electrodynamics: An Introduction is to not only teach electromagnetism but also introduce some mathematical tools which can be used to solve problems in the subject.  Within these lecture notes, we review vector calculus and explain how to use fields to visualize the topics we cover.  This course is dynamic, as the lectures continuously build on previous notes and a variety of explanations are presented for each solution.  Since this is a lower level course, we will focus on the simple concept of electrostatics.  This has applications in exploring intermolecular forces, and qualities of capacitors.  Through this, we relate electromagnetism to more conventionally studied topics and its application to specific research topics related to energy storage and harvesting.",29296.0,16373.0,4.7,567.0
+Electrodynamics: Analysis of Electric Fields,https://www.coursera.org/learn/electrodynamics-analysis-of-electric-fields,Physical Science and Engineering,Electrical Engineering,Seungbum Hong,"This course is a continuation of Electrodynamics: An Introduction. Here, we will cover different methods of calculating an electric field. In addition, we will introduce polarization, dielectrics, and how electric fields create dipoles. 
+
+Learners will 
+•	Be able to apply symmetry and other tools to calculate the electric field.
+•	Understand what susceptibility, polarization, and dipoles are.
+
+Additionally, students will learn to visualize Maxwell equations in order to apply the derived mathematics to other fields, such as heat/mass diffusion and meso-scale electromechanical properties, and to create patents that could lead to potential innovations in energy storage and harvesting. The approach taken in this course complements traditional approaches, covering a fairly complete treatment of the physics of electricity and magnetism, and adds Feynman’s unique and vital approach to grasping a picture of the physical universe. Furthermore, this course uniquely provides the link between the knowledge of electrodynamics and its practical applications to research in materials science, information technology, electrical engineering, chemistry, chemical engineering, energy storage, energy harvesting, and other materials related fields.",7597.0,2287.0,4.8,151.0
+Electrodynamics: Electric and Magnetic Fields,https://www.coursera.org/learn/electrodynamics-electric-magnetic-fields,Physical Science and Engineering,Electrical Engineering,Seungbum Hong,"This course is a continuation of Electrodynamics: An Introduction and Electrodynamics: Analysis of Electric Fields. Here, we will introduce magnetostatics and relate it to the material we learned previously.  In addition, we will cover the basics of the electromotive force and how it can be used to build different devices. 
+
+Learners will 
+•	Be able to use solutions from electric fields and relate them to other subjects (heat transfer, diffusion, membrane modeling)
+•	Understand Maxwell's equations in the context of magnetostatics
+•	Be introduced to energy and quantum mechanics relating to magnetic forces
+
+By relating the concepts in this lecture to other fields, such as heat/mass diffusion, and describing their potential applications, we hope to make this course applicable to our students careers. Because this course covers both basic concepts and device construction, we have designed it to be useful for researchers and industry professionals alike. The approach taken in this course complements traditional approaches, covering a fairly complete treatment of the physics of electricity and magnetism, and adds Feynman’s unique and vital approach to grasping a picture of the physical universe. Furthermore, this course uniquely provides the link between the knowledge of electrodynamics and its practical applications to research in materials science, information technology, electrical engineering, chemistry, chemical engineering, energy storage, energy harvesting, and other materials related fields.",10942.0,4413.0,4.8,212.0
+Electrodynamics: In-depth Solutions for Maxwell’s Equations,https://www.coursera.org/learn/electrodynamics-solutions-maxwells-equations,Physical Science and Engineering,Electrical Engineering,Seungbum Hong,"This course is the fourth course in the Electrodynamics series, and is directly proceeded by Electrodynamics: Electric and Magnetic Fields.  Previously, we have learned about visualization of fields and solutions which were not time dependent.  Here, we will return to Maxwell's Equations and use them to produce wave equations which can be used to analyze complex systems, such as oscillating dipoles. We will also introduce AC circuits, and how they can be simplified, solved, and applied.
+
+Learners will:
+•	Have a complete understanding of Maxwell's Equations and how they relate to the magnetic and electric potentials.
+•	Be able to solve problems related to moving charges, and add relativistic corrections to the equations
+•	Understand the different components in AC circuits, and how their presence can change the function of the circuit.
+
+The approach taken in this course complements traditional approaches, covering a fairly complete treatment of the physics of electricity and magnetism, and adds Feynman’s unique and vital approach to grasping a picture of the physical universe. Furthermore, this course uniquely provides the link between the knowledge of electrodynamics and its practical applications to research in materials science, information technology, electrical engineering, chemistry, chemical engineering, energy storage, energy harvesting, and other materials related fields.",6224.0,2752.0,4.8,106.0
+Electrones en Acción: Electrónica y Arduinos para tus propios Inventos,https://www.coursera.org/learn/electrones-en-accion,Physical Science and Engineering,Electrical Engineering,"Angel Abusleme, Cristobal Alessandri","Este curso introduce al alumno a la electrónica y los Arduinos, comenzando desde lo más básico de un circuito eléctrico y finalizando con el diseño de circuitos de baja complejidad empleando dispositivos electrónicos programables. Durante el curso los alumnos aprenderán los fundamentos básicos de la electricidad y de la electrónica, conocerán los diferentes bloques empleados en el diseño de un circuito electrónico, aprenderán las bases del diseño de circuitos analógicos y digitales, y serán introducidos a la programación de estos últimos empleando la plataforma Arduino.
+
+El curso apunta a estudiante de último año de educación escolar y primer año de educación universitaria, o cualquier otro alumno con suficiente motivación como para llevar a cabo sus propios experimentos y seguir aprendiendo en el futuro.
+
+Si bien no es un requisito esencial, los alumnos que tengan nociones de cálculo diferencial e integral podrán entender mejor algunos tópicos específicos, que no son estrictamente necesarios para concluir el curso.
+
+El curso incluye demostraciones de dispositivos electromecánicos sencillos controlados mediante un Arduino. Cada circuito demostrativo lleva asociado un diagrama de conexiones y un programa, ambos debidamente explicados, para facilitar que sean replicados por los alumnos empleando la plataforma Arduino.",96840.0,55211.0,4.8,2409.0
+Electrónica Digital Bit a Bit: Diseñando en Verilog para FPGA,https://www.coursera.org/learn/electronica-digital-bit-a-bit-disenando-circuitos-complejos,Physical Science and Engineering,Electrical Engineering,Angel Abusleme,"Los circuitos digitales más complejos como memorias y procesadores, que contienen millones de transistores gracias a su reducido tamaño, pueden ser divididos en circuitos más simples ya conocidos para facilitar su diseño e implementación. Lo mismo podemos realizar utilizando Verilog para diseñar circuitos digitales complejos que realizan muchas funciones o cuentan con un gran número de entradas y salidas. 
+
+El curso “Electrónica digital bit a bit: Diseñando circuitos complejos” nos presenta los circuitos combinacionales y secuenciales síncronos que son fundamentales para el diseño de máquinas de estado y sistemas digitales más complejos, como por ejemplo memorias y procesadores. También nos introduce a los circuitos secuenciales asíncronos con las debidas precauciones que se deben tener para diseñarlos e implementarlos. El curso termina presentando varios ejemplos de sistemas digitales, tales como una memoria SRAM y un procesador simple. 
+
+La metodología a utilizar trabaja con videolecciones acompañadas de cortos cuestionarios te ayudarán a reforzar tu aprendizaje en cuanto a la comprensión y distinción de los circuitos combinacionales y secuenciales, el análisis de circuitos basados en máquinas de estado y el diseño de estos a partir de Verilog.",,9909.0,,
+"Electrónica Digital Bit a Bit: Fundamentos, Verilog y FPGA",https://www.coursera.org/learn/electronica-digital-bit-a-bit-fundamentos,Physical Science and Engineering,Electrical Engineering,Angel Abusleme,"Es desafiante y hasta atemorizante entender un circuito digital cuando observamos la cantidad de transistores que puede contener, y aún más difícil diseñarlo eficientemente para su implementación en un circuito integrado o una FPGA. Sin embargo, saber diseñar circuitos digitales simples nos abre las puertas para diseñar sistemas digitales más complejos a partir de estos.
+
+El curso ""Electrónica digital bit a bit: Aprendiendo fundamentos"" introduce al mundo de los circuitos digitales, empezando con el sistema de numeración binario y las compuertas lógicas, para luego poder diseñarlos utilizando Verilog. Finalmente, se entregarán herramientas para optimizar los circuitos digitales eficientemente y se presentarán los circuitos aritméticos fundamentales del mundo digital. 
+
+La metodología del curso trabaja con videolecciones acompañadas de pequeños cuestionarios te ayudarán a reforzar tu aprendizaje en cuanto a la comprensión del funcionamiento de los circuitos digitales, su implementación con compuertas lógicas, y las herramientas de optimización y diseño más utilizadas.",1507.0,6705.0,4.6,28.0
+Embedded Software and Hardware Architecture,https://www.coursera.org/learn/embedded-software-hardware,Physical Science and Engineering,Electrical Engineering,Alex Fosdick,"Embedded Software and Hardware Architecture is a first dive into understanding embedded architectures and writing software to manipulate this hardware. You will gain experience writing low-level firmware to directly interface hardware with highly efficient, readable and portable design practices. We will now transition from the Host Linux Machine where we built and ran code in a simulated environment to an Integrated Development Environment where you will build and install code directly on your ARM Cortex-M4 Microcontroller. Course assignments include writing firmware to interact and configure both the underlying ARM architecture and the MSP432 microcontroller platform. The course concludes with a project where you will develop a circular buffer data structure. 
+
+In this course you will need the Texas Instruments LaunchPad with the MSP432 microcontroller in order to complete the assignments. Later courses of the Specialization will continue to use this hardware tool to develop even more exciting firmware.",33761.0,33821.0,4.5,408.0
+Energy Harvesting,https://www.coursera.org/learn/energy-harvesting,Physical Science and Engineering,Electrical Engineering,Sang-Woo Kim,"Joining this course presents opportunity to learn about energy harvesting that refers to a technology that converts the energy discarded in our daily lives into useful electrical energy that we can use. As we all know, most of low-power electronics, such as remote sensors, are driven by batteries. However, even when it comes to long-lasting batteries, they face an issue that is a regular replacement. It can turn out to be costly as there are hundreds of sensors in remote locations. Whereas, energy harvesting technologies supply unlimited operating life of low-power equipment and even remove the need to replace batteries where it is costly, unfeasible, or unsafe. The whole sessions cover the concept of energy harvesting technologies, which has gained popularity over the last few years, and thus will be beneficial for those who seeks for understanding principles and their applications.",,2066.0,4.5,33.0
+Energy: The Enterprise,https://www.coursera.org/learn/energy-industry-overview,Physical Science and Engineering,Electrical Engineering,Martin Casstevens,"This course provides a broad view of the evolving nature of energy and the influence of cost, availability, sustainability, technical advancements, lifestyle, and concern over the environment. Learners get a peek into our energy history, recent technical and societal advancements in clean energy, and some of the more important adjustments we have seen and will continue to see. It includes a discussion of how our energy infrastructure adapts to the changing landscape while managing costs, often deploying a new workforce while providing highly reliable grid power necessary for a robust and competitive economy. Material covers current and future workforce opportunities.  
+
+This course is for individuals considering a career in the energy field (who have a high school diploma, at minimum, and basic knowledge of mathematics), and existing energy sector employees with less than three years of experience who have not completed similar training and would benefit from a course of foundational industry concepts.
+
+The course is a combination of online lectures, videos, readings and discussions. 
+
+This is the fourth course in the Energy Production, Distribution & Safety specialization that explores various facets of the power sector, and features a culminating project involving creation of a roadmap to achieve a self-established, energy-related professional goal. To learn more about the specialization, check out a video overview at https://www.youtube.com/watch?v=2Yh9qIYiUDk.",17836.0,12498.0,4.7,997.0
+Enseignes et afficheurs à LED,https://www.coursera.org/learn/enseignes-et-afficheurs-led,Physical Science and Engineering,Electrical Engineering,"Pierre-Yves Rochat, Mamadou Lamine NDIAYE, Alain Bertin TIEDEU , Yves Tiecoura","Comprendre le fonctionnement des enseignes et des afficheurs à LED, depuis les petites enseignes à motifs fixes jusqu'aux écrans géants à LED.  Apprendre à les fabriquer et à les programmer les microcontrôleurs qui les pilotent.
+
+Ce cours va vous permettre de comprendre comment fonctionnent les enseignes et les afficheurs à LED, depuis les montages les plus simples jusqu’aux des matrices de LED multicolores. Les concepts électroniques nécessaire vous seront donnés, ainsi qu’une introduction aux microcontrôleurs, tant du point de vue matériel que pour la programmation en C.
+
+Chaque semaine, il vous sera possible de programmer des enseignes et afficheurs à distance et voir le résultat par vidéo.
+
+Vous serez encouragés à fabriquer vos propres enseignes et afficheurs. Des techniques de réalisation de complexitié progressive vous seront proposées.",3571.0,4519.0,4.2,13.0
+Equivalent Circuit Cell Model Simulation,https://www.coursera.org/learn/equivalent-circuit-cell-model-simulation,Physical Science and Engineering,Electrical Engineering,Gregory Plett,"This course can also be taken for academic credit as ECEA 5731, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+In this course, you will learn the purpose of each component in an equivalent-circuit model of a lithium-ion battery cell, how to determine their parameter values from lab-test data, and how to use them to simulate cell behaviors under different load profiles. By the end of the course, you will be able to:
+-	State the purpose for each component in an equivalent-circuit model
+-	Compute approximate parameter values for a circuit model using data from a simple lab test
+-	Determine coulombic efficiency of a cell from lab-test data 
+-	Use provided Octave/MATLAB script to compute open-circuit-voltage relationship for a cell from lab-test data
+-	Use provided Octave/MATLAB script to compute optimized values for dynamic parameters in model
+-	Simulate an electric vehicle to yield estimates of range and to specify drivetrain components
+-	Simulate battery packs to understand and predict behaviors when there is cell-to-cell variation in parameter values",17647.0,242380.0,4.7,328.0
+Explore Einstein's theories of Relativity using Wolfram,https://www.coursera.org/learn/explore-einsteins-theories-of-relativity-using-wolfram,Physical Science and Engineering,Electrical Engineering,Ashish Dikshit,"Explore Einstein's theories of Relativity using Wolfram -The theory of relativity usually encompasses two interrelated theories by Albert Einstein: special relativity and general relativity, proposed and published in 1905 and 1915, respectively.[1] Special relativity applies to all physical phenomena in the absence of gravity. General relativity explains the law of gravitation and its relation to other forces of nature.[2] It applies to the cosmological and astrophysical realm, including astronomy.
+
+The theory transformed theoretical physics and astronomy during the 20th century, superseding a 200-year-old theory of mechanics created primarily by Isaac Newton.[3][4][5] It introduced concepts including spacetime as a unified entity of space and time, relativity of simultaneity, kinematic and gravitational time dilation, and length contraction. In the field of physics, relativity improved the science of elementary particles and their fundamental interactions, along with ushering in the nuclear age. With relativity, cosmology and astrophysics predicted extraordinary astronomical phenomena such as neutron stars, black holes, and gravitational waves.",,,,
+Exploring fluid mechanics using Wolfram notebook,https://www.coursera.org/learn/fluid-mechanics,Physical Science and Engineering,Electrical Engineering,Ashish Dikshit,Exploring fluid mechanics using Wolfram notebook,,,,
+FPGA Capstone:  Building FPGA Projects,https://www.coursera.org/learn/capstone-fpga-design,Physical Science and Engineering,Electrical Engineering,Timothy Scherr,"This course will give you hands-on FPGA design experience that uses all the concepts and skills you have developed up to now.   You will need to purchase a DE10-Lite development kit.  You will setup and test the MAX10 DE10-Lite board using the FPGA design tool Quartus Prime and the System Builder.
+
+You will:  
+Design and test a Binary Coded Decimal Adder. 
+Design and test a PWM Circuit, with verification by simulation. 
+Design and test an ADC circuit, using Quartus Prime built-in tools to verify your circuit design. 
+Create hardware for the NIOS II soft processor, including many interfaces, using Qsys (Platform Designer). Instantiate this design into a top-level DE10-Lite HDL file.
+Compile your completed hardware using Quartus Prime.  
+Enhance and test a working design, using most aspects of the Quartus Prime Design Flow and the NIOS II Software Build Tools (SBT) for Eclipse.
+Create software for the NIOS II soft processor, including many interfaces, using Qsys (Platform Designer) and the SBT.
+Compile your completed software using the SBT.
+Use Quartus Prime to program both the FPGA hardware configuration and software code in you DE10-Lite development kit.  
+Record all your observations in a lab notebook pdf. 
+Submit your project files and lab notebook for grading.
+This course consists of 4 modules, approximately 1 per week for 4 weeks.   Each module will include an hour or less of video lectures, plus reading assignments, discussion prompts, and project assignment that involves creating hardware and/or software in the FPGA.",4804.0,7565.0,4.8,15.0
+FPGA Softcore Processors and IP Acquisition,https://www.coursera.org/learn/fpga-softcore-proccessors-ip,Physical Science and Engineering,Electrical Engineering,Timothy Scherr,"This course will introduce you to all aspects of development of Soft Processors and Intellectual Property (IP) in FPGA design.  You will learn the extent of Soft Processor types and capabilities, how to make your own Soft Processor in and FPGA, including how to design the hardware and the software for a Soft Processor.  You will learn how to add IP blocks and custom instructions to your Soft Processor.  After the Soft Processor is made, you learn how to verify the design using simulation and an internal logic analyzer.  Once complete you will know how to create and use Soft Processors and IP, a very useful skill. 
+
+This course consists of 4 modules, approximately 1 per week for 4 weeks.   Each module will include an hour or two of video lectures, reading assignments, discussion prompts, and an end of module assessment.",5279.0,8791.0,3.9,61.0
+Ferrous Technology I,https://www.coursera.org/learn/ferrous-technology-1,Physical Science and Engineering,Electrical Engineering,"Kim, Nack Joon, Suh, Dong Woo, Kang, Youn-Bae, Kim, Sung-Joon","Steel, ever-evolving material, has been the most preeminent of all materials since it can provide wide range of properties that can meet ever-changing requirements. In this course, we explore both fundamental and technical issues related to steels, including iron and steelmaking, microstructure and phase transformation, and their properties and applications.",10546.0,5624.0,4.7,618.0
+Ferrous Technology II,https://www.coursera.org/learn/ferrous-technology-2,Physical Science and Engineering,Electrical Engineering,"Kim, Sung-Joon, Kang, Youn-Bae, Suh, Dong Woo, Kim, Nack Joon","Steel, ever-evolving material, has been the most preeminent of all materials since it can provide wide range of properties that can meet ever-changing requirements. In this course, we explore both fundamental and technical issues related to steels, including iron and steelmaking, microstructure and phase transformation, and their properties and applications.",6652.0,4722.0,4.8,293.0
+First Order Optical System Design,https://www.coursera.org/learn/first-order-optical-system-design,Physical Science and Engineering,Electrical Engineering,Robert McLeod,"This course can also be taken for academic credit as ECEA 5600, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+Optical instruments are how we see the world, from corrective eyewear to medical endoscopes to cell phone cameras to orbiting telescopes. When you finish this course, you will be able to design, to first order, such optical systems with simple mathematical and graphical techniques. This first order design will allow you to develop the foundation needed to begin all optical design as well as the intuition needed to quickly address the feasibility of complicated designs during brainstorming meetings. You will learn how to enter these designs into an industry-standard design tool, OpticStudio by Zemax, to analyze and improve performance with powerful automatic optimization methods.",15820.0,30606.0,4.3,277.0
+Foundations of Quantum Mechanics,https://www.coursera.org/learn/foundations-quantum-mechanics,Physical Science and Engineering,Electrical Engineering,Wounjhang Park,"This course can also be taken for academic credit as ECEA 5610, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This course covers the fundamental concepts and topics of quantum mechanics which include basic concepts, 1D potential problems, time evolution of quantum states, and essential linear algebra. It provides undergraduate level foundational knowledge and build on them more advanced topics. 
+
+At the end of this course learners will be able to:
+1. demonstrate full grasp of basic concepts in quantum mechanics including wave-particle duality, operators and wavefunctions, and evolution of quantum states,
+2. achieve mastery of the mathematical apparatus needed for quantum mechanics and
+3. attain foundational knowledge required to learn more advanced quantum mechanics and applications.",2882.0,13023.0,,
+Fundamentals of Audio and Music Engineering: Part 1 Musical Sound & Electronics,https://www.coursera.org/learn/audio-engineering,Physical Science and Engineering,Electrical Engineering,"Robert  Clark, Mark  Bocko","In this course students learn the basic concepts of acoustics and electronics and how they can applied to understand musical sound and make music with electronic instruments.  Topics include: sound waves, musical sound, basic electronics, and applications of these basic principles in amplifiers and speaker design.",71194.0,20635.0,4.6,525.0
+Fundamentals of Digital Image and Video Processing,https://www.coursera.org/learn/digital,Physical Science and Engineering,Electrical Engineering,Aggelos K. Katsaggelos,"In this class you will learn the basic principles and tools used to process images and videos, and how to apply them in solving practical problems of commercial and scientific interests.
+
+Digital images and videos are everywhere these days – in thousands of scientific (e.g., astronomical, bio-medical), consumer, industrial, and artistic applications. Moreover they come in a wide range of the electromagnetic spectrum - from visible light and infrared to gamma rays and beyond. The ability to process image and video signals is therefore an incredibly important skill to master for engineering/science students, software developers, and practicing scientists.   Digital image and video processing continues to enable the multimedia technology revolution we are experiencing today. Some important examples of image and video processing include the removal of degradations images suffer during acquisition (e.g., removing blur from a picture of a fast moving car), and the compression and transmission of images and videos (if you watch videos online, or share photos via a social media website, you use this everyday!), for economical storage and efficient transmission. 
+
+This course will cover the fundamentals of image and video processing.  We will provide a mathematical framework to describe and analyze images and videos as two- and three-dimensional signals in the spatial, spatio-temporal, and frequency domains. In this class not only will you learn the theory behind fundamental processing tasks including image/video enhancement, recovery, and compression - but you will also learn how to perform these key processing tasks in practice using state-of-the-art techniques and tools. We will introduce and use a wide variety of such tools – from optimization toolboxes to statistical techniques. Emphasis on the special role sparsity plays in modern image and video processing will also be given.  In all cases, example images and videos pertaining to specific application domains will be utilized.",120344.0,53341.0,4.6,1600.0
+Fundamentals of particle accelerator technology  (NPAP MOOC),https://www.coursera.org/learn/fundamentals-particle-accelerator-technology,Physical Science and Engineering,Electrical Engineering,"Anders Karlsson, Pauli Heikkinen, Franz Bødker, Maja Olvegård","Did you know that particle accelerators play an important role in many functions of todays society and that there are over 30 000 accelerators in operation worldwide? A few examples are accelerators for radiotherapy which are the largest application of accelerators, altogether with more than 11000 accelerators worldwide. These accelerators range from very compact electron linear accelerators with a length of only about 1 m to large carbon ion synchrotrons with a circumference of more than 50 m and a huge rotating carbon ion gantry with a weight of 600 tons! 
+
+There are also a growing number of synchrotron light sources in the world. The light in these sources are created by electrons that are accelerated to almost the speed of light. This light can reveal the molecular structures of materials and also take x-ray pictures of the inner structure of objects. Synchrotron light sources are very important in life sciences, material sciences and chemistry. Another type of accelerators are used in spallation sources, like the European Spallation Source in Lund, Sweden. Here protons are accelerated to very large energies. They produce neutrons when they are smashed into a disc of tungsten. These neutrons are used for finding the inner structure of objects and atomic structures of materials. Finally there are many accelerators for basic physics, like the large hadron collider in Cern.
+
+This course takes you on a journey through the technologies used in particle accelerators: The microwave system which produce the electromagnetic waves that accelerate particles; The magnet technology for the magnets that guide and focus the beam of particles;  The monitoring systems that determine the quality of the beam of particles; Finally the vacuum systems that create ultra high vacuum so that the accelerated particles do not collide with molecules and atoms. Exciting right!
+
+The course is graded through quizzes, one for each of the four modules. Throughout the course there are also a number of training quizzes to offer you support. The four modules in the course are: RF-systems, Magnet technology, Beam diagnostics, and Vacuum techniques. In total there are 48 lectures, where each lecture is a 2-4 minutes long video presentation. Some of the lectures are followed by short texts with complementary information and all will hopefully be an exciting collection for you to engage with.
+
+Have fun!",3790.0,5417.0,4.6,87.0
+Hardware Description Languages for FPGA Design,https://www.coursera.org/learn/fpga-hardware-description-languages,Physical Science and Engineering,Electrical Engineering,"Timothy Scherr, Benjamin Spriggs","This course can also be taken for academic credit as ECEA 5361, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+Hardware Description Languages for Logic Design enables students to design circuits using VHDL and Verilog, the most widespread design methods for FPGA Design.   It uses natural learning processes to make learning the languages easy.  Simple first examples are presented, then language rules and syntax, followed by more complex examples, and then finally use of test bench simulations to verify correctness of the designs.  Lecture presentations are reinforced by many programming example problems so that skill in the languages is obtained.  After completing this course, each student will have fundamental proficiency in both languages, and more importantly enough knowledge to continue learning and gaining expertise in Verilog and VHDL on their own.",25990.0,32251.0,4.4,488.0
+"Image Segmentation, Filtering, and Region Analysis",https://www.coursera.org/learn/image-segmentation,Physical Science and Engineering,Electrical Engineering,"Amanda  Wang, Matt Rich, Brandon Armstrong, Megan Thompson, Isaac Bruss, Sam Jones","In this course, you will build on the skills learned in Introduction to Image Processing to work through common complications such as noise. You’ll use spatial filters to deal with different types of artifacts. You’ll learn new approaches to segmentation such as edge detection and clustering. You’ll also analyze regions of interest and calculate properties such as size, orientation, and location. 
+
+By the end of this course, you’ll be able to separate and analyze regions in your own images. You’ll apply your skills to segment an MRI image of a brain to separate different tissues. 
+
+You will use MATLAB throughout this course.  MATLAB is the go-to choice for millions of people working in engineering and science, and provides the capabilities you need to accomplish your image processing tasks.  You will be provided with free access to MATLAB for the duration of the course to complete your work.
+
+To be successful in this course you should have a background in basic math and some exposure to MATLAB. If you want to familiarize yourself with MATLAB check out the free, two-hour MATLAB Onramp. Experience with image processing is not required.",,10900.0,4.8,14.0
+Impresión 3D,https://www.coursera.org/learn/pucp-impresion3d,Physical Science and Engineering,Electrical Engineering,Midori Sánchez,"Te damos la bienvenida al curso-taller: ""Impresión 3D"" en el que aprenderás los aspectos relacionados a la tecnología de impresión 3D para la fabricación de piezas. El curso se basa en la generación de conocimiento a través de los fundamentos de la impresión 3D, tipos de impresora, aplicaciones y materiales.",,4789.0,4.8,11.0
+Incrementar - Parte 2 y Controlar,https://www.coursera.org/learn/incrementar---parte-2-y-controlar,Physical Science and Engineering,Electrical Engineering,"Mohammad Reza Azarang Esfandiari, Alfredo Santana Reynoso","El curso explora herramientas selectas de las etapas de Mejora y Control de la metodología DMAIC de Lean Six Sigma, presentando una mezcla de herramientas cuantitativa y cualitativas. 
+
+En la etapa de Mejora se busca construir modelos matemáticos predictivos a través de regresión lineal múltiple y regresión polinomial; mientras que se introducen las herramientas Lean de Kanban y Mantenimiento Productivo Total (TPM) con el objetivo de mejorar el desempeño de un proceso a través de la estabilidad del mismo al reducir paros por falta de materiales y fallas en los equipos.
+
+En la etapa de Control se introduce el Control Estadístico de Procesos como una herramienta para monitorear el desempeño de un sistema para detectar distintos patrones que pueden provocar no conformidades, antes de que el sistema comience a generar artículos defectuosos. Como herramientas de manufactura esbelta se presentan el Poka Yoke para evitar cometer errores y la técnica de reporte A3 para solucionar problemas.
+
+
+Los objetivos del curso son los siguientes:
+
+•	Identificar causas raíz mediante las herramientas cuantitativas. 
+•	Controlar procesos a través de las herramientas estadísticas. 
+•	Estabilizar y controlar los procesos a través de las herramientas lean.",,3023.0,,
+Input Filter Design,https://www.coursera.org/learn/inputfilterdesign,Physical Science and Engineering,Electrical Engineering,Dr. Dragan Maksimovic,"This course can also be taken for academic credit as ECEA 5707, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This is Course #3 in the Modeling and Control of Power Electronics course sequence. After completion of this course, you will gain an understanding of issues related to electromagnetic interference (EMI) and electromagnetic compatibility (EMC), the need for input filters and the effects input filters may have on converter responses. You will be able to design properly damped single and multi-section filters to meet the conducted EMI attenuation requirements without compromising frequency responses or stability of closed-loop controlled power converters. 
+
+We strongly recommend students complete the CU Boulder Power Electronics specialization as well as Courses #1 (Averaged-Switch Modeling and Simulation) and #2 (Techniques of Design-Oriented Analysis) before enrolling in this course (the course numbers provided below are for students in the CU Boulder's MS-EE program):
+ 
+● Introduction to Power Electronics (ECEA 5700)
+● Converter Circuits (ECEA 5701)
+● Converter Control (ECEA 5702)
+● Averaged-Switch Modeling and Simulation (ECEA 5705)
+● Techniques of Design-Oriented Analysis (ECEA 5706)
+
+After completing this course, you will be able to:
+
+● Understand conducted electromagnetic interference (EMI) and the need for input filter
+● Understand input filter design principles based on attenuation requirements and impedance interactions. 
+● Design properly damped single-stage input filters. 
+● Design properly damped multi-stage input filters. 
+● Use computer-aided tools and simulations to verify input filter design",3864.0,12008.0,4.7,23.0
+Interfacing with the Arduino,https://www.coursera.org/learn/interface-with-arduino,Physical Science and Engineering,Electrical Engineering,Ian Harris,"Arduino senses the environment by receiving inputs from add-on devices such as sensors, and can control the world around it by adjusting lights, motors, and other actuators. In this class you will learn how and when to use the different types of sensors and how to connect them to the Arduino. Since the external world uses continuous or analog signals and the hardware is digital you will learn how these signals are converted back-and-forth and how this must be considered as you program your device. You'll also learn about the use of Arduino-specific shields and the shields software libraries to interface with the real world. Please note that this course does not include discussion forums.",101674.0,44251.0,4.7,3792.0
+Interfacing with the Raspberry Pi,https://www.coursera.org/learn/raspberry-pi-interface,Physical Science and Engineering,Electrical Engineering,Ian Harris,"The Raspberry Pi uses a variety of input/output devices based on protocols such as HDMI, USB, and Ethernet to communicate with the outside world. In this class you will learn how to use these protocols with other external devices (sensors, motors, GPS, orientation, LCD screens etc.) to get your IoT device to interact with the real world. Most physical devices use analog signals;  however computer hardware is digital so in this class you will learn how these signals are converted back-and-forth and how this must be considered as you program your device. The basic design of a sensor-actuator system will also be covered. You will also learn how to build more sophisticated hardware systems using Raspberry Pi expansion boards to create fun and exciting IoT devices. Please note that this course does not include discussion forums.",75092.0,13340.0,4.7,1566.0
+Internet of Things Capstone V2: Build a Mobile Surveillance System,https://www.coursera.org/learn/internet-of-things-capstone-version2,Physical Science and Engineering,Electrical Engineering,"Ganz Chockalingam, Harinath Garudadri","In the Capstone project for the Internet of Things specialization, you will design and build your own system that uses at least 2 sensors, at least 1 communication protocol and at least 1 actuator. You will have a chance to revisit and apply what you have learned in our courses to achieve a robust, practical and/or fun-filled project. 
+
+We absolutely encourage you to design whatever you can think up!  This is your chance to be creative or to explore an idea that you have had.  But if you don’t have your own idea, we provide the description of a surveillance system, for you to build.  We will participate in the Capstone with you by building a surveillance system that features an off-grid solar powered workstation that will serve as a hub to multiple surveillance sensors. 
+
+You will be able to demonstrate the knowledge and skills you have gained in this course through delivery of industry-appropriate documents such as System Design documents and Unit Test reports.  Additionally, you will be asked to describe and show case your project as a short video presentation – appropriate for demonstrating your knowledge and technical communication skills. 
+
+Learning Goals: After completing this Capstone, you will be able to:
+
+1.	Design systems using mobile platforms. You will gain experience in documenting and presenting designs.
+2.	Develop systems that interface multiple sensors and actuators to the DragonBoard™ 410c system and develop the necessary software to create a fully functional system.
+3.	Specify unit tests and system tests, run tests and prepare Test Reports as are commonly done by those working in this industry.
+4.	Gain experience (and feedback!) in making technical presentations.",6929.0,,4.7,11.0
+Internet of Things Capstone: Build a Mobile Surveillance System,https://www.coursera.org/learn/internet-of-things-capstone,Physical Science and Engineering,Electrical Engineering,"Ganz Chockalingam, Harinath Garudadri","In the Capstone project for the Internet of Things specialization, you will design and build your own system that uses at least 2 sensors, at least 1 communication protocol and at least 1 actuator. You will have a chance to revisit and apply what you have learned in our courses to achieve a robust, practical and/or fun-filled project. 
+
+We absolutely encourage you to design whatever you can think up!  This is your chance to be creative or to explore an idea that you have had.  But if you don’t have your own idea, we provide the description of a surveillance system, for you to build.  We will participate in the Capstone with you by building a surveillance system that features an off-grid solar powered workstation that will serve as a hub to multiple surveillance sensors. 
+
+You will be able to demonstrate the knowledge and skills you have gained in this course through delivery of industry-appropriate documents such as System Design documents and Unit Test reports.  Additionally, you will be asked to describe and show case your project as a short video presentation – appropriate for demonstrating your knowledge and technical communication skills. 
+
+Learning Goals: After completing this Capstone, you will be able to:
+
+1.	Design systems using mobile platforms. You will gain experience in documenting and presenting designs.
+2.	Develop systems that interface multiple sensors and actuators to the DragonBoard™ 410c system and develop the necessary software to create a fully functional system.
+3.	Specify unit tests and system tests, run tests and prepare Test Reports as are commonly done by those working in this industry.
+4.	Gain experience (and feedback!) in making technical presentations.",1537.0,,3.7,10.0
+Internet of Things V2: DragonBoard™ bring up and community ecosystem,https://www.coursera.org/learn/internet-of-things-dragonboard-version2,Physical Science and Engineering,Electrical Engineering,"Ganz Chockalingam, Harinath Garudadri","Do you want to develop skills to prototype embedded products using state-of-the-art technologies? In this course you will build a hardware and software development environment to guide your journey through the Internet of Things specialization courses. We will use the DragonBoard™ 410c single board computer (SBC). 
+
+This is the first in a series of courses where you will learn both the theory and get the hands-on development practice needed to prototype Internet of Things products.  This course is suitable for a broad range of learners. 
+ 
+This course is for you if:
+- You want to learn how to use learn how to use Linux for embedded purposes.
+- You want to pivot your career towards the design and development of Internet of Things enabled products
+- You are an entrepreneur, innovator or member of a DIY community 
+
+Learning Goals: 
+After completing this course, you will be able to:
+
+1) Know where you can find resources and help in the 96Boards ecosystem.
+2) Describe the DragonBoard™ 410c peripherals, I/O expansion capabilities, Compute (CPU and Graphics) capabilities, and Connectivity capabilities.
+3) Understand how to navigate and make use of the Linux terminal.
+4) Configure at least one integrated development environment (IDE) for developing software.
+5) Make use of Git and GitHub for version control purposes.
+6) Create and build projects that interface with sensors and actuators through GPIO and Arduino.",8548.0,3598.0,3.4,27.0
+Internet of Things V2: Setting up and Using Cloud Services,https://www.coursera.org/learn/internet-of-things-cloud-services-version2,Physical Science and Engineering,Electrical Engineering,"Ganz Chockalingam, Harinath Garudadri","Have you wondered what exactly AWS is and why is it important?  Do you want to make informed design decisions about which services to use? Do you want to gain expertise to leverage the cloud for your own projects?
+
+In this course, you will learn to interface with the AWS cloud. You will then develop software to send data to and receive data from the cloud. Along the way, you’ll learn how to structure your project with a variety of these difference services.
+
+Learning Goals: 
+After completing this course, you will be able to:
+
+1) Understand what the cloud is and how it works.
+2) Install and configure the AWS CLI and SDK on a Linux system.
+3) Use various AWS services such as EC2, IoT, and many more.
+4) Build projects that heavily leverage the cloud.
+5) Integrate the cloud into embedded systems.",9794.0,2750.0,4.7,33.0
+Internet of Things: How did we get here?,https://www.coursera.org/learn/internet-of-things-history,Physical Science and Engineering,Electrical Engineering,"Harinath Garudadri, Ganz Chockalingam","It is hard to imagine life without your Smartphone – you have come to rely on it so much – for your work; to stay in touch with family and friends; to capture and share those special moments; to find your way around in a new neighborhood. Did you ever wonder how and when all this happened? Or how and when GPS sensors came to be in your cell phone?
+
+In this course, we will explore the convergence of multiple disciplines leading to todays’ Smartphones.  You will learn about the birth and evolution of Telephony Networks, Broadcast Networks (TV and Radio) and Consumer Electronics.  We will discuss the impact of Internet, (multimedia) content, smartphones and apps on everyday lives. We will then look at how this emerging platform called the Internet of Things – wherein billions and trillions of devices communicating with each other and “the cloud” – could enable unprecedented, innovative products and services.   Take this course if you want to understand what great new advances in mobile-enabled products will be coming our way!
+
+Learning Goals: This course provides a core grounding in how science and technology have developed to enable the Internet of Things – in a way appropriate for any learner.  For those interested in developing further hands-on expertise in designing and developing for the Internet of Things, this course will provide a context to the discoveries and converging technologies that will springboard the next round of innovations.  After completing this course, you will be able to:
+
+1.	Compare how the telephone system works (that is, peer-to-peer networks) with how media delivery works (that is, broadcast/multicast networks).
+2.	Explain the tradeoffs between circuit switched networks (that is, dedicated resources) and packet switched networks (that is, shared resources).
+3.	Tell interesting stories about key innovations that transformed the communications, entertainment and consumer electronics industries.
+4.	Explain how email, YouTube, SMS, etc. work.
+5.	Find resources for those wishing to do more of a “deep-dive” into the above topics.",68171.0,6975.0,3.9,1077.0
+Internet of Things: Multimedia Technologies,https://www.coursera.org/learn/internet-of-things-multimedia,Physical Science and Engineering,Electrical Engineering,"Harinath Garudadri, Ganz Chockalingam","Content is an eminent example of the features that contributed to the success of wireless Internet. Mobile platforms such as the Snapdragon™ processor have special hardware and software capabilities to make acquisition, processing and rendering of multimedia content efficient and cost-effective. 
+
+In this course, you will learn the principles of video and audio codecs used for media content in iTunes, Google Play, YouTube, Netflix, etc.  You will learn the file formats and codec settings for optimizing quality and media bandwidth and apply them in developing a basic media player application. 
+
+Learning Goals: After completing this course, you will be able to:
+
+1.	Explain the tradeoffs between media quality and bandwidth for content delivery. 
+2.	Extract and display metadata from media files.
+3.	Implement and demonstrate a simple media player application using DragonBoard™ 410c.",22743.0,2831.0,4.6,240.0
+Internet of Things: Sensing and Actuation From Devices,https://www.coursera.org/learn/internet-of-things-sensing-actuation,Physical Science and Engineering,Electrical Engineering,"Ganz Chockalingam, Harinath Garudadri","Have you wondered how information from physical devices in the real world gets communicated to Smartphone processors?  Do you want to make informed design decisions about sampling frequencies and bit-width requirements for various kinds of sensors? Do you want to gain expertise to affect the real world with actuators such as stepper motors, LEDs and generate notifications?
+
+In this course, you will learn to interface common sensors and actuators to the DragonBoard™ 410c hardware. You will then develop software to acquire sensory data, process the data and actuate stepper motors, LEDs, etc. for use in mobile-enabled products. Along the way, you’ll learn to apply both analog-to-digital and digital-to-analog conversion concepts. 
+
+Learning Goals: After completing this course, you will be able to:
+
+1.	Estimate sampling frequency and bit-width required for different sensors.
+2.	Program GPIOs (general purpose input/output pins) to enable communication between the DragonBoard 410c and common sensors.
+3.	Write data acquisition code for sensors such as passive and active infrared (IR) sensors, microphones, cameras, GPS, accelerometers, ultrasonic sensors, etc.
+4.	Write applications that process sensor data and take specific actions, such as stepper motors, LED matrices for digital signage and gaming, etc.",20942.0,13357.0,4.5,153.0
+Internet of Things: Setting Up Your DragonBoard™ Development Platform,https://www.coursera.org/learn/internet-of-things-dragonboard,Physical Science and Engineering,Electrical Engineering,"Ganz Chockalingam, Harinath Garudadri","Do you want to develop skills to prototype mobile-enabled products using state-of-the-art technologies? In this course you will build a hardware and software development environment to guide your journey through the Internet of Things specialization courses. We will use the DragonBoard™ 410c single board computer (SBC). 
+
+This is the first in a series of courses where you will learn both the theory and get the hands-on development practice needed to prototype Internet of Things products.  This course is suitable for a broad range of learners. 
+ 
+This course is for you if:
+•  You want to develop hands-on experience with mobile technologies and the Internet
+•  You want to pivot your career towards the design and development of Internet of Things enabled products
+•  You are an entrepreneur, innovator or member of a DIY community 
+
+Learning Goals: 
+After completing this course, you will be able to:
+1.  Configure at least one integrated development environment (IDE) for developing software.
+2.  Make use of git, adb and fastboot to flash multiple OS and repair bricked boards.
+3.  Install Android 5.1 (Lollipop) and Linux based on Ubuntu.
+4.  Create, compile and run a Hello World program.
+5.  Describe the DragonBoard™ 410c peripherals, I/O expansion capabilities, Compute (CPU and Graphics) capabilities, and Connectivity capabilities.",14642.0,5311.0,4.2,160.0
+Introduction to Electronics,https://www.coursera.org/learn/electronics,Physical Science and Engineering,Electrical Engineering,"Dr. Bonnie H. Ferri, Dr. Robert Allen Robinson, Jr.","This course introduces students to the basic components of electronics: diodes, transistors, and op amps.  It covers the basic operation and some common applications.",193207.0,108241.0,4.7,2359.0
+Introduction to Embedded Systems Software and Development Environments,https://www.coursera.org/learn/introduction-embedded-systems,Physical Science and Engineering,Electrical Engineering,Alex Fosdick,"Welcome to the Introduction to Embedded Systems Software and Development Environments. This course is focused on giving you real world coding experience and hands on project work with ARM based Microcontrollers. You will learn how to implement software configuration management and develop embedded software applications. Course assignments include creating a build system using the GNU Toolchain GCC, using Git version control, and developing software in Linux on a Virtual Machine. The course concludes with a project where you will create your own build system and firmware that can manipulate memory.
+
+The second course in this 2 course series , Embedded Software and Hardware Architecture,  will use hardware tools to program and debug microcontrollers with bare-metal firmware. Using a Texas Instruments MSP432 Development Kit, you will configure a variety of peripherals, write numerous programs, and see your work execute on your own embedded platform!",91499.0,61622.0,4.5,555.0
+Introduction to FPGA Design for Embedded Systems,https://www.coursera.org/learn/intro-fpga-design-embedded-systems,Physical Science and Engineering,Electrical Engineering,Timothy Scherr,"This course can also be taken for academic credit as ECEA 5360, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+Programmable Logic has become more and more common as a core technology used to build electronic systems.  By integrating soft-core or hardcore processors, these devices have become complete systems on a chip, steadily displacing general purpose processors and ASICs.  In particular, high performance systems are now almost always implemented with FPGAs. 
+
+This course will give you the foundation for FPGA design in Embedded Systems along with practical design skills.  You will learn what an FPGA is and how this technology was developed, how to select the best FPGA architecture for a given application, how to use state of the art software tools for FPGA development, and solve critical digital design problems using FPGAs. You use FPGA development tools to complete several example designs, including a custom processor.  If you are thinking of a career in Electronics Design or an engineer looking at a career change, this is a great course to enhance your career opportunities.
+
+Hardware Requirements: 
+You must have access to computer resources to run the development tools, a PC running either Windows 7, 8, or 10 or a recent Linux OS which must be RHEL 6.5 or CentOS Linux 6.5 or later.   Either Linux OS could be run as a virtual machine under Windows 8 or 10.  The tools do not run on Apple Mac computers.  Whatever the OS, the computer must have at least 8 GB of RAM.  Most new laptops will have this, or it may be possible to upgrade the memory.",66620.0,55533.0,4.6,1045.0
+Introduction to Image Processing,https://www.coursera.org/learn/introduction-image-processing,Physical Science and Engineering,Electrical Engineering,"Amanda  Wang, Matt Rich, Brandon Armstrong, Megan Thompson, Isaac Bruss, Sam Jones","In this introduction to image processing, you'll take your first steps in accessing and adjusting digital images for analysis and processing. You will load, save, and adjust image size and orientation while also understanding how digital images are recognized. You will then perform basic segmentation and quantitative analysis. Lastly, you will enhance the contrast of images to make objects of interest easier to identify. 
+
+By the end of the course, you’ll apply your segmentation skills to identify regions of interest, such as the amount of surface water from satellite images. This introduction to image processing will give you the foundation you need to conduct more advanced work on this topic.
+
+You will use MATLAB throughout this course.  MATLAB is the go-to choice for millions of people working in engineering and science and provides the capabilities you need to accomplish your image processing tasks.  You will be provided with free access to MATLAB for the duration of the course to complete your work.
+
+To be successful in this course you should have a background in basic math and some exposure to MATLAB. If you want to familiarize yourself with MATLAB check out the free, two-hour MATLAB Onramp. Experience with image processing is not required.",3353.0,24064.0,4.8,46.0
+Introduction to Power Electronics,https://www.coursera.org/learn/power-electronics,Physical Science and Engineering,Electrical Engineering,Dr. Robert Erickson,"This course can also be taken for academic credit as ECEA 5700, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This course introduces the basic concepts of switched-mode converter circuits for controlling and converting electrical power with high efficiency. Principles of converter circuit analysis are introduced, and are developed for finding the steady state voltages, current, and efficiency of power converters. Assignments include simulation of a dc-dc converter, analysis of an inverting dc-dc converter, and modeling and efficiency analysis of an electric vehicle system and of a USB power regulator.
+
+After completing this course, you will:
+● Understand what a switched-mode converter is and its basic operating principles
+● Be able to solve for the steady-state voltages and currents of step-down, step-up, inverting, and other power converters
+● Know how to derive an averaged equivalent circuit model and solve for the converter efficiency
+
+A basic understanding of electrical circuit analysis is an assumed prerequisite for this course.",100939.0,62005.0,4.7,3156.0
+Introduction to Power Semiconductor Switches,https://www.coursera.org/learn/introduction-to-power-semiconductor-switches,Physical Science and Engineering,Electrical Engineering,Bart Van Zeghbroeck,"This course can also be taken for academic credit as ECEA 5721, part of CU Boulder’s Master of Science in Electrical Engineering.
+
+This course is primarily aimed at first year graduate students interested in engineering or science, along with  professionals with an interest in power electronics and semiconductor devices .
+
+It is the first course in the ""Semiconductor Power Device"" specialization that focusses on diodes, MOSFETs, IGBT but also covers legacy devices (BJTs, Thyristors and TRIACS) as well as state-of-the-art devices such as silicon carbide (SiC) Schottky diodes and MOSFETs as well as Gallium Nitride (GaN) HEMTs. The specialization provides an overview of devices, the physics background needed to understand the device operation, the construction of a device circuit model from a physical device model and a description of the device fabrication technology including packaging.
+
+This first course provides an introduction to semiconductor power switches, including a classification based on power switch properties, a description of key power switches, an overview of device data sheets, and the identification of on-state and power losses of diodes and MOSFET individually and in a power convertor circuit. It provides the link between power converter applications and individual devices, through analysis and simulation and prepares learners for the in-depth device analysis of the other courses in the specialization.",,3225.0,,
+Introduction to Satellite Communications,https://www.coursera.org/learn/satellite-communications,Physical Science and Engineering,Electrical Engineering,"Laurent Franck, Tarik Benaddi, Julien Fasson, Nathalie Thomas, Marie-Laure Boucheret","How is a satellite built? How do they fly? How do they communicate and how does the network operate? You will get all the answers in this course from teachers and researchers from three schools associated with Institut Mines-Télécom.
+
+The course is made of : teaching videos, equipment demonstrations and simulation programs. They will guide you through the discovery of satellite communications. Professionals in the space field will share there vocation for this scientific and technical sector. 
+
+Have you ever wanted to know more about transponders, the geostationary orbit, QPSK modulation, channel coding, link budget, TCP over large bandwdith x delay product links ? 
+
+This course is for you! This course is available in English: French-speaking lecturers with English subtitles and fully translated contents (slides, practices).
+
+This MOOC is supported by the Patrick and Lina Drahi Foundation.",28916.0,7629.0,4.6,771.0
+Introduction to Semiconductor Devices 1,https://www.coursera.org/learn/semiconductor-1,Physical Science and Engineering,Electrical Engineering,Keon Jae Lee,"This course aims to provide a general understanding of semiconductor devices. This course explores the principles and the operation mechanism of semiconductor, such as charge transfer, p-n junction, junction capacitors, and Metal-Oxide-Semiconductor Field Effect Transistors(MOSFETs).  
+
+The lecture notes can be downloaded with registration, that helps students watch the videos. It is recommeded to print them in two pages in one A4 sheet and take notes during lectures for better understanding. Also, there are quiz problems to check your understanding of the lectures each week. To receive course certificate, you must score at least 60% of each week's quiz withing two chances. 
+
+ Lecture notes, quiz and certificate are offered to registered students only.
+week 1 Introduction to Semiconductor Devices 
+week 2 Crystal properties, Atoms, Electons and Schrodinger Equation 　
+week 3 Carriers in Semiconductors
+week 4 Excess Carriers and Drift Carriers in Semiconductors
+week 5 p-n Junction under Equilibrium
+week 6 Currnet Flow at p-n Junction
+week 7 Junction Capacitance, p-n Junction Applications, Breakdown",6029.0,8964.0,4.7,51.0
+Introduction to Semiconductor Devices 2,https://www.coursera.org/learn/semiconductor-2,Physical Science and Engineering,Electrical Engineering,Keon Jae Lee,"This course aims to provide a general understanding of semiconductor devices. This coures covers the Metal-Semiconductor Contact, Metal-Oxide-Semiconductor (MOS) capapcitor, Metal-Oxide-Semiconductor Field Effect Transistors(MOSFETs), CMOS, Metal-Semiconductor Field Effect Transistors(MESFETs),  Memory and Bipolar Junction Transistor (BJT) to improve the overall knowledge of semiconductor industry. 
+
+The lecture notes can be downloaded with registration, that helps students watch the videos. It is recommeded to print them in two pages in one A4 sheet and take notes during lectures for better understanding. Also, there are quiz problems to check your understanding of the lectures each week. To receive course certificate, you must score at least 60% of each week's quiz withing two chances. 
+
+ Lecture notes, quiz and certificate are offered to registered students only.
+
+week 1 Metal-Semiconductor Contact (Schottky/Ohmic contacts)
+week 2 Metal-Oxide-Semiconductor(MOS) Capacitor
+week 3 MOS Field Effect Transistors(MOSFETs) 
+week 4 CMOS, CMOS logic (Inverter, NAND & NOR gate)
+week 5 Memory, Optoelectronic Devices
+week 6 MESFETs, Bipolar Junction Transistors, Modern MOSFET",3063.0,3446.0,4.5,29.0
+Introduction to Systems Engineering,https://www.coursera.org/learn/systems-engineering,Physical Science and Engineering,Electrical Engineering,"Dr Mike Ryan, Dr Ian  Faulconbridge ","""Introduction to Systems Engineering"" uses a structured yet flexible approach to provide a holistic, solid foundation to the successful development of complicated systems.
+
+The course takes you step by step through the system life cycle, from design to development, production and management. You will learn how the different components of a system interrelate, and how each contributes to a project’s goals and success. 
+
+The discipline’s terminology, which can so often confuse the newcomer, is presented in an easily digestible form. Weekly video lectures introduce and synthesise key concepts, which are then reinforced with quizzes and practical exercises to help you measure your learning. 
+
+This course welcomes anyone who wants to find out how complex systems can be developed and implemented successfully. It is relevant to anyone in project management, engineering, QA, logistic support, operations, management, maintenance and other work areas. No specific background is required, and we welcome learners with all levels of interest and experience.",58984.0,66927.0,4.7,679.0
+Introduction to battery-management systems,https://www.coursera.org/learn/battery-management-systems,Physical Science and Engineering,Electrical Engineering,Gregory Plett,"This course can also be taken for academic credit as ECEA 5730, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This course will provide you with a firm foundation in lithium-ion cell terminology and function and in battery-management-system requirements as needed by the remainder of the specialization. After completing this course, you will be able to:
+-	List the major functions provided by a battery-management system and state their purpose
+-	Match battery terminology to a list of definitions
+-	Identify the major components of a lithium-ion cell and their purpose
+-	Understand how a battery-management system “measures” current, temperature, and isolation, and how it controls contactors
+-	Identify electronic components that can provide protection and specify a minimum set of protections needed
+-	Compute stored energy in a battery pack
+-	List the manufacturing steps of different types of lithium-ion cells and possible failure modes",43014.0,252292.0,4.8,1677.0
+Introdução ao Controle Moderno,https://www.coursera.org/learn/controle-moderno,Physical Science and Engineering,Electrical Engineering,"Jackson Paul Matsuura, Rubens Junqueira Magalhães Afonso","Este curso lhe dará a base necessária para entender técnicas mais avançadas de controle moderno.
+
+Você aprenderá como representar a dinâmica de um sistema no espaço de estados, como analisar um sistema no espaço de estados, como projetar uma realimentação de estado e como projetar um observador de estado.
+
+A partir desde conhecimento básico você já será capaz de realizar a análise e o projeto no espaço de estados e poderá avançar em seus estudos no controle moderno.",5731.0,2768.0,4.8,42.0
+Introdução ao Controle de Sistemas,https://www.coursera.org/learn/controle,Physical Science and Engineering,Electrical Engineering,"Jackson Paul Matsuura, Rubens Junqueira Magalhães Afonso","Este curso apresenta os principais conceitos do controle de sistemas e mostra suas vantagens e importância para a sociedade moderna. Você vai entender o que é o controle de sistemas e como o controle com realimentação funciona, e passará a perceber a sua presença em diversas situações em seu dia-a-dia, na natureza, no corpo humano e em diversos dispositivos, desde os mais simples até os mais complexos.
+
+Você vai perceber a necessidade de modelos teóricos para a análise e o projeto do controle de sistemas e aprenderá como verificar se um sistema atende a determinados requisitos de desempenho. Você também aprenderá como projetar um controle simples de modo a obter o melhor desempenho possível de um sistema de controle. Este é apenas o primeiro passo em direção a um vasto campo do conhecimento e lhe dará a base e a segurança necessárias para avançar em seus estudos no maravilhoso mundo do controle de sistemas.",61266.0,13278.0,4.9,1091.0
+Light Emitting Diodes and Semiconductor Lasers,https://www.coursera.org/learn/leds-semiconductor-lasers,Physical Science and Engineering,Electrical Engineering,Juliet Gopinath,"This course can also be taken for academic credit as ECEA 5605, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+LEDs and Semiconductor Lasers Course Introduction
+You will learn about semiconductor light emitting diodes (LEDs) and lasers, and the important rules for their analysis, planning, design, and implementation. You will also apply your knowledge through challenging homework problem sets to cement your understanding of the material and prepare you to apply in your career. 
+
+Course Learning Outcomes
+At the end of this course you will be able to…
+  (1) Design a semiconductor light emitting diode and analyze efficiency
+  (2) Design a semiconductor laser
+  (3) Choose suitable semiconductor materials for light emitting devices",9271.0,7542.0,4.0,39.0
+Linear Circuits 1: DC Analysis,https://www.coursera.org/learn/linear-circuits-dcanalysis,Physical Science and Engineering,Electrical Engineering,"Dr. Bonnie H. Ferri, Dr. Joyelle Harris, Dr Mary Ann Weitnauer","This course explains how to analyze circuits that have direct current (DC) current or voltage sources.  A DC source is one that is constant.  Circuits with resistors, capacitors, and inductors are covered, both analytically and experimentally. Some practical applications in sensors are demonstrated.",56962.0,85681.0,4.5,1402.0
+Linear Circuits 2: AC Analysis,https://www.coursera.org/learn/linear-circuits-ac-analysis,Physical Science and Engineering,Electrical Engineering,"Dr. Bonnie H. Ferri, Dr. Joyelle Harris","This course explains how to analyze circuits that have alternating current (AC) voltage or current sources. Circuits with resistors, capacitors, and inductors are covered, both analytically and experimentally. Some practical applications in sensors are demonstrated.",26036.0,29511.0,4.7,710.0
+MOS Transistors,https://www.coursera.org/learn/mosfet,Physical Science and Engineering,Electrical Engineering,Yannis Tsividis,"PLEASE NOTE: This version of the course has been formed from an earlier version, which was actively run by the instructor and his teaching assistants. Some of what is mentioned in the video lectures and the accompanying material regarding logistics, book availability and method of grading may no longer be relevant to the present version. Neither the instructor nor the original teaching assistants are running this version of the course. There will be no certificate offered for this course.
+
+Learn how MOS transistors work, and how to model them. The understanding provided in this course is essential not only for device modelers, but also for designers of high-performance circuits.",38669.0,11514.0,4.6,141.0
+MV Substation - An industrial approach (PART-A),https://www.coursera.org/learn/mv-substation-an-industrial-approach-part-a,Physical Science and Engineering,Electrical Engineering,Subject Matter Expert,"This tailor-made certificate course on MV Substation Engineering is curated by the Subject Matter Experts and practitioners of L&T, and is structured pragmatically to help the learner understand the industry practices in carrying out the engineering for substations and selection of various substation equipment in accordance with Indian & International Standards. In addition, it covers the electrical safety rules, safe operating procedures and an overview of maintenance practices to give a holistic understanding of the subject.
+
+This course opens up opportunities for the learners to become/excel as a Electrical Design Engineer, Construction and Planning Engineer.
+
+This course gives the learners insights about:
+1. Substation, its types and components
+2. Substation configuration for different scenarios
+3. Transformers, its types and installation
+4. Complete knowhow of LV and MV Switchgear and its components
+5. Basics of Protection system
+6. Station AC/DC Aux Power system",,7191.0,,
+MV Substation - An industrial approach (PART-B),https://www.coursera.org/learn/mv-substation-part-b,Physical Science and Engineering,Electrical Engineering,Subject Matter Expert,"This tailor-made certificate course on MV Substation Engineering is curated by the Subject Matter Experts and practitioners of L&T, and is structured pragmatically to help the learner understand the industry practices in carrying out the engineering for substations and selection of various substation equipment in accordance with Indian & International Standards. In addition, it covers the electrical safety rules, safe operating procedures and an overview of maintenance practices to give a holistic understanding of the subject.
+
+This course opens up opportunities for the learners to become/excel as a Electrical Design Engineer, Construction and Planning Engineer.
+
+This course gives the learners insights about:
+1. Cables, it's construction and Termination
+2. Cable routing and Erection Key diagram
+3. Earthing and Lightning Protection
+4. Civil and Mechanical Aspects of substation design
+5. Maintenance and Safety of substation",,3279.0,,
+Magnetics for Power Electronic Converters,https://www.coursera.org/learn/magnetics-for-power-electronic-converters-v2,Physical Science and Engineering,Electrical Engineering,Dr. Robert Erickson,"This course can also be taken for academic credit as ECEA 5703, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This course covers the analysis and design of magnetic components, including inductors and transformers, used in power electronic converters. The course starts with an introduction to physical principles behind inductors and transformers, including the concepts of inductance, core material saturation, airgap and energy storage in inductors, reluctance and magnetic circuit modeling, transformer equivalent circuits, magnetizing and leakage inductance. Multi-winding transformer models are also developed, including inductance matrix representation, for series and parallel structures. Modeling of losses in magnetic components covers core and winding losses, including skin and proximity effects. Finally, a complete procedure is developed for design optimization of inductors in switched-mode power converters.  
+
+After completing this course, you will:
+-  Understand the fundamentals of magnetic components, including inductors and transformers
+-  Be able to analyze and model losses in magnetic components, and understand design trade-offs 
+-  Know how to design and optimize inductors and transformers for switched-mode power converters
+This course assumes prior completion of courses 1 and 2: Introduction to Power Electronics, and Converter Circuits.",8491.0,21697.0,4.8,90.0
+Manipulate Coulomb's Law Concepts using Wolfram notebook,https://www.coursera.org/learn/coulombs-law-using-wolfram-notebook,Physical Science and Engineering,Electrical Engineering,Ashish Dikshit,"The interaction between charged objects is a non-contact force that acts over some distance of separation. Charge, charge and distance. Every electrical interaction involves a force that highlights the importance of these three variables. Whether it is a plastic golf tube attracting paper bits, two like-charged balloons repelling or a charged Styrofoam plate interacting with electrons in a piece of aluminum, there is always two charges and a distance between them as the three critical variables that influence the strength of the interaction. By the end of this project, you will be able to do the following using “Wolfram editor”:- To Set up a trial account on the Wolfram notebook edition; State Coulomb's law in terms of how the electrostatic force changes with the distance between two objects; Calculate the electrostatic force between two point charges, such as electrons or protons; Compare the electrostatic force to the gravitational attraction for a proton and an electron; for a human and Earth; Create lines of force and equipotential lines using Wolfram notebook and analyze with variation in magnitude of charges and distance between them; Compute potential energy of the system of charges and illustrate how it alters with change in distance between them.",,,4.9,15.0
+Manipulating basic laws of mechanics using wolfram notebook,https://www.coursera.org/learn/laws-of-mechanics,Physical Science and Engineering,Electrical Engineering,Ashish Dikshit,"Mechanics is one the most important subject in physics. You will learn many concepts and key points  under mechanics title those will also be used in other subjects of physics. Mechanics can be defined as the behavior of the particle under any effects. It can be studied under main two topics which are kinematics concerning the motion of the particle and dynamics concerning the causes of motion. Kinematics is one of the two branches of mechanics. It deals with the motion of particles not the causes of the motion. Motion in one dimension in other words linear motion and projectile motion are the subtitles of kinematics they are also called as 1D and 2D kinematics. Dynamics deal with the causes of motion. What makes objects move is our primary concern. Moreover, we give Newton’s law of motion and try to explain causes of motion with these laws. Let’s begin with concepts one by one that will help us in analyzing motion.
+In this 1-hour long project-based course, you will be able to- analyze the variables that affect Force as a function, compute newtons second law of motion, Compute the motion of block on an inclined plane, Compute torque, analyze the variables that affect momentum of a body and calculate centripetal acceleration of a body on a circular path.",,,,
+Microwave engineering and antennas,https://www.coursera.org/learn/microwave-antenna,Physical Science and Engineering,Electrical Engineering,"Bart Smolders, Ulf Johannsen, Domine Leenaerts","This unique Master-level course provides you with in-depth know-how of microwave engineering and antennas. The course combines both passive and active microwave circuits as well as antenna systems. Future applications, like millimeter-wave 5G/beyond-5G wireless communications or automotive radar, require experts that can co-design highly integrated antenna systems that include both antennas and microwave electronics. We will provide you with the required theoretical foundation as well as hands-on experience using state-of-the-art design tools.
+
+The web lectures are supported by many on-line quizzes in which you can practice the background theory. Next to this, we will provide you hands-on experience in a design-challenge in which you will learn how to design microwave circuits and antennas. Throughout the course you will work on the design challenge in which you will design a complete active phased array system, including antennas, beamformers and amplifiers. The course is supported by a book written by the team of lecturers, which will be made available to the students. After finalizing the course a certificate can be obtained (5 ECTS), which can be used when you start a full MSc program at Eindhoven University of Technology. 
+The lecturers all have an academic and industrial background and are embedded in the Center for Wireless Technology Eindhoven (CWT/e) of Eindhoven University of Technology, The Netherlands.",12562.0,60971.0,4.6,74.0
+Modeling and Control of Single-Phase Rectifiers and Inverters,https://www.coursera.org/learn/modeling-and-control-of-single-phase-rectifiers-and-inverters,Physical Science and Engineering,Electrical Engineering,Dr. Dragan Maksimovic,"This course can also be taken for academic credit as ECEA 5709, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This is Course #5 in the Modeling and Control of Power Electronics Specialization. The course is focused on modeling and control of grid-tied power electronics. Upon completion of the course, you will be able to understand, analyze, model, and design low-harmonic rectifiers and inverters interfacing dc loads or dc power sources, such as photovoltaic arrays, to the single-phase ac power grid. 
+
+We strongly recommend students complete the CU Boulder Power Electronics Specialization as well as Courses #1 (Averaged-Switch Modeling and Simulation) and #4 (Current-Mode Control) before enrolling in this course (the course numbers provided below are for students in the CU Boulder's MS-EE program):
+ 
+● Introduction to Power Electronics (ECEA 5700)
+● Converter Circuits (ECEA 5701)
+● Converter Control (ECEA 5702)
+● Averaged-Switch Modeling and Simulation (ECEA 5705)
+● Current-Mode Control (ECEA 5708)
+
+After completing this course, you will be able to:
+
+● Understand the operating principles of low-harmonic, high power factor rectifier and inverters
+● Model and design current shaping and voltage control loops in power factor correction (PFC) rectifiers
+● Model and design control loops in single-phase dc-to-ac inverters 
+● Design photovoltaic power systems tied to the single-phase ac power grid
+● Use computer-aided tools and simulations to verify the design of rectifiers and inverters",3152.0,16567.0,4.9,11.0
+Motors and Motor Control Circuits,https://www.coursera.org/learn/motors-circuits-design,Physical Science and Engineering,Electrical Engineering,"Jay Mendelson, James Zweighaft","This course can also be taken for academic credit as ECEA 5341, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This is our second course in our specialization on Embedding Sensor and Motors. To get the most out of this course, you should first take our first course entitled Sensors and Sensor Circuits. Our first course gives you a tutorial on how to use the hardware and software development kit we have chosen for the lab exercises. This second course assumes that you already know how to use the kit.
+
+After taking this course, you will be able to:
+●	Understand how to specify the proper AC or DC motor for a machine design.
+●	Integrate the motor to a machine, based on analysis of motor equations for voltage, current, torque and speed.
+●	Implement the motor and accompanying rotary sensor into a motor control circuit in both hardware and software.
+●	Add a motor and motor control circuit into a microprocessor based development kit.
+●	Create hardware and firmware to process motor feedback data to a microprocessor for further evaluation.
+
+You will need to buy the following components to do the two course projects based on the videos in this module. Note that if you have already purchased the PSOC 5LP PROTOTYPING KIT, you do not need to buy it again. 
+These parts may be purchased off the Digikey web site, www. Digikey.com. Or, you may obtain the specs from the site, and purchase them elsewhere. 
+
+These are the part numbers for the above table, the lab on Motor Voltage and Current Measurement. You can copy and paste them into the search engine on the Digikey web site. You need one of each except for the AA batteries (N107-ND), which you would need 3.
+
+428-3390-ND
+P14355-ND
+FQU13N10LTU-ND
+N107-ND
+1N5393-E3/54GICT-ND 
+RNF14FTD1K00CT-ND 
+P0.62W-1BK-ND
+
+Additional equipment needed:
+
+•	Wire - various gauges and lengths
+
+•	Breadboard
+
+•	Oscilloscope – suggested models are:
+o	PICOSCOPE 2204A-D2 available on www.digikey.com or 
+o	Digilent 410-324 | OpenScope MZ available on www.newark.com 
+
+	Depending on your budget, you can also investigate these models: 
+o	Hantek HT6022BE20MHz - https://www.amazon.com/dp/B009H4AYII
+o	SainSmart DSO212 - https://www.amazon.com/dp/B074QBQNB7
+o	PoScope Mega50 USB - https://www.robotshop.com/en/poscope-mega50-usb-mso-oscilloscope.html
+o	ADALM2000 - https://www.digikey.com/en/products/detail/analog-devices-inc./ADALM2000/7019661",35181.0,126623.0,4.7,968.0
+Nanophotonics and Detectors,https://www.coursera.org/learn/nanophotonics-detectors,Physical Science and Engineering,Electrical Engineering,Juliet Gopinath,"This course can also be taken for academic credit as ECEA 5606, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+Nanophotonics and Detectors Introduction
+This course dives into nanophotonic light emitting devices and optical detectors, including metal semiconductors, metal semiconductor insulators, and pn junctions. We will also cover photoconductors, avalanche photodiodes, and photomultiplier tubes. Weekly homework problem sets will challenge you to apply the principles of analysis and design we cover in preparation for real-world problems.
+
+Course Learning Outcomes
+At the end of this course you will be able to…
+  (1) Use nanophotonic effects (low dimensional structures) to engineer lasers
+  (2) Apply  low dimensional structures to photonic device design
+  (3) Select and design optical detector for given system and application",4653.0,4050.0,4.1,18.0
+Nanotechnology: A Maker’s Course,https://www.coursera.org/learn/nanotechnology,Physical Science and Engineering,Electrical Engineering,"Nan M. Jokerst, Carrie Donley, James Cahoon, Jacob Jones","How can we create nano-structures that are 10,000 times smaller than the diameter of a human hair? How can we “see” at the nano-scale?   Through instruction and lab demonstrations, in this course you will obtain a rich understanding of the capabilities of nanotechnology tools, and how to use this equipment for nano-scale fabrication and characterization.  The nanoscale is the next frontier of the Maker culture, where designs become reality.  To become a Nanotechnology Maker pioneer, we will introduce you to the practical knowledge, skills, and tools that can turn your nanotechnology ideas into physical form and that enable you to image objects at the nano-scale. 
+
+This course has been developed by faculty and staff experts in nano-fabrication, electron beam microscopy, and nano-characterization through the Research Triangle Nanotechnology Network (RTNN).  The RTNN offers training and use of the tools demonstrated in this course to schools  and industry through the United States National Nanotechnology Coordinated Infrastructure program.  The tools demonstrated in this course are available to the public through the RTNN.",53595.0,67760.0,4.8,2639.0
+Natural Gas,https://www.coursera.org/learn/natural-gas,Physical Science and Engineering,Electrical Engineering,Tom Russo,"This course will educate you in the characteristics and properties of natural gas, preparing you with the ability to summarize gas system components and new pipeline technologies. You will be enabled to grasp the key factors behind formation of the natural gas industry and the historical use of natural gas. Ultimately, you will be able to identify gas and carbon monoxide safety procedures.
+
+This course is for individuals considering a career in the energy field (who have a high school diploma, at minimum, and basic knowledge of mathematics), and existing energy sector employees with less than three years of experience who have not completed similar training and would benefit from a course of foundational industry concepts.
+
+Main concepts of this course will be delivered through lectures, readings, discussions and various videos. 
+
+This is the second course in the Energy Production, Distribution & Safety specialization that explores various facets of the power sector, and features a culminating project involving creation of a roadmap to achieve a self-established, energy-related professional goal. To learn more about the specialization, check out a video overview at https://www.youtube.com/watch?v=2Yh9qIYiUDk.",31146.0,26216.0,4.7,2177.0
+Optical Efficiency and Resolution,https://www.coursera.org/learn/optical-efficiency-and-resolution,Physical Science and Engineering,Electrical Engineering,Robert McLeod,"This course can also be taken for academic credit as ECEA 5601, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+Optical instruments are how we see the world, from corrective eyewear to medical endoscopes to cell phone cameras to orbiting telescopes. This course will teach you how to design such optical systems with simple mathematical and graphical techniques. The first order optical system design covered in the previous course is useful for the initial design of an optical imaging system but does not predict the energy and resolution of the system. This course discusses the propagation of intensity for Gaussian beams and incoherent sources. It also introduces the mathematical background required to design an optical system with the required field of view and resolution.  You will also learn how to analyze these characteristics of your optical system using an industry-standard design tool, OpticStudio by Zemax.",5542.0,9900.0,4.2,52.0
+Optique non-linéaire,https://www.coursera.org/learn/physique-optique,Physical Science and Engineering,Electrical Engineering,"Manuel Joffre, Vincent  Kemlin","Introduction à l'optique non-linéaire, qui correspond au régime d'interaction laser-matière que l'on peut explorer à l'aide de lasers intenses, comme par exemple les lasers femtosecondes.",7762.0,5554.0,4.7,52.0
+Outsmarting intermittency,https://www.coursera.org/learn/outsmarting-intermittency,Physical Science and Engineering,Electrical Engineering,"Bonnassieux yvan, Daniel Suchet, Erik Johnson","Solar and wind offer clean and renewable ways to produce large amounts of electricity. They have boomed over the last few years, evolving from an eco-daydream to a major market and showing unprecedented growth rates. Yet, installing solar panels and wind turbines is by no means the end of the story. The electrical grid, which connects production means to the end-users’ sockets, is not a simple electron pipe. It is the beating heart of our electricity system and ensures its stability. Solar and wind raise specific challenges for the grid, and these challenges will have to be tackled if we want to deploy larger amounts of renewable sources. 
+
+The aim of this lecture is to introduce these challenges and some approaches considered to overcome them. We are convinced that everyone involved in this journey, from investors, to entrepreneur, policy makers or simple customer should be aware of these issues if we want to make sure they don’t become a bottleneck limiting further development of renewable sources.",,2113.0,4.7,15.0
+Photovoltaic solar energy,https://www.coursera.org/learn/photovoltaic-solar-energy,Physical Science and Engineering,Electrical Engineering,"Pr. Bernard Drevillon, Erik Johnson","The course is an introduction to the photovoltaic (PV) applications in the general mix energetic context dominated by climate warming mitigation.
+
+The various uses of solar energy are firstly presented before a short description of the principle of the direct solar photon conversion into electricity (PV).
+
+The various PV technologies are reviewed in the current context dominated by crystalline silicon cells. The perspectives of the various technologies are then analysed in terms of R&D investments.
+
+From a more scientific point of view the basis of the solar cell operation is presented from the solar spectrum characteristics. The fundamentals of PV conversion are summarized. In particular the various sources of the conversion efficiency limitations are reviewed. 
+
+The solar PV systems, from cells to grids, are also addressed, with a particular emphasis on the challenges of grid-integration of PV and the development of storage technologies.
+
+The environmental and social impacts of PV are compared to the competing energy sources. Generally PV is at advantage as referred to other fossil or renewable sources.
+
+Finally the fast evolution of economics and financing of PV is presented together with the current key players, mostly Asian companies.",18985.0,7240.0,4.2,439.0
+Plastic electronics,https://www.coursera.org/learn/plastic-electronics,Physical Science and Engineering,Electrical Engineering,Gilles Horowitz,"Plastic electronics is a concept that emerged forty years ago, with the discovery of electrically conductive polymers. Ten years later, the first electronic devices using organic solids in place of the ubiquitous inorganic semiconductors were realised. The best achievement of plastic electronics is constituted by Organic Light-Emitting Diodes (OLEDs) that equip the display of many smartphones, and even TV sets.
+
+The objective of this course is to provide a comprehensive overview of the physics of plastic electronic devices. After taking this course, the student should be able to demonstrate theoretical knowledge on the following subjects:
+Concept of organic semiconductors;
+Charge carrier transport in polymeric and organic semiconductors;
+Optical properties of organic semiconductors;
+Charge injection from metals to organic solids;
+Operating mode of the main plastic electronic devices: Organic light-emitting diodes (OLEDs), organic   photovoltaic cells (OPVs) and organic field-effect transistors (OFETs).",8974.0,13805.0,4.6,201.0
+"Pressure, Force, Motion, and Humidity Sensors",https://www.coursera.org/learn/pressure-force-motion-humidity-sensors,Physical Science and Engineering,Electrical Engineering,"James Zweighaft, Jay Mendelson","""Pressure, Force, Motion, and Humidity Sensors"" can also be taken for academic credit as ECEA 5342, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This is our third course in our specialization on Embedding Sensor and Motors. To get the most out of this course, you should first take our first course entitled Sensors and Sensor Circuits. Our first course gives you a tutorial on how to use the hardware and software development kit we have chosen for the lab exercises. This third course assumes that you already know how to use the kit.
+
+After taking this course, you will be able to:
+●	Understand how to specify the proper AC or DC motor for a machine design.
+●	Integrate the motor to a machine, based on analysis of motor equations for voltage, current, torque and speed.
+●	Implement the motor and accompanying rotary sensor into a motor control circuit in both hardware and software.
+●	Add a motor and motor control circuit into a microprocessor based development kit.
+●	Create hardware and firmware to process motor feedback data to a microprocessor for further evaluation.
+
+
+After taking this course, you will be able to:
+●	Understand how to specify the proper pressure, force, strain, position, motion, acceleration, occupancy, and humidity sensors for taking real-time process data. 
+●	Implement these sensors into an embedded system in both hardware and software.
+●	Add the sensor and sensor interface into a microprocessor based development kit.
+●	Create hardware and firmware to process sensor signals and feed data to a microprocessor for further evaluation.
+
+
+In this course you will build the circuit from Video 7 (Lab Exercise on strain gauges), Module 2 (Force and Strain Sensors and Touch Screens), and use it to make screen shots of the timing of the switch. If you haven't already wired up the system and written all the software per the instructions of Video 7, please do so now. 
+
+You will need to buy the following components to complete this assignment. Note that if you have already purchased the PSOC 5LP PROTOTYPING KIT, you do not need to buy it again. 
+
+These parts may be purchased off the Digikey web site, www. Digikey.com. One part needs to be purchased off the Sparkfun website www.sparkfun.com. Or, you may obtain the specs from the site, and purchase them elsewhere.
+
+Digikey Part numbers are typed out here: 
+428-3390-ND 
+CF14JT22K0CT-ND 
+CF14JT100KCT-ND 
+
+Table shown here:
+
+Index	Quantity	                      Part Number	Description
+1	           1	                           428-3390-ND	PSOC 5LP PROTOTYPING KIT
+2	           2	                  CF14JT22K0CT-ND 	RES 22K OHM 1/4W 5% AXIAL 
+3	           1	                 CF14JT100KCT-ND	RES 100K OHM 1/4W 5% AXIAL 
+
+
+Sparkfun part numbers are typed out here: 
+TAL221
+
+Table shown here:
+
+Index	Quantity	        Part Number	    Description
+1	           1	                      TAL221	    Mini-load cell - 100g, straight bar
+
+Additional equipment needed:
+
+•	Wire - various gauges and lengths
+
+•	Breadboard
+
+•	Oscilloscope – suggested models are:
+o	PICOSCOPE 2204A-D2 available on www.digikey.com or 
+o	Digilent 410-324 | OpenScope MZ available on www.newark.com 
+
+        Depending on your budget, you can also investigate these models: 
+o	Hantek HT6022BE20MHz - https://www.amazon.com/dp/B009H4AYII
+o	SainSmart DSO212 - https://www.amazon.com/dp/B074QBQNB7
+o	PoScope Mega50 USB - https://www.robotshop.com/en/poscope-mega50-usb-mso-oscilloscope.html
+o	ADALM2000 - https://www.digikey.com/en/products/detail/analog-devices-inc./ADALM2000/7019661",13584.0,8301.0,4.7,217.0
+Programming for the Internet of Things Project,https://www.coursera.org/learn/internet-of-things-project,Physical Science and Engineering,Electrical Engineering,Ian Harris,"In this Capstone course, you will design a microcontroller-based embedded system. As an option, you can also build and test a system. The focus of your project will be to design the system so that it can be built on a low-cost budget for a real-world application. To complete this project you'll need to use all the skills you've learned in the course (programming microcontrollers, system design, interfacing, etc.). The project will include some core requirements, but leave room for your creativity in how you approach the project. In the end, you will produce a unique final project, suitable for showcasing to future potential employers.  
+
+Note that for the three required assignments you do NOT need to purchase software and hardware to complete this course. There is an optional fourth assignment for students who wish to build and demonstrate their system using an Arduino or Raspberry Pi. Please also note that this course does not include discussion forums.
+
+Upon completing this course, you will be able to:
+1.       Write a requirements specification document
+2.       Create a system-level design
+3.       Explore design options
+4.       Create a test plan",21964.0,5795.0,4.7,854.0
+RF and millimeter-Wave Circuit Design,https://www.coursera.org/learn/rf-mmwave-circuit-design,Physical Science and Engineering,Electrical Engineering,"Carlos Mendes, Jr., Peter Baltus","This unique Master-level course offered by the Center for Wireless Technology Eindhoven (CWT/e) of the Eindhoven University of Technology, The Netherlands, provides students with in-depth knowledge and hands-on experience on RF and mmWave circuit design.
+
+The course covers the topics on how to derive the RF wireless systems specifications, and how to design the main building blocks of a transceiver, i.e., low noise amplifier, power amplifier, RF mixers, oscillators, and PLL frequency synthesizers. It is divided into two parts: (1) theoretical lectures will cover the basis of RF and mmWave Circuit Design; and (2) design labs will include simulation and implementation of these circuits.
+The design labs are completely optional for obtaining the certificate, but they are recommended because they allow students to put into practice all the acquired theoretical knowledge, and of course, implementing the circuits is where all the fun is! The students will be able to do 70% of the design labs using simulation tools, which already offers a great learning experience. The other 30% will require students to either get access to an electronics lab or to purchase a few off-the-shelf components. But ultimately, this would allow students to design and build their own transceiver at home!
+The course contains theoretical video classes with examples, quizzes, and an entire set of simulation files, step-by-step procedures, recorded data of real-life circuits, and solution videos so that students can learn from and build even better circuits.",11250.0,31785.0,4.7,137.0
+Real-Time Embedded Systems Concepts and Practices,https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices,Physical Science and Engineering,Electrical Engineering,Sam Siewert ,"This course can also be taken for academic credit as ECEA 5315, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+Course Description: In this course, students will design and build a microprocessor-based embedded system application using a real-time operating system or RT POSIX extensions with Embedded Linux. The course focus is on the process as well as fundamentals of integrating microprocessor-based embedded system elements for digital command and control of typical embedded hardware systems.
+
+Lab Description: The course requires the student to install embedded Linux on the Raspberry Pi ARM A-Series System-on-Chip processor.  This course must be completed using a Raspberry Pi as an embedded system (headless) not a PC running Linux. You will however find Linux as a useful host development system or Windows with an SSH terminal access tool such as Putty, MobaXterm, or equivalent.",10095.0,25124.0,3.7,42.0
+Real-Time Embedded Systems Theory and Analysis,https://www.coursera.org/learn/real-time-embedded-theory-analysis,Physical Science and Engineering,Electrical Engineering,Sam Siewert ,"This course can also be taken for academic credit as ECEA 5316, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This course provides an in-depth and full mathematical derivation and review of models for scheduling policies and feasibility determination by hand and with rate monotonic tools along with comparison to actual performance for real-time scheduled threads running on a native Linux system. By the end of this course the learner will be able to full derive the fixed priority rate monotonic least upper bound for feasibility as well as justifying the rate monotonic policy and will be able to compare to dynamic priority scheduling including earliest deadline first and least laxity policies. 
+
+At the end of this course learners will be able to fully derive and explain the math model for the rate monotonic least upper bound as well as performing timing diagram analysis for fixed and dynamic priority software services.  Tools to provide analysis will be learned (Cheddar) to automate timing analysis and to compare to actual performance.
+
+Specific objectives include:
+●	Rate monotonic theory (complete math models)
+●	Differences between fixed priority rate monotonic policy and dynamic priority earliest deadline first and least laxity policies
+●	Scheduling theory and practice writing code for multi-frequency executives, priority preemptive RTOS services, and real-time threaded services on traditional operating systems (Linux)
+●	Building a simple Linux multi-service system using POSIX real-time extensions on Raspberry Pi 3b using sequencing and methods to log and verify agreement between theory and practice
+●	Timing diagram generation and analysis using Cheddar",4023.0,5672.0,4.5,11.0
+Real-Time Mission-Critical Systems Design,https://www.coursera.org/learn/real-time-mission-critical-systems-design,Physical Science and Engineering,Electrical Engineering,Sam Siewert ,"This course can also be taken for academic credit as ECEA 5317, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+Upon completion of this course the learner will know the difference between systems you can bet your life on (mission critical) and those which provide predictable response and quality of service (reliable).  This will be achieved not only by study of design methods and patterns for mission critical systems, but also through implementation of soft real-time systems and comparison to hard real-time.  Methods of verification to determine ability to meet mission critical as well as soft real-time requirements will be learned so that the learner can properly assess risk, reliability and impact of failure in real-time systems.
+
+At the end of this course learners will be able to apply an architectural style (cyclic executive, RTOS, or embedded Linux) to more detailed design of a mission critical system, a soft real-time system, or a mixed hard and soft real-time system, including:
+
+●	Thorough understanding of hardware/software device interfaces and resource view for hardware abstraction layers (HAL, BSP)
+●	Design trade-offs with different real-time hardware architectures including single core, multi-core, hybrid-FPGA, GP-GPU, and DSP systems, with emphasis on multi-core
+●	Mission critical embedded systems architecture and key design elements
+●	Fault tolerant processing, memory, and I/O concepts",2567.0,5957.0,4.6,10.0
+Real-Time Project for Embedded Systems,https://www.coursera.org/learn/real-time-project-embedded-systems,Physical Science and Engineering,Electrical Engineering,Sam Siewert ,"This course can also be taken for academic credit as ECEA 5318, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+The final course emphasizes hands-on building of an application using real-time machine vision and multiple real-time services to synchronize the internal state of Linux with an external clock via observation.  Compare actual performance to theoretical and analysis to determine scheduling jitter and to mitigate any accumulation of latency.  The verification of the final project will include comparison of system timestamp logs with a large set of images which can be encoded into a video.  The final report will be peer reviewed and the captured frames and video uploaded for scripted assessment.
+
+Course Learning Outcomes:
+
+●	Outcome 1: Decompose a problem and set of basic real-time requirements into software modules and Linux POSIX real-time threads
+●	Outcome 2: Analyze services in terms of C (execution time), T (request period), and D (deadlines for completion) to establish feasibility and margin for meeting requirements
+●	Outcome 3: Design and construct a solution for a native Linux system equipped with a webcam to verify and demonstrate system synchronization using machine vision processing",1589.0,4110.0,,
+Recent Advances in Freeform Electronics,https://www.coursera.org/learn/freeform-electronics,Physical Science and Engineering,Electrical Engineering,Jang-Ung Park,"In this course, the learners will understand fundamental basic backgrounds of p-n junctions, diodes and MOSFETs (Metal Oxide Semiconductor Field Effect Transistors). Also, recent approaches on flexible / stretchable electronics, transparent optoelectronics, and printed electronics using one dimensional or two dimensional nanomaterials will be introduced. Furthermore, the formation of high-performance, transparent thin films or conductors using novel materials such as cellulose nanofibers or metal nanofibers is included for course materials. Examples of device fabrications, including touch screen panels, gas / chemical / bio sensors, smart contact lenses, wireless and transparent antennas, and OLEDs, are also introduced for next generation electronic devices.",3588.0,3811.0,4.7,88.0
+"Remote Sensing Image Acquisition, Analysis and Applications",https://www.coursera.org/learn/remote-sensing,Physical Science and Engineering,Electrical Engineering,John Richards,"Welcome to Remote Sensing Image Acquisition, Analysis and Applications, in which we explore the nature of imaging the earth's surface from space or from airborne vehicles.
+
+This course covers the fundamental nature of remote sensing and the platforms and sensor types used.  It also provides an in-depth treatment of the computational algorithms employed in image understanding, ranging from the earliest historically important techniques to more recent approaches based on deep learning.  
+
+It assumes no prior knowledge of remote sensing but develops the material to a depth comparable to a senior undergraduate course in remote sensing and image analysis.  That requires the use of the mathematics of vector and matrix algebra, and statistics.  It is recognised that not all participants will have that background so summaries and hand worked examples are included to illustrate all important material.
+
+The course material is extensively illustrated by examples and commentary on the how the technology is applied in practice.  It will prepare participants to use the material in their own disciplines and to undertake more detailed study in remote sensing and related topics.",8927.0,21911.0,4.6,87.0
+Requirements Writing,https://www.coursera.org/learn/requirements-writing,Physical Science and Engineering,Electrical Engineering,Dr Mike Ryan,"Welcome to ""Requirements Writing"". As the title indicates, over the next four weeks, we will be looking at the important task of writing of text-based requirement statements. The course takes you step by step through the rules for writing requirements statements in accordance with the ""Guide for Writing Requirements"" published by the International Council on Systems Engineering (INCOSE). 
+
+This course welcomes anyone who wants to find out how to write requirements. It is relevant to anyone in project management, engineering, QA, logistic support, operations, management, maintenance and other work areas. No specific background is required, and we welcome learners with all levels of interest and experience.",12801.0,39247.0,4.7,261.0
+Safety in the Utility Industry,https://www.coursera.org/learn/safety-utility-industry,Physical Science and Engineering,Electrical Engineering,Richard Stempniak,"This course arms you with basic utility industry safety knowledge. You will be educated about personal protective equipment, fire safety, hazardous materials and their symbols. You will gain insights to recognize the importance of a safe work environment.  
+
+This course is for individuals considering a career in the energy field (who have a high school diploma, at minimum, and basic knowledge of mathematics), and existing energy sector employees with less than three years of experience who have not completed similar training and would benefit from a course of foundational industry concepts.
+
+The course is a combination of online lectures, videos, readings and discussions. 
+
+This is the third course in the Energy Production, Distribution & Safety specialization that explores various facets of the power sector, and features a culminating project involving creation of a roadmap to achieve a self-established, energy-related professional goal. To learn more about the specialization, check out a video overview at https://www.youtube.com/watch?v=2Yh9qIYiUDk.",28917.0,20495.0,4.7,2096.0
+Semiconductor Physics,https://www.coursera.org/learn/semiconductor-physics,Physical Science and Engineering,Electrical Engineering,Wounjhang Park,"This course can also be taken for academic credit as ECEA 5630, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This course introduces basic concepts of quantum theory of solids and presents the theory describing the carrier behaviors in semiconductors. The course balances fundamental physics with application to semiconductors and other electronic devices. 
+
+At the end of this course learners will be able to:
+1. Understand the energy band structures and their significance in electric properties of solids
+2. Analyze the carrier statistics in semiconductors
+3. Analyze the carrier dynamics and the resulting conduction properties of semiconductors",24303.0,22072.0,4.4,233.0
+Sensor Manufacturing and Process Control,https://www.coursera.org/learn/sensor-manufacturing-process-control,Physical Science and Engineering,Electrical Engineering,"James Zweighaft, Jay Mendelson","""Sensor Manufacturing and Process Control"" can also be taken for academic credit as ECEA 5343, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This is our fourth course in our specialization on Embedding Sensor and Motors. To get the most out of this course, you should first take our first course entitled ""Sensors and Sensor Circuits"", our second course entitled ""Motor and Motor Control Circuits"", and our third course entitled ""Pressure, Force, Motion, and Humidity Sensors"". Our first course gives you a tutorial on how to use the hardware and software development kit we have chosen for the lab exercises. Our second and third courses give you three hands-on lab experiments using the kit. This third course assumes that you already know how to use the kit.
+
+You will learn about sensor signal characterization and manufacturing techniques and how to optimize the accuracy of sensors. You will also learn about more advanced sensors, proportional-integral-derivative (PID) control, and how this method is used to give you a closed loop sensor feedback system.
+
+After taking this course, you will be able to:
+●	Understand how sensor manufacturers characterize and calibrate their sensors.
+●	Tune a PID control loop and access the PID control function of the Cypress PSoC development kit for a motor control application.  
+●	Understand manufacturing methods used to build electro-mechanical and micro-machined sensors.
+
+You will need to buy the following components to do the two course projects based on the videos in this module. Note that if you have already purchased the PSOC 5LP PROTOTYPING KIT, you do not need to buy it again. 
+
+These parts may be purchased off the Digikey web site, www. Digikey.com. Or, you may obtain the specs from the site, and purchase them elsewhere. All are quantity one except for N107-ND where you need three, and 493-15371-ND where you need two. 
+
+428-3390-ND
+P14355-ND
+FQU13N10LTU-ND
+N107-ND
+1N5393-E3/54GICT-ND 
+RNF14FTD1K00CT-ND 
+P0.62W-1BK-ND
+493-15371-ND
+
+Additional equipment needed:
+
+•	Wire - various gauges and lengths
+
+•	Breadboard
+
+•	Oscilloscope – suggested models are:
+o	PICOSCOPE 2204A-D2 available on www.digikey.com or 
+o	Digilent 410-324 | OpenScope MZ available on www.newark.com 
+
+         Depending on your budget, you can also investigate these models: 
+o	Hantek HT6022BE20MHz - https://www.amazon.com/dp/B009H4AYII
+o	SainSmart DSO212 - https://www.amazon.com/dp/B074QBQNB7
+o	PoScope Mega50 USB - https://www.robotshop.com/en/poscope-mega50-usb-mso-oscilloscope.html
+o	ADALM2000 - https://www.digikey.com/en/products/detail/analog-devices-inc./ADALM2000/7019661",12193.0,11517.0,4.6,244.0
+Sensors and Sensor Circuit Design,https://www.coursera.org/learn/sensors-circuit-interface,Physical Science and Engineering,Electrical Engineering,"James Zweighaft, Jay Mendelson","This course can also be taken for academic credit as ECEA 5340, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+After taking this course, you will be able to:
+●	Understand how to specify the proper thermal, flow, or rotary sensor for taking real-time process data. 
+●	Implement thermal sensors into an embedded system in both hardware and software.
+●	Add the sensor and sensor interface into a microprocessor based development kit.
+●	Create hardware and firmware to process sensor signals and feed data to a microprocessor for further evaluation.
+●	Study sensor signal noise and apply proper hardware techniques to reduce it to acceptable levels.
+
+You will need to buy the following components to do the two course projects based on the videos in this module. Note that if you have already purchased the PSOC 5LP PROTOTYPING KIT, you do not need to buy it again. 
+These parts may be purchased off the Digikey web site, www. Digikey.com. Or, you may obtain the specs from the site, and purchase them elsewhere.
+
+These are the part numbers typed out, so you can copy and paste them into the Digikey web site. You will need one of each part.
+
+428-3390-ND
+NHD-0216BZ-RN-YBW-ND
+570-1229-ND
+A105970CT-ND
+
+Additional equipment needed:
+
+•	Wire - various gauges and lengths
+
+•	Breadboard
+
+•	Oscilloscope – suggested models are:
+o	PICOSCOPE 2204A-D2 available on www.digikey.com or 
+o	Digilent 410-324 | OpenScope MZ available on www.newark.com 
+
+	Depending on your budget, you can also investigate these models: 
+o	Hantek HT6022BE20MHz - https://www.amazon.com/dp/B009H4AYII
+o	SainSmart DSO212 - https://www.amazon.com/dp/B074QBQNB7
+o	PoScope Mega50 USB - https://www.robotshop.com/en/poscope-mega50-usb-mso-oscilloscope.html
+o	ADALM2000 - https://www.digikey.com/en/products/detail/analog-devices-inc./ADALM2000/7019661",41451.0,40035.0,4.6,1022.0
+Silicon Thin Film Solar Cells,https://www.coursera.org/learn/silicon-thin-film-solar-cells,Physical Science and Engineering,Electrical Engineering,"Pr. Bernard Drevillon, Erik Johnson","This course consists of a general presentation of solar cells based on silicon thin films. 
+
+It is the third MOOC of the photovoltaic series of Ecole polytechnique on Coursera. The general aspects of the photovoltaic field are treated in ""Photovoltaic Solar Energy"". And the detailed description of the crystalline silicon solar cells can be found in ""Physics of Silicon Solar Cells"".
+
+After a brief presentation of solar cells operation, thin film semiconductors are described here. The general properties of disordered and crystalline semiconductors are found very different, in particular in terms of band structure and doping mechanisms. Silicon thin films, generally less than 1 µm thick, are deposited from silane plasma leading to hydrogen incorporation. The growth mechanisms are discussed, in particular the capability to prepare partially crystallized thin films which appear as a mixture of nanocrystallites embedded in an amorphous tissue.
+
+The consequences of the semiconductor properties on solar cells behavior are reviewed. The optical properties of amorphous and nanocrystalline silicon are complementary. Thus the plasma process is particularly well adapted to the preparation of multijunctions, with conversion efficiencies around 13-15 %. Furthermore plasma processes allow to prepare solar cells in large area on glass or flexible substrates.
+
+Finally, it is shown that crystalline and amorphous silicon materials can be combine into heterojunctions solar cells with high efficiency conversion (about 25 %).
+
+**This course is part of a series of 3**
+Photovoltaic solar energy (https://www.coursera.org/learn/photovoltaic-solar-energy/)
+Physics of silicon solar cells (https://www.coursera.org/learn/physics-silicon-solar-cells/)
+Silicon thin film solar cells",5471.0,2816.0,4.3,110.0
+Sistemas Digitales: De las puertas lógicas al procesador,https://www.coursera.org/learn/sistemas-digitales,Physical Science and Engineering,Electrical Engineering,"Jean-Pierre Deschamps, Lluis Terés, Merce Rullan, Joaquín Saiz Alcaine, David Bañeres, Juan Antonio Martínez, Elena Valderrama","En este curso aprenderemos los fundamentos del diseño de los circuitos digitales actuales, siguiendo una orientación eminentemente práctica.
+
+A diferencia de otros cursos más ""clásicos"" de Circuitos Digitales, nuestro interés se centrará más en el Sistema que en la Electrónica que lo sustenta. Este enfoque nos permitirá sentar las bases del diseño de Sistemas Digitales complejos.
+
+Se trata de un curso muy adecuado para estudiantes de primeros cursos de carreras de Ingenierías cercanas a las TIC (Tecnologías de la Información y de las Comunicaciones), y para todas aquellas personas que deseen introducirse en el mundo de los Sistemas Digitales. Por otra parte, este primer curso de Sistemas Digitales es un paso obligado para aquellas personas que deseen posteriormente profundizar en temas como el hardware de computadores y/o los circuitos integrados de aplicación específica, con todas las aplicaciones que ello implica (robótica, biónica, control industrial, etc.).
+
+Al acabar el curso serás capaz de:
+
+   *  Diseñar Sistemas Digitales de complejidad media.
+   *  Comprender la descripción de Sistemas Digitales mediante lenguajes de alto nivel como VHDL.
+   *  Comprender el funcionamiento de los computadores a su nivel más básico (lenguaje máquina), así como su materialización e interpretación a través de sistemas digitales algorítmicos.
+
+
+ACLARACIONES
+* Puedes realizar el curso de manera gratuita. Con ello puedes acceder a todo los contenidos (vídeos, lecturas, cuestionarios, foros). Sin embargo, no permite la opción de obtener un certificado. 
+* Obtener el certificado implica cumplir una serie de requisitos, entre los cuales, abonar el coste asociado.",35532.0,31384.0,4.8,237.0
+Solar Energy System Design,https://www.coursera.org/learn/solar-energy-system-design,Physical Science and Engineering,Electrical Engineering,Neal Abrams,"Solar Energy System Design builds upon the introduction to PV systems from Solar Energy Basics course, which included basic system components and functions, as well as some basic system sizing using simplifying assumptions. You should at this point have a basic understanding of electrical power and energy, be able to calculate the energy needs of a site as well as energy production potential for a PV system at a given location under optimal conditions. Much of this course will focus on incorporating on the ground conditions into energy production considerations, and how to account for these conditions in system design and equipment selection. By the end of this course you should be able to incorporate losses in irradiance due to array setups with less than optimal positioning and/or shading, and account for variations in module output due to temperature variations in your system design.",17627.0,37169.0,4.7,274.0
+Techniques of Design-Oriented Analysis,https://www.coursera.org/learn/techniques-of-design-oriented-analysis,Physical Science and Engineering,Electrical Engineering,Dr. Dragan Maksimovic,"This course can also be taken for academic credit as ECEA 5706, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This is Course #2 in the Modeling and Control of Power Electronics course sequence. The course is focused on techniques of design-oriented analysis that allow you to quickly gain insights into models of switching power converters and to translate these insights into practical converter designs. The design-oriented techniques covered are the Extra Element Theorem and the N-Extra Element Theorem (N-EET). Through practical examples, it is shown how the EET can be used to simplify circuit analysis, to examine the effects of initially unmodeled components, and to design damping of converters such as SEPIC and Cuk to achieve high-performance closed-loop controls. The N-EET will allow you to perform circuit analysis and to derive circuit responses with minimum algebra. Modeling and design examples are supported by design-oriented MATLAB script and Spice simulations. After completion of this course, the student will gain analytical skills applicable to the design of high-performance closed-loop controlled switching power converters. 
+
+We strongly recommend students complete the CU Boulder Power Electronics specialization as well as Course #1 Averaged-Switch Modeling and Simulation before enrolling in this course (the course numbers provided below are for students in the CU Boulder's MS-EE program):
+ 
+● Introduction to Power Electronics (ECEA 5700)
+● Converter Circuits (ECEA 5701)
+● Converter Control (ECEA 5702)
+● Averaged-Switch Modeling and Simulation (ECEA 5705)
+
+After completing this course, you will be able to:
+
+● Understand statement and derivation of the Extra Element Theorem
+● Apply the Extra Element Theorem to converter analysis and design problems
+● Understand the statement of the N-Extra Element Theorem
+● Apply the N-Extra Element Theorem to converter analysis and design problems
+● Apply techniques of design-oriented analysis to analysis, design, and simulations of switching converters",2190.0,7342.0,4.8,20.0
+Theory of Angular Momentum,https://www.coursera.org/learn/theory-of-angular-momentum,Physical Science and Engineering,Electrical Engineering,Wounjhang Park,"This course can also be taken for academic credit as ECEA 5611, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This course introduces the quantum mechanical concept of angular momentum operator and its relationship with rotation operator. It then presents the angular momentum operators, their eigenvalues and eigenfunctions. Finally, it covers the theory of angular momentum addition. 
+
+At the end of this course learners will be able to:
+1. describe and analyze angular momentum states using quantum mechanically defined angular momentum operators,
+2. solve angular momentum eigenvalue equations and
+3. add angular momenta quantum mechanically.",,2958.0,,
+Transistor - Field Effect Transistor and Bipolar Junction Transistor,https://www.coursera.org/learn/transistor-field-effect-transistor-bipolar-junction-transistor,Physical Science and Engineering,Electrical Engineering,Wounjhang Park,"This course can also be taken for academic credit as ECEA 5632, part of CU Boulder’s Master of Science in Electrical Engineering degree.
+
+This course presents in-depth discussion and analysis of metal-oxide-semiconductor field effect transistors (MOSFETs) and bipolar junction transistors (BJTs) including the equilibrium characteristics, modes of operation, switching and current amplifying behaviors.
+
+At the end of this course learners will be able to:
+1. Understand and analyze metal-oxide-semiconductor (MOS) device
+2. Understand and analyze MOS field effect transistor (MOSFET)
+3. Understand and analyze bipolar junction transistor (BJT)",10045.0,8515.0,4.0,61.0
+Using Sensors With Your Raspberry Pi,https://www.coursera.org/learn/using-sensors-with-your-raspberry-pi,Physical Science and Engineering,Electrical Engineering,Drew Wilson,"This course on integrating sensors with your Raspberry Pi is course 3 of a Coursera Specialization and can be taken separately or as part of the specialization. Although some material and explanations from the prior two courses are used, this course largely assumes no prior experience with sensors or data processing other than ideas about your own projects and an interest in building projects with sensors. 
+
+This course focuses on core concepts and techniques in designing and integrating any sensor, rather than overly specific examples to copy. This method allows you to use these concepts in your projects to build highly customized sensors for your applications. 
+
+Some of the ideas covered include calibrating sensors and the trade-offs between different mathematical methods of storing and applying calibration curves to your sensors. We also discuss accuracy, precision, and how to understand uncertainty in your measurements. We study methods of interfacing analog sensors with your Raspberry Pi (or other platform) with amplifiers and the theory and technique involved in reducing noise with spectral filters. Lastly, we borrow from the fields of data science, statistics, and digital signal processing, to post-process our data in Python.",,,,
+Wireless Communications for Everybody,https://www.coursera.org/learn/wireless-communications,Physical Science and Engineering,Electrical Engineering,"Kwang-Soon Kim, Seong-Lyun Kim, Chan-Byoung Chae, Dae-Sik Hong, Song-Kuk Kim","This course will provide an introduction and history of cellular communication systems that have changed our lives during the recent four decades and will become an essential and inseparable part of human life. The principles of wireless communication theory are covered with emphasis on the essential concept delivery to non-major learners in the easiest way. Then, it will be covered how such principles are realized and how multimedia services can be delivered in practical LTE cellular systems by which learners are connected and enjoys together in their lives.
+
+After completing this course, learners will be able to understand
+1. What a cellular system is and how it has been developed so far 
+2. The very basic principles how information can be delivered efficiently using radio
+3. How such principles are realized in LTE systems.
+4. How people can be connected and multimedia services can be delivered in LTE systems",51385.0,35874.0,4.7,2307.0

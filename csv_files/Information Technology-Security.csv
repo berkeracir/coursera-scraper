@@ -1,0 +1,926 @@
+name,url,category,subcategory,instructors,description,enrollment,views,rating,raters
+A General Approach to Risk Management,https://www.coursera.org/learn/a-general-approach-to-risk-management,Information Technology,Security,"Michael Whitman, Ph.D., CISM, CISSP, Herbert J. Mattord, Ph.D., CISM, CISSP, CDP","Every organization uses its information to support its business operations. When there are threats in the internal and external environments, they create the risk of information loss or damage.  This course examines the design and construction of a risk management program, including policies and plans, to support the identification and treatment of risk to the organization’s information assets.",,2626.0,,
+Access Control Concepts,https://www.coursera.org/learn/access-control-concepts,Information Technology,Security,(ISC)² Education & Training,"Welcome to course 3 of 5 of this Specialization, Access Control Concepts.
+
+In Course 1, we introduced access control concepts. Now, we will take a more detailed look at the types of access control that every information security professional should be familiar with. We will discuss both physical and logical controls and how they are combined to strengthen the overall security of an organization. This is where we describe who gets access to what, why access is necessary, and how that access is managed.
+
+After completing this course, the participant will be able to: 
+
+Select access controls that are appropriate in a given scenario.
+
+- Relate access control concepts and processes to given scenarios.
+- Compare various physical access controls.
+- Describe logical access controls.
+- Practice the terminology of access controls and review concepts of access controls.
+
+Agenda
+
+Course Introduction
+Module 1: Key Concepts 
+Module 2: Administrative Controls
+Module 3: Physical Controls
+Module 4:Logical Controls
+Module 5: Controls Review
+
+This training is for IT professionals, career changers, college students, recent college graduates, advanced high school students and recent high school graduates looking to start their path toward cybersecurity leadership by taking the Certified in Cybersecurity entry-level exam.
+
+There are no prerequisites to take the training or the exam. It is recommended that candidates have basic Information Technology (IT) knowledge. No work experience in cybersecurity or formal education diploma/degree is required.",,4563.0,,
+Access Controls,https://www.coursera.org/learn/access-control-sscp,Information Technology,Security,(ISC)² Education & Training,"Welcome to Access Controls!
+
+The Access Controls Course provides information pertaining to specify what users are permitted to do, the resources they are allowed to access, and what operations they are able to perform on a system. Access Controls help managers limit and monitor systems use at a user level or group membership. You will understand the different access control systems and how they should be implemented to protect the system and data using the different levels of confidentiality, integrity, and availability.
+
+The Access Controls course provides information pertaining to specifying what users are permitted to do, the resources they are allowed to access, and what operations they are able to perform on a system. Access Controls help managers limit and monitor systems use at a user level, and is usually predefined based on authority level or group membership. You will understand the different access control systems and how they should be implemented to protect the system and data using the different levels of confidentiality, integrity, and availability.
+
+  Objectives
+1. Describe how to implement Authentication mechanisms
+2. Identify and operate internetwork trust architectures
+3. Describe the process of administering identity management life cycle
+4. Implement the different types of access controls (Subject/Object based)",7441.0,7847.0,4.7,306.0
+Advanced Python - Reconnaissance,https://www.coursera.org/learn/python-in-recon,Information Technology,Security,Howard Poston,Welcome to advanced Python for Cybersecurity. The Reconnaissance course demonstrates the use of Python to automate the process of performing reconnaissance on target environments. We will also demonstrate how Python can be used to automate a password guessing attach to gain initial access to a target environment.,1744.0,6466.0,4.4,17.0
+Aplicando seguridad en apps con Azure,https://www.coursera.org/learn/seguridad-azure,Information Technology,Security,Nestor Nicolas Campos Rojas,"En este proyecto de 1 hora, conocerás los principales servicios asociados a la seguridad en las aplicaciones de Microsoft Azure y lo fundamental de utilizarlas para dar confianza a tus usuarios, todo mediante ejercicios simples y prácticos.",,,,
+Aruba Network Security Basics for Spanish Speakers,https://www.coursera.org/learn/aruba-network-security-basics-spanish,Information Technology,Security,"Ricardo Cobos, Aruba Education Services","En Aruba Network Security Basics, usted explorará qué amenazas suponen un riesgo para una red informática básica y qué tecnologías de seguridad están disponibles para reforzar sus dispositivos contra estos ataques. ¿Cómo se encriptan los mensajes? ¿Qué es exactamente el malware? ¿Qué tecnologías podemos desplegar para que las redes se defiendan por sí mismas? Nuestras vidas y negocios dependen de tener un acceso seguro y confiable a nuestras redes, pero ¿qué se necesita para garantizar esa seguridad? El curso Aruba Network Security Basics es un punto de partida para las personas interesadas en una carrera como profesional de la seguridad, y para cualquiera que quiera familiarizarse con las tecnologías de seguridad de Aruba.",,,,
+Automating Response to Phishing with Cortex XSOAR,https://www.coursera.org/learn/googlecloud-automating-response-to-phishing-with-cortex-xsoar-bzial,Information Technology,Security,Google Cloud Training ,"We help millions of organizations empower their employees, serve their customers, and build what’s next for their businesses with innovative technology created in—and for—the cloud. Our products are engineered for security, reliability, and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping customers apply our technologies to create success.",,,,
+Blockchain Evolution and Technology Concepts,https://www.coursera.org/learn/blockchain-evolution-and-technology-concepts,Information Technology,Security,AICPA ,This specialization offers the latest developments in blockchain technology through a highly engaging learning experience with animated video components and intuitive course flow to maximize your knowledge retention.,3340.0,3329.0,4.7,102.0
+Blockchain Opportunities Beyond Crypto Assets,https://www.coursera.org/learn/blockchain-opportunities-beyond-crypto-assets,Information Technology,Security,AICPA ,This specialization offers the latest developments in blockchain technology through a highly engaging learning experience with animated video components and intuitive course flow to maximize your knowledge retention.,1849.0,2184.0,4.5,59.0
+C++ Interacting with the World and Error Handling,https://www.coursera.org/learn/c-interacting-with-the-world-and-error-handling,Information Technology,Security,Martin Dubois,"Explore the C and C++ languages. Look at the specificity of the C/C++ languages and how this impacts security, ways C/C++ can interact with the external world, error handling, the execution environment and much more.",,,,
+C++ Superpowers and More,https://www.coursera.org/learn/c-superpowers-and-more,Information Technology,Security,Martin Dubois,"Explore the C and C++ languages. Look at the specificity of the C/C++ languages and how this impacts security, ways C/C++ can interact with the external world, error handling, the execution environment and much more.",,,,
+Check Point Jump Start: Maestro Hyperscale Network Security,https://www.coursera.org/learn/check-point-jump-start-maestro,Information Technology,Security,"Check Point Software Technologies, Ltd., Daniel Niazov","In this course brought to you by industry leader Check Point, they will cover the Maestro Orchestrator initial installation, creation and configuration of security group via the web user interface and SmartConsole features. This course provides a demonstration of the Maestro product. Course will prepare you for their exam, #156-412, at PearsonVUE.",1751.0,,,
+Check Point Jump Start: Network Security,https://www.coursera.org/learn/check-point-jump-start-network-security,Information Technology,Security,"Check Point Software Technologies, Ltd., Daniel Niazov","In this course brought to you by industry leader Check Point, they will cover cybersecurity threats and elements of Check Point's Security Management architecture. This course will prepare you for the exam, #156-412, at PearsonVUE.(https://home.pearsonvue.com/checkpoint)",7713.0,3840.0,4.5,31.0
+Check Point Jump Start: Product Deployment,https://www.coursera.org/learn/check-point-jump-start-product-deployment,Information Technology,Security,"Daniel Niazov, Check Point Software Technologies, Ltd.","In this course, you will learn the concept of software deployment and the methods and tools used for deployment of Check Point products. And, we will drill down into each deployment tool, providing an overview of how to use it given a common use case.
+
+Lesson 1 – Introduction
+Lesson 2 – Deployment 101
+     In this lesson we will briefly discuss what deployment is, the types and methods of deploying Check Point 
+     software, and we’ll go over a high level overview of the Check Point deployment tools.
+Lesson 3 – CPUSE
+     In this lesson you will learn about when and how you should use CPUSE in a relevant deployment, and you’ll 
+     learn some basic troubleshooting during the deployment process.
+Lesson 4 – CDT
+     In this lesson you will learn about when and how you should use CDT in a relevant deployment, 
+     troubleshooting in the deployment process, and using CDT’s RMA mode.
+Lesson 5 – Central Deployment in SmartConsole
+     In this lesson you will learn about when and how you should use Central Deployment in SmartConsole in a 
+     relevant deployment.
+Lesson 6 – Zero Touch
+     In this lesson you will learn about when and how you should use Zero Touch in a relevant deployment.
+Lesson 7 – Course summary",,,,
+Check Point Jump Start: Quantum Management,https://www.coursera.org/learn/check-point-jump-start-quantum-management,Information Technology,Security,"Check Point Software Technologies, Ltd.","""Check Point's Quantum is the best Threat Prevention solution on the Market! It offers uncompromising Security, consistently preventing both known and unknown Zero-day attacks.  Check Point Quantum Network Security provides ultra-scalable protection against Gen V cyber attacks on your network, cloud, data center, IoT, and remote users.
+
+This course includes these modules:
+1.	Intro
+2.	Installing Gaia
+3.	Running the First Time Wizard.
+4.	Installing SmartConsole
+5.	Establish SIC
+6.	Create & installing Policy
+7.	Enable application control blade
+8.	Enable IDA blade
+9.	Enable HTTPS Inspection
+10.	Enable Autonomous Threat Prevention
+11.	Adding License
+12.	CPUSE SmartConsole
+13.	Gathering cpinfo
+
+This course is suitable for new Check Point customers with no prior experience configuring or administrating Check Point Network Security products.""
+
+
+To learn more about Check Point Training, see: 
+https://www.checkpoint.com/mind/
+https://training-certifications.checkpoint.com/#/",,,,
+Cloud and Wireless Security,https://www.coursera.org/learn/sscp-4th-ed-course-6,Information Technology,Security,(ISC)² Education & Training,"Course 6: Cloud and Wireless Security
+
+Welcome to course six. This course applies to security concepts, ideas, and considerations to two major changes that we have experienced in recent years. It's regarding the way we use the data. First, we use our data on the go. In other words, data services are provided to our mobile phones, Wi-Fi, and other devices. Second, many enhanced functions are implemented through services hosted in the cloud platform, where our data is stored or processed. Both transformations are complex topics. However, as a security practitioner, we can narrow these two topics by applying the security fundamentals to secure the data. This boils down to the three basics of protecting data at rest, in motion, and in use. The data is either on the endpoint devices, servers, or other endpoints, making these services a reality. 
+
+Course 6 Learning Objectives
+
+After completing this course, the participant will be able to: 
+
+L6.1 - Recall cloud security concepts and configurations.
+L6.2 - Recognize types of virtualization and cloud security considerations.
+L6.3 - Summarize the types of telecommunications and network access controls.
+
+Course Agenda
+
+Module 1: Operate and Configure Cloud Security (Domain 7 - Systems and Application Security)
+Module 2: Cloud Security Considerations (Domain 6 - Network and Communications Security)
+Module 3: Secure Wireless Configurations (Domain 6 - Network and Communications Security)
+
+Who Should Take This Course: Beginners
+
+Experience Required: No prior experience required",,9423.0,,
+Configure and Manage Azure Key Vault,https://www.coursera.org/learn/configure-and-manage-azure-key-vault,Information Technology,Security,Priya Jha,"In this 1 hour long project-based course, you will learn to configure and manage Azure Key Vault along with the sensitive data stored inside. First, we will learn to create an Azure Key Vault within the Azure portal. Then we will learn to create keys, secrets, and certificates on the Azure Key Vault using PowerShell and the Azure portal. We will also assign a Key Vault contributor role to an existing user. You will also discover how to configure access policies in order to grant permissions to the Key Vault objects and store the connection strings of the storage account and Azure SQL database to secrets in Azure Key Vault. Finally, we’ll explore how to use  Azure Key Vault in the Azure data factory.
+
+You must have an active Azure account.
+Basic knowledge of working with Azure is recommended.",,,,
+"Credential Access, discovery, lateral movement & collection",https://www.coursera.org/learn/credential-access-discovery-lateral-movement--collection,Information Technology,Security,Howard Poston,"This course covers credential Access, discovery, lateral movement & collection.",1666.0,4305.0,4.7,22.0
+Cryptography,https://www.coursera.org/learn/cryptography-sscp,Information Technology,Security,(ISC)² Education & Training,"Welcome to Cryptography!
+
+Cryptography is the practice and study of techniques for securing communications in the presence of third parties. You will learn how to protect information in order to ensure its integrity, confidentiality, authenticity, and non-repudiation.
+You will come out with a basic understanding of cryptographic concepts and how to apply them, implement secure protocols, key management concepts, key administration and validation, and Public Key Infrastructure.
+
+Course Objectives
+1. Apply the fundamental concepts of cryptography
+2. Describe the difference between symmetric and asymmetric cryptography
+3. Define the basic requirements for cryptography
+4. Identify processes to support secure protocols
+5. Describe the process for implementing cryptographic systems
+6. Define key management concepts
+7. Define Public Key Infrastructure
+8. Identify processes for key administration and validation
+9. Describe the implementation of secure protocols",4541.0,30604.0,4.7,190.0
+Créer des connexions sécurisées avec Tor pour l'anonymat,https://www.coursera.org/learn/creer-connexion-securisee-tor-anonymat-vie-privee-internet,Information Technology,Security,Viranson HOUNNOUVI,"Ce projet guidé “Créer des connexions sécurisées avec Tor pour l'anonymat sur internet” est destiné à toute personne souhaitant apprendre à naviguer anonymement sur internet ou soucieux de la protection de sa vie privée sur internet. Dans ce projet guidé d'une heure, vous apprendrez à installer le navigateur Tor, à le configurer pour une navigation sécurisée, à accéder au deep web et à éviter les mauvaises pratiques dans l’utilisation de Tor pour la protection de la vie privée. Pour parvenir à la réalisation de ce projet guidé, nous avancerons pas à pas sur un ensemble de 7 tâches avec deux exercices pratiques d'auto-évaluation. Ce projet guidé, totalement présenté en Français, est spécialement conçu avec des explications approfondies sur les différents éléments qui y sont abordés. Pour profiter au maximum de ce projet guidé qui se déroulera dans un environnement Linux, Il vous serait utile mais non indispensable, d’avoir les bases sur les commandes Linux, notamment la création et la gestion des répertoires et fichiers puis l’installation de paquets.",,,,
+Créer une connexion sécurisée avec Tor,https://www.coursera.org/learn/creer-une-connexion-securisee-avec-tor,Information Technology,Security,Ali Rahme,"Dans ce projet guidé d'une heure, vous apprendrez au navigateur Tor qui est utilisé pour naviguer anonymement sur Internet, en utilisant la technique de routage d'oignon.
+À la fin de ce projet, vous allez être capable à utilisez ce navigateur en toute sécurité.",,,,
+Cyber Threat Intelligence,https://www.coursera.org/learn/ibm-cyber-threat-intelligence,Information Technology,Security,IBM Security Learning Services,"This course gives you the background needed to gain Cybersecurity skills as part of the Cybersecurity Security Analyst Professional Certificate program. 
+
+You will understand network defensive tactics, define network access control and use network monitoring tools. You will understand data protection risks and explore mobile endpoint protection. Finally you will recognize various scanning technologies, application security vulnerabilities and threat intelligence platforms.
+
+This course also gives you hands on access to cybersecurity tools important to a system analyst.
+
+This course is intended for anyone who wants to gain a basic understanding of Cybersecurity or as the sixth course in a series of courses to acquire the skills to work in the Cybersecurity field as a Cybersecurity Analyst.
+
+The completion of this course also makes you eligible to earn the Cyber Threat Intelligence IBM digital badge.  More information about the badge can be found https://www.youracclaim.com/org/ibm/badge/cyber-threat-intelligence.
+
+In this course, you will learn to:
+
+•	Describe examples of network defensive tactics.
+•	Discuss data loss prevention and endpoint protection concepts and tools. 
+•	Explore a data loss prevention tool and learn how to classify data in your database environment. 
+•	Describe security vulnerability scanning technologies and tools.
+•	Recognize application security threats and common vulnerabilities.
+•	Identify the key concepts around threat intelligence.
+•	Explore a SIEM product and review suspicious alerts and how to take action.",30808.0,149368.0,4.7,1153.0
+Cyber Threats and Attack Vectors,https://www.coursera.org/learn/cyber-threats-attack-vectors,Information Technology,Security,Greg Williams,"Data breaches occur nearly every day.  From very large retailers, down to your fantasy football website, and anywhere in between, they have been compromised in some way.  How did the attackers get in?  What did they do with the data they compromised?  What should I be concerned with in my own business or my systems?  This course is the second course in the Practical Computer Security.  It will discuss types of threats and attack vectors commonly seen in today’s environment.  I hate to be the bearer of bad news, but threats are all over the place!  This course isn’t designed to insight fear that there is no hope for keeping systems and business secure, but rather educate you on how attacks are carried out so that you have a better sense of what to look out for in your business or with your systems.",28592.0,11599.0,4.7,637.0
+Cybersecurity Awareness and Innovation,https://www.coursera.org/learn/cybersecurity,Information Technology,Security,"Iván Martínez, Iván Pau, Román Ramírez","It’s not you, it’s me! What’s going on? 
+
+This course empowers students, professionals and the wider community to deal with cybersecurity attacks and risks focused on identity management and it is an introduction to the upcoming full course focused on cybersecurity awareness.
+It provides a practical overview of challenging issues like identity credentials management and security, e-mail threats and web impersonation, or web hacking. In addition to this, you will have a practical appreciation of innovation applied to these concepts through an interview with a renowned expert in fraud and cybercrime. The teaching staff consists of Iván Pau, UPM researcher and expert in usable security, and Román Ramírez, hacker and cybersecurity expert.  
+Learning will be carried out by introducing use cases related to cybersecurity incidents, in a way that ensures participants to get really involved in the course. You will easily acquire practical skills and be ready to face real threats in a digital world.
+
+This course is part of an online programme developed by Universidad Politécnica de Madrid (world-class tech university renowned for the quality of its education programmes and the research undertaken at its centres), Ferrovial (the world's leading private investor in cities and infrastructures, with a workforce of more than 74.000 employees and operations in more than 16 countries) and EIT Digital.",16356.0,79755.0,4.7,538.0
+Cybersecurity Capstone:  Breach Response Case Studies,https://www.coursera.org/learn/ibm-cybersecurity-breach-case-studies,Information Technology,Security,IBM Security Learning Services,"This course gives you the background needed to gain Cybersecurity skills as part of the Cybersecurity Security Analyst Professional Certificate program. 
+
+You will explore incident response methodologies and security models.  You will learn to recognize and categorize key types of vulnerabilities and associated attacks against today's organizations.  You will explore in depth several past and recent breaches to learn how they were detected and what was done or could have been done to reduce the threat risk to the organization.
+Finally, you will explore the costs of data breaches through research studies and well known breaches.
+
+This course requires you to select and research a cybersecurity breach in the news today and apply your knowledge and skills from this course and previous cybersecurity courses to analyze the type of attack, attack timeline, vulnerable systems, and any missed opportunities.  This project will be graded by your peers in the course.
+
+This course is intended for anyone who wants to gain a basic understanding of Cybersecurity or as the seventh and final course in a series of courses to acquire the skills to work in the Cybersecurity field as a Cybersecurity Analyst.
+
+The completion of this course also makes you eligible to earn the Cybersecurity Capstone:  Breach Response Case Studies IBM digital badge.  More information about the badge can be found https://www.youracclaim.com/org/ibm/badge/cybersecurity-breach-case-studies .
+
+In this course, you will learn to:
+
+●	Apply incident response methodologies.
+●	Research and describe a watering hole attack.
+●	Research and describe ransomware threats and the consequences to organization.
+●	Research and describe 3rd party breaches and how they affect an organization.
+●	Research and describe the effects of a phishing attack.
+●	Research and describe a point of sale attack and approximate cost of data breaches.
+●	Perform a case study on a current cyber attack and breach.",24152.0,124180.0,4.8,1039.0
+Cybersecurity Compliance Framework & System Administration,https://www.coursera.org/learn/cybersecurity-compliance-framework-system-administration,Information Technology,Security,IBM Security Learning Services,"This course gives you the background needed to understand the key cybersecurity compliance and industry standards.  This knowledge will be important for you to learn no matter what cybersecurity role you would like to acquire or have within an organization.
+
+You will learn the basic commands for user and server administration as it relates to security. You will need this skill to be able to understand vulnerabilities within your organizations operating systems.
+
+You will learn the concepts of endpoint security and patch management.  Both of these topics are important to keep systems current to avoid cybersecurity incidents against an organization.
+
+Finally you will learn in depth skills around cryptography and encryption to understand how these concepts affect software within a company.  
+
+This course is intended for anyone who wants to gain a basic understanding of Security Frameworks, Compliance, endpoint management, encryption or cryptography or as the third course in a series of courses to gain the skill as a Jr Cybersecurity analyst.",58558.0,190774.0,4.7,2636.0
+Cybersecurity Foundations for Risk Management,https://www.coursera.org/learn/cybersecurity-foundations-for-risk-management,Information Technology,Security,"Herbert J. Mattord, Ph.D., CISM, CISSP, CDP, Michael Whitman, Ph.D., CISM, CISSP","In order to manage the cybersecurity function business, you must first understand its language and its environment.  This course covers the foundations of cybersecurity, including threats and vulnerabilities as well as the tools, technologies, and strategies used to manage it.
+
+After completing this course, a learner will be able to:
+●	Define key concepts and terminology in Cybersecurity
+●	Identify threats to cybersecurity
+●	Identify strategies to identify and remediate vulnerabilities in information assets 
+●	Identify the systemic components  (including personnel) necessary for an effective cybersecurity program",,7254.0,4.7,35.0
+Cybersecurity Job Search and Interviews: Getting Started,https://www.coursera.org/learn/cybersecurity-jobs,Information Technology,Security,"Herbert J. Mattord, Ph.D., CISM, CISSP, CDP, Michael Whitman, Ph.D., CISM, CISSP","Are you planning to have a career in cybersecurity?
+
+This course can help you plan your preparation for such a career as well as give some advice on finding positions and landing a position.
+
+After completing this course, a learner will be able to:
+•	Define the cybersecurity field and describe its variations.
+•	Describe the need for qualified cybersecurity professionals in U.S. and global organizations.
+•	Discuss the cybersecurity professional’s role in an organization’s cybersecurity effort.
+•	Describe the NIST NICE Cybersecurity Workforce Framework and the use as a cybersecurity career development tool.
+•	Explain the structure, location, and responsibilities of the cybersecurity department in a traditional versus non-traditional organization.
+•	List and explain the knowledge preparation for the cybersecurity professional from an education versus training perspective.
+•	List and describe the various cybersecurity certifications available to cybersecurity professionals and differentiate their suitability based on the professional’s career status.
+•	Describe the process and resources for finding the perfect cybersecurity job.
+•	Discuss the expectations and issues associated with the long-term cybersecurity career.",,2808.0,4.8,10.0
+"Cybersecurity Roles, Processes & Operating System Security",https://www.coursera.org/learn/cybersecurity-roles-processes-operating-system-security,Information Technology,Security,IBM Security Learning Services,"This course gives you the background needed to understand basic Cybersecurity  around people. process and technology.  You will learn:
+
+●	 Understand the key cybersecurity roles within an Organization. 
+●	 List key cybersecurity processes and an example of each process.
+●	 Describe the architecture, file systems, and basic commands for multiple operating systems including Windows, Mac/OS, Linux and Mobile.
+●	 Understand the concept of Virtualization as it relates to cybersecurity 
+
+Finally, you will begin to learn about organizations and resources to further research cybersecurity issues in the Modern era.
+
+This course is intended for anyone who wants to gain a basic understanding of Cybersecurity or as the second course in a series of courses to acquire the skills to work in the Cybersecurity field as a Jr Cybersecurity Analyst.
+
+The completion of this course also makes you eligible to earn the Cybersecurity Roles, Processes & Operating System Security IBM digital badge.  More information about the badge can be found here:   https://www.youracclaim.com/org/ibm/badge/cybersecurity-roles-processes-operating-system-security",83649.0,286474.0,4.6,4398.0
+Cybersecurity for Data Science,https://www.coursera.org/learn/cybersecurity-for-data-science,Information Technology,Security,Al Pisano,"This course aims to help anyone interested in data science understand the cybersecurity risks and the tools/techniques that can be used to mitigate those risks.  We will cover the distinctions between confidentiality, integrity, and availability, introduce learners to relevant cybersecurity tools and techniques including cryptographic tools, software resources, and policies that will be essential to data science. We will explore key tools and techniques for authentication and access control so producers, curators, and users of data can help ensure the security and privacy of the data.
+
+This course can be taken for academic credit as part of CU Boulder’s Master of Science in Data Science (MS-DS) degree offered on the Coursera platform. The MS-DS is an interdisciplinary degree that brings together faculty from CU Boulder’s departments of Applied Mathematics, Computer Science, Information Science, and others. With performance-based admissions and no application process, the MS-DS is ideal for individuals with a broad range of undergraduate education and/or professional experience in computer science, information science, mathematics, and statistics. Learn more about the MS-DS program at https://www.coursera.org/degrees/master-of-science-data-science-boulder.",1643.0,17066.0,4.1,10.0
+Cybersecurity for Managers,https://www.coursera.org/learn/cybersecurity-for-managers,Information Technology,Security,Campus BBVA,"En el mundo empresarial, los managers suelen ser el principal objetivo de un ciberataque, ya que tienen acceso a información confidencial, a cuentas o a transacciones económicas. Además, sus relaciones con múltiples contactos de interés como clientes, proveedores o personas de la misma organización los convierten en objetivos especialmente atractivos para los ciberdelincuentes. 
+
+Por ello, en este curso trataremos las temáticas más relevantes en el ámbito de la ciberseguridad que debes conocer. Desde los riesgos a los que estamos expuestos, pasando por la importancia de la defensa personal y hasta cómo las organizaciones deben gestionar las crisis de seguridad o el diseño de procesos seguros.
+
+Anímate a adentrarte en el mundo de la ciberseguridad de la mano de este curso diseñado especialmente para managers. ¡Adelante!",6843.0,23652.0,4.7,200.0
+Cybersecurity for Tech Professionals,https://www.coursera.org/learn/cybersecurity-for-tech-professionals,Information Technology,Security,Campus BBVA,"Como integrantes del mundo empresarial, los profesionales de la tecnología suelen ser el principal objetivo de un ciberataque, ya que tienen acceso a información confidencial, a cuentas o a los sistemas de una empresa. Aunque sean conocedores de los riesgos a los que están sometidos las organizaciones en las que trabajan, es importante tener un amplio y consolidado conocimiento en materia de ciberseguridad para poder prevenir los ataques.
+
+Por ello, en este curso trataremos las temáticas más relevantes en el ámbito de la ciberseguridad que debes conocer. Desde los riesgos a los que estamos expuestos, pasando por la importancia de la securización de las operaciones y hasta cómo las organizaciones deben gestionar las crisis de seguridad, sin olvidarnos de la gestión de los incidentes y del fraude.
+
+Anímate a adentrarte en el mundo de la ciberseguridad de la mano de este curso diseñado especialmente para profesionales en la tecnología. ¡Adelante!",2166.0,23247.0,4.6,36.0
+Cybersecurity in Healthcare (Hospitals & Care Centres),https://www.coursera.org/learn/cybersecurity-in-healthcare,Information Technology,Security,"Jason H. Pridmore, Tessa A. P. Oomen","The Cybersecurity in Healthcare MOOC was developed as part the SecureHospitals.eu project. This project has received funding from the European Union’s Horizon 2020 Coordination Research and Innovation Action under Grant Agreement No. 826497.
+
+The course ""Cybersecurity in Healthcare"" has been developed to raise awareness and understanding the role of cybersecurity in healthcare (e.g., hospitals, care centres, clinics, other medical or social care institutions and service organisations) and the challenges that surround it. In this course, we will cover both theoretical and practical aspects of cybersecurity. We look at both social aspects as technical aspects that come into play. Furthermore, we offer helpful resources that cover different aspects of cybersecurity. Even if you are not active in the healthcare domain, you will find helpful tips and insights to deal with cybersecurity challenges within any other organisation or in personal contexts as well.
+
+This course begins by introducing the opportunities and challenges that digitalisation of healthcare services has created. It explains how the rise of technologies and proliferation of (medical) data has become an attractive target to cybercriminals, which is essential in understanding  why  adequate cybersecurity measures are critical within the healthcare environment. In later modules, course contents cover the threats, both inside and outside of healthcare organisations like e.g. social engineering and hacking. Module 4 on Cyber Hygiene describes how to improve cybersecurity within healthcare organisations in practical ways.  Module 5 looks deeper into how organisational culture affects cybersecurity, the cybersecurity culture, focusing on the interaction between human behaviour and technology and how organisational factors can boost or diminish the level and attention to cybersecurity in healthcare.
+
+Do you work for a hospital, clinic, medical practice, care centre, care provider, social care organisation, or nursing home? Do you want to improve your personal or your organisation’s cybersecurity (cyber security, IT security, information security, network security, computer security, awareness)? Then please visit https://www.securehospitals.eu to gain access to a range of resources. You can also join the Security providers and Trainers platform (see: https://www.securehospitals.eu/for-providers-and-trainers/) or our Community of Practice (see: https://www.securehospitals.eu/community/).",8175.0,18395.0,4.6,171.0
+Cybersécurité : comment sécuriser un site web,https://www.coursera.org/learn/cybersecurite-site-web-securite,Information Technology,Security,"Julien Lolive, Phillipe Quémerais","L’usage du web et sa sécurisation sont devenus incontournables et la cybersécurité est l'un des domaines professionnels parmi les plus demandés.
+
+Ce MOOC vous permet d'acquérir les compétences de base pour sécuriser des sites web et ce dès la phase de conception (security by design).
+
+Il aborde les concepts et enjeux de la cybersécurité ainsi que les mécanismes de protection contre les cyberattaques. 3 types d’attaque exploitant des vulnérabilités des sites web sont abordés : injections SQL, Cross-Site Scripting (XSS) et Traversal Directory. Des travaux pratiques de simulation vous permettront d'acquérir des compétences techniques immédiatement applicables à la conception et au développement de sites internet, dans des conditions de sécurité optimales.
+
+Quels que soient leurs secteurs d’activité, la majorité des organisations possèdent un site internet et ces derniers sont aujourd’hui des cibles privilégiées. Les cyberattaques sont de plus en plus fréquentes et tous les types d’organisation sont touchés : TPE/PME, grands groupes, collectivités, administration publique, établissements hospitaliers...
+Grâce à ce cours, vous apprendrez à identifier les risques pour les anticiper et appliquer les mécanismes de protection en amont.",,2922.0,,
+Data Encryption using AWS KMS From UST,https://www.coursera.org/learn/data-encryption-using-aws-kms-ust,Information Technology,Security,Ann Kovattil,"Welcome to this Guided Project on Data Encryption using AWS KMS, From UST. 
+
+For more than 20 years, UST has worked side by side with the world’s best companies to make a real impact through transformation. Powered by technology, inspired by people and led by their purpose, they partner with clients from design to operation. 
+
+With this Guided Project from UST, you can quickly build in-demand job skills and expand your career opportunities in the Securities field by learning how to use AWS KMS for Cryptographic Operations. 
+
+Join me as we explore different approaches to the Encryption / Decryption Process and learn how to create Symmetric and Asymmetric Customer Keys. Combining detailed explanations with practical experience, by the end of this project, you will be able to Encrypt/ Decrypt your sensitive data using the regional service, AWS KMS (Key Management Service). 
+
+If you dream about working in high profile industry jobs as a Data Security specialist, this project is a great place to start. This is a beginner level project, and does not require any previous experience. 
+
+Enroll now to get started!",3607.0,,4.6,34.0
+Data Privacy Fundamentals,https://www.coursera.org/learn/northeastern-data-privacy,Information Technology,Security,Woodrow Hartzog,"This course is designed to introduce data privacy to a wide audience and help each participant see how data privacy has evolved as a compelling concern to public and private organizations as well as individuals. In this course, you will hear from legal and technical experts and practitioners who encounter data privacy issues daily. This course will review theories of data privacy as well as data privacy in the context of social media and artificial intelligence. It will also explore data privacy issues in journalism, surveillance, new technologies like facial recognition and biometrics. Completion of the course will enable the participant to be eligible for CPE credit.",13608.0,22203.0,4.8,453.0
+Defensive Python,https://www.coursera.org/learn/defensive-python,Information Technology,Security,Howard Poston,This course demonstrates the use of Python for network analysis to detect and hijack suspicious connections.,,1866.0,,
+Detecting and Mitigating Cyber Threats and Attacks,https://www.coursera.org/learn/detecting-cyber-attacks,Information Technology,Security,Greg Williams,"Computer attacks and data breaches are inevitable.  It seems like every day a data breach occurs and the victims of the data breach suffer.  Their information is stolen or posted online.  The company’s or businesses who had the breach go on, learn a little from the attack, and just give credit monitoring out as if nothing happened.  What if you could help prevent a data breach in your organization?  This is the third course in the Practical Computer Security specialization.  This course looks at detection and mitigation of threats and attack vectors and discusses how to use tools and principles to protect information.  By the end of the course you should be able to make suggestions on what type of detection and mitigation strategy is right for your systems or business given the known threats and attack vectors.  You should be able to discuss what features you want in a firewall, or how cash registers or sensitive data systems should be secured.  The project at the end of the course will allow you to apply what you have learned to argue what type of detection and mitigation strategies should have been employed by companies and businesses that have suffered a data breach.",21056.0,6921.0,4.7,401.0
+Digital Forensics Concepts,https://www.coursera.org/learn/digital-forensics-concepts,Information Technology,Security,Denise Duffy,"In the Digital Forensics Concepts course, you will learn about legal considerations applicable to computer forensics and how to identify, collect and preserve digital evidence. This course dives into the scientific principles relating to digital forensics and gives you a close look at on-scene triaging, keyword lists, grep, file hashing, report writing and the profession of digital forensic examination.",4994.0,22916.0,4.8,113.0
+Dominant Risk Management Standards and Frameworks,https://www.coursera.org/learn/dominant-risk-management-standards-and-frameworks,Information Technology,Security,"Herbert J. Mattord, Ph.D., CISM, CISSP, CDP, Michael Whitman, Ph.D., CISM, CISSP","Organizations with little experience in risk management will want to look to national and international organizations for guidance in designing and implementing their risk management efforts.  There are two dominant organizations that offer guidance in this area: the U.S. National Institute for Standards in Technology (NIST) and the International Standards Organization.  
+
+This course examines the risk management frameworks and standards offered by these organization and then discusses other available approaches.  The course concludes with a discussion of applications and tools to support the organization’s risk management effort.",,4336.0,,
+Enterprise System Management and Security,https://www.coursera.org/learn/enterprise-system-management-security,Information Technology,Security,Greg Williams,"The world runs on computers.  Your watch, your TV, your car.  You might be familiar on how to operate each of these.  Your home computer you are even more familiar with operating it.  But what does it take to really take computer systems to the next level?  - The enterprise level.  In this course we discuss what makes home computing systems different from enterprise computing systems. This course will also help you prepare and design your own home lab to explore enterprise operating systems.
+
+This course is for anyone who is exploring what it might take to have a job as a system administrator or for those who are already specialized in one area of system management and would like to move to another.  This course may also be for those who are looking to understand how computer security plays an important role in system management. 
+
+At the end of the course, you will also be able to illustrate how different enterprise technologies play role in computing at an enterprise level.  You will also be able to discuss the three pillars of the CIA triad and how they apply to enterprise systems.  
+While there is no technical and software component installs necessary for the completion of this course, supplemental how-to guides will be provided if you wish to follow along on the technical portion presented during the course.",26638.0,13024.0,4.7,578.0
+Establishing Command-and-Control and Finding Credentials,https://www.coursera.org/learn/establishing-command-and-control-and-finding-credentials,Information Technology,Security,Howard Poston,"This course demonstrates the use of Python to establish command-and-control channels between a target environment and the attackers infrastructure. This course also demonstrates the use of Python to collect information on a system, including both user credentials and other sensitive data.",,2119.0,,
+Ethical Hacking Essentials (EHE),https://www.coursera.org/learn/ethical-hacking-essentials-ehe,Information Technology,Security,EC-Council,"Ethical Hacking Essentials is an introductory cybersecurity course that covers ethical hacking and penetration testing fundamentals and prepares learners for a career in cybersecurity. This course will introduce learners to computer and network security concepts such as threats and vulnerabilities, password cracking, web application attacks, IoT and OT attacks, cloud computing, pentesting fundamentals, and more.
+
+This course provides hands-on practical experience to learners thus giving them the skills necessary for a future in cybersecurity.
+
+EHE-certified learners have an assured means of formal recognition to add to their resumes and show off their expertise and skills to prospective employers. This improves their prospects for employment advancement, higher salaries, and greater job satisfaction.",,43574.0,,
+"Execution, persistence, privilege escalation and evasion",https://www.coursera.org/learn/execution-persistence-privilege-escalation-and-evasion,Information Technology,Security,Howard Poston,"This course is a continuation of Python for Cybersecurity. The topics covered are execution, persistence, privilege escalation and evasion.",2553.0,6232.0,4.3,42.0
+Getting Started with Vault,https://www.coursera.org/learn/googlecloud-getting-started-with-vault-ngbj9,Information Technology,Security,Google Cloud Training ,"We help millions of organizations empower their employees, serve their customers, and build what’s next for their businesses with innovative technology created in—and for—the cloud. Our products are engineered for security, reliability, and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping customers apply our technologies to create success.",,,,
+Hands-On Labs in Google Cloud for Security Engineers,https://www.coursera.org/learn/hands-on-labs-google-cloud-security-engineer,Information Technology,Security,Google Cloud Training,"Security is an uncompromising feature of Google Cloud services, and Google Cloud has developed specific tools for ensuring safety and identity across your projects. In this course you will get added hands-on practice understanding and securing resources with multiple Google Cloud services including Google Kubernetes Engine (GKE).
+
+This course is unlike other courses, in that it consists of one module of background videos, followed by a series of hands-on practice exercises on Google Cloud via Qwiklabs. The practice modules include no videos, lectures, or quizzes - just more practice on real Google Cloud.
+
+If you enjoyed this course, you can check out the full quest including a challenge lab that requires a solution to be built with minimal guidance. You will have an opportunity to earn a Google Cloud digital Skill Badge on completion as well! Visit - google.qwiklabs.com and look for ‘Secure Workloads in Google Kubernetes Engine’ and ‘Ensure Access & Identity in Google Cloud’.",4091.0,,4.8,54.0
+Hardening Default GKE Cluster Configurations,https://www.coursera.org/learn/googlecloud-hardening-default-gke-cluster-configurations-akguq,Information Technology,Security,Google Cloud Training ,"We help millions of organizations empower their employees, serve their customers, and build what’s next for their businesses with innovative technology created in—and for—the cloud. Our products are engineered for security, reliability, and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping customers apply our technologies to create success.",,,,
+IBM Cybersecurity Analyst Assessment,https://www.coursera.org/learn/ibm-cybersecurity-analyst-assessment,Information Technology,Security,IBM Security Learning Services,"A growing number of exciting, well-paying jobs in today’s security industry do not require a college degree. This is the final course required to assess your acquired  knowledge and skills from from the previous two specializations, IT Fundamentals of Cybersecurity and Security Analyst Fundamentals, to become job-ready for a cybersecurity analyst role. 
+
+You will be expected to pass a final assessment quiz for each of the seven (7) prior courses within the IBM Cybersecurity Analyst Professional Certificate.
+
+Upon successful completion of the quizzes, you will acquire the IBM Cybersecurity Analyst Professional Certificate.",14601.0,39352.0,4.8,672.0
+IT Infrastructure and Emerging Trends,https://www.coursera.org/learn/it-infrastructure-and-emerging-trends,Information Technology,Security,Soumya Sen,"Today organizations are either embracing digital technologies to improve their businesses or being disrupted by entrants with such capabilities. Therefore it is important for managers and executives of all organizations to learn about various technologies and apply them in innovative ways. Some of the most important trends in Information Technology are in mobile, cloud, security, and blockchains.
+
+This course gives you an overview of the fundamental technical aspects of Information Technology. After taking this course you will be familiar with the basic knowledge of IT/IS solutions needed to help with decision-making in the real world. We will first learn about issues in cloud computing and various realizations of service-oriented computing. We will then discuss the range of mobile technologies available to modern enterprises and how these can be used to create innovative business models. We will look at cybersecurity threats that organizations need to be aware of and learn about the various defense mechanisms available to them. Finally we will talk about the innovation that emerging technologies like Blockchains can bring about. Using this knowledge of various technologies, IT managers can better overcome technical challenges, evaluate tradeoffs, unlock new revenue streams, and implement change in the organization’s Information systems capabilities.",17714.0,21135.0,4.8,386.0
+IT Security: Defense against the digital dark arts,https://www.coursera.org/learn/it-security,Information Technology,Security,Google Career Certificates,"This course covers a wide variety of IT security concepts, tools, and best practices. It introduces threats and attacks and the many ways they can show up. We’ll give you some background of encryption algorithms and how they’re used to safeguard data. Then, we’ll dive into the three As of information security: authentication, authorization, and accounting. We’ll also cover network security solutions, ranging from firewalls to Wifi encryption options. The course is rounded out by putting all these elements together into a multi-layered, in-depth security architecture, followed by recommendations on how to integrate a culture of security into your organization or team.
+
+At the end of this course, you’ll understand:
+● how various encryption algorithms and techniques work as well as their benefits and limitations.
+● various authentication systems and types.
+● the difference between authentication and authorization.
+● how to evaluate potential risks and recommend ways to reduce risk.
+● best practices for securing a network.
+● how to help others to grasp security concepts and protect themselves.",271497.0,1419779.0,4.8,17496.0
+IT-Sicherheit: Grundlagen für Sicherheitsarchitektur,https://www.coursera.org/learn/it-security-de,Information Technology,Security,Google Career Certificates,"In diesem Kurs behandeln wir eine Reihe von Konzepten, Tools und Best Practices rund um das Thema IT-Sicherheit. Sie erfahren mehr über verschiedene Formen von Bedrohungen und Angriffen und erhalten Hintergrundinformationen zu Verschlüsselungsalgorithmen und deren Funktionsweisen. Anschließend gehen wir näher auf drei besonders wichtige Konzepte der IT-Sicherheit ein: Authentifizierung, Autorisierung und Konten. Wir behandeln außerdem einige Lösungen zur Netzwerksicherheit, von Firewalls bis hin zur WLAN-Verschlüsselung. Schließlich untersuchen wir das Sicherheitsmodell von Chrome OS im Rahmen einer Fallstudie. Abschließend werden alle diese Elemente zu einer mehrschichtigen, detaillierten Sicherheitsarchitektur kombiniert. Sie erhalten auch Empfehlungen dazu, wie Sie dafür sorgen können, dass Sicherheit in Ihrem Unternehmen oder Team zum A und O wird.
+
+Am Ende dieses Kurses wissen Sie:
+● wie verschiedene Verschlüsselungsalgorithmen und ‑methoden funktionieren, welche Vorteile sie bieten und welche Einschränkungen sie haben
+● welche verschiedenen Authentifizierungssysteme und ‑typen es gibt
+● was der Unterschied zwischen Authentifizierung und Autorisierung ist
+● wie Sie potenzielle Risiken einstufen und wie Sie sie am besten vermeiden können
+● was die Best Practices der Netzwerksicherheit sind
+● wie Sie anderen Personen diese Sicherheitskonzepte näherbringen können, damit sie sich besser schützen können",,6643.0,4.7,25.0
+"Identifying, Monitoring, and Analyzing Risk and Incident Response and Recovery",https://www.coursera.org/learn/incident-response-recovery-risks-sscp,Information Technology,Security,(ISC)² Education & Training,"Risk Identification, Monitoring, and Analysis: In the Risk Identification, Monitoring, and Analysis session, you will learn how to identify, measure, and control losses associated with adverse events. You will review, analyze, select, and evaluate safeguards for mitigating risk.You will learn processes for collecting information, providing methods of identifying security events, assigning priority levels, taking the appropriate actions, and reporting the findings to the correct individuals. After collection of the details from monitoring, we can analyze to determine if the system is being operated in accordance with accepted industry practices, and in compliance with organization policies and procedures.        
+
+Incident Response and Recovery: In the Incident Response and Recovery Session, you will gain an understanding of how to handle incidents using consistent, applied approaches in order to resolve. Once an incident is identified, action will be necessary in order to resolve. We will examine processes such as damage recovery, data integrity and preservation, and the collection, handling, reporting, and prevention. You will be introduced to the Business Continuity Plan (BCP) and Disaster Recovery Plan (DRP) concepts and how they can be utilized in order to mitigate damages, recover business operations, and avoid critical business interruption. Through the use of the DRP, you will understand the procedures for emergency response and post-disaster recovery.    
+
+ Course Objectives  
+
+1.  Describe the risk management process
+2. Perform security assessment activities
+3. Describe processes for operating and maintaining monitoring systems
+4. Identify events of interest
+5. Describe the various source systems
+6. Interpret reporting findings from monitoring results
+7. Describe the incident handling process
+8. Contribute to the incident handling process based upon role within the organization
+9. Describe the supporting role in forensics investigation processes
+10. Describe the supporting role in the business continuity planning process
+11. Describe the supporting role in the disaster recovery planning process",4880.0,12044.0,4.8,184.0
+Implementing a Risk Management Framework,https://www.coursera.org/learn/implementingriskmanagementframework,Information Technology,Security,"Michael Whitman, Ph.D., CISM, CISSP, Herbert J. Mattord, Ph.D., CISM, CISSP, CDP","The ultimate destination for a security manager is the Chief Information Security Officer (or Chief Security Officer) a senior executive role responsible for all cybersecurity operations in the organization. But how do you get from entry-level IT or security employee to the CISO’s office and what do you need to know when you get there? This course examines the career path and requirements to be an effective CISO, as well as the roles and responsibilities of the position.
+
+In this course, a learner will be able to:
+●	Identify the career development and path of a Cybersecurity professional from entry-level to CISO
+●	Define and describe the role and function of a CISO in planning for cybersecurity
+●	Identify the development of a cybersecurity governance program and the role the CISO would play in it
+●	Discuss the strategic responsibilities of the CISO in overseeing an organization’s cybersecurity program",,1515.0,,
+In the Trenches: Security Operations Center,https://www.coursera.org/learn/in-the-trenches-security-operations-center,Information Technology,Security,EC-Council,"Cyber-attacks, breaches, and incidents continue to grow. The sophistication and complexity of these attacks continue to evolve. More than ever organizations need to plan, prepare, and defend against a potential cyber incident. Security Operation Centers (SOCs) act as an organization's front-line defense against cyber incidents. SOC analyst accomplishes this by monitoring and responding to network and host anomalies, performing an in-depth analysis of suspicious events, and when necessary, aiding in forensic investigations. 
+
+This course is designed to be a primer for anyone planning on taking the EC-Council CSA course. We will discuss the structure, organization, and general daily activities of SOC analysts. We will also look at several defensive tools including SEIMs, IDS, and IPS. We will talk about event monitoring and vulnerability management. Finally, we will talk about what to expect when an incident happens.",,7178.0,,
+Incident Detection and Response,https://www.coursera.org/learn/sscp-4th-ed-course-7,Information Technology,Security,(ISC)² Education & Training,"Course 7: Incident Detection and Response
+
+Welcome to course seven, Incident Detection and Response. Having an intruder inside your systems for months unnoticed by your systems, administrators, security specialists, and end-users is tantamount to giving the intruder, the keys to your business or organization. In many cases, organizations discover that they have been subjected to a data breach when they are told by others that their private data has been offered for sale on the dark web. Many leading voices within the security profession state that we all must do better to detect the intruders in our myths. Many people even say that detecting intruders should be the priority for security professionals. Ransomware attacks have become a big business involving not only large scale extortion attacks, but also the sell of ransomware attack tools and services, as well as the exploitation of any data ex-filtrated during the breach. Government officials and industry professionals worldwide have been raising their voices about this new and very troubling variant in the business model of advanced persistent threat or APT attackers. In this chapter, we'll focus on intrusion and incident detection. Many of the tools, techniques, technologies, and ideas, you'll see here have already been examined in previous chapters. This course brings them together and begins by discussing the central theme of detecting the intruder. Model one uses the concepts of precursors and indicators, the signals that give us advanced warning and a genuine alert about a risk event and the indicators of compromise concept which are those signals that we're certain can only mean a hostile agent has gained access. Module two will extend these ideas and concepts around the idea of what to do after you've discovered a possible intrusion, expanding your understanding of incident response. Module three continues with a deeper look at supporting forensic investigations. Forensics is an evidence-based process of logically and dispassionately reasoning about a situation or an event. It's your inner child, looking at something and asking questions. Then following each of those questions with more questions, letting the facts that you find frame and shape your growing understanding of what happened, how why and where, who did it and what impacts it may have. With these questions answered you can circle back to reviewing risk mitigation controls to see which if any, need to be modified, replaced or augmented. 
+
+Course 7 Learning Objectives
+
+After completing this course, the participant will be able to: 
+
+L7.1 - Review the steps for monitoring, incident detection and data loss prevention using all-source intelligence.
+L7.2 - Identify the elements of an incident response policy and members of the incident response team (IRT).
+L7.3 - Classify the security professional’s role in supporting forensic investigations.
+
+Course Agenda
+
+Module 1: Operate All-source Intelligence for Monitoring and Incident Detection (Domain 3 - Risk Identification, Monitoring, and Analysis)
+Module 2: Support Incident Lifecycle (Domain 4 - Incident Response and Recovery)
+Module 3: Understand and Support Forensic Investigations (Domain 4 - Incident Response and Recovery)
+
+Who Should Take This Course: Beginners
+
+Experience Required: No prior experience required",,8364.0,,
+"Incident Response, BC, and DR Concepts",https://www.coursera.org/learn/incident-response-bc-and-dr-concepts,Information Technology,Security,(ISC)² Education & Training,"Welcome to course 2 of 5 of this Specialization, Incident Response, BC, and DR Concepts.
+
+This course focuses on the availability part of the CIA triad and the importance of maintaining availability of both human and system resources. These are usually accomplished through the implementation of Incident Response (IR), Business Continuity (BC) and Disaster Recovery (DR) plans. While these three plans may seem to overlap in scope, they are three distinct plans that are vital to the survival of any organization.
+
+After completing this course, the participant will be able to: 
+
+Explain how organizations respond to, recover from and continue to operate during unplanned disruptions. 
+
+- Recall the terms and components of incident response. 
+- Summarize the components of a business continuity plan. 
+- Identify the components of disaster recovery.
+- Practice the terminology of and review incident response, business continuity and disaster recovery concepts.
+
+Agenda
+
+Course Introduction
+Module 1: Incident Response (IR)
+Module 2: Business Continuity (BC)
+Module 3: Disaster Recovery (DR)
+Module 4: Incident Response, Business Continuity, and Disaster Recovery Review
+
+This training is for IT professionals, career changers, college students, recent college graduates, advanced high school students and recent high school graduates looking to start their path toward cybersecurity leadership by taking the Certified in Cybersecurity entry-level exam.
+
+There are no prerequisites to take the training or the exam. It is recommended that candidates have basic Information Technology (IT) knowledge. No work experience in cybersecurity or formal education diploma/degree is required.",,7981.0,,
+"Information Systems Auditing, Controls and Assurance",https://www.coursera.org/learn/information-systems-audit,Information Technology,Security,Garvin Percy DIAS,"The course is awarded The Best Free Online Courses of All Time, and Best Online Courses of the Year (2021 Edition) by Class Central (http://www.classcentral.com).
+
+---
+Information systems (IS) are important assets to business organizations and are ubiquitous in our daily lives. 
+
+With the latest IS technologies emerging, such as Big Data, FinTech, Virtual Banks, there are more concerns from the public on how organizations maintain systems’ integrity, such as data privacy, information security, the compliance to the government regulations. Management in organizations also need to be assured that systems work the way they expected. IS auditors play a crucial role in handling these issues.
+
+In the course “Information Systems Auditing, Controls and Assurance”, you will explore risks of information systems, and how to mitigate the risks by proper IS Controls. You will also get familiar with the IS Audit procedures and how they are applied during the IS development throughout the Systems Development Life Cycle (SDLC). 
+
+Finally, you will get to observe how we can make the system changes more manageable using formal IS Management practices, such as Change Management Controls and Emergency Changes. 
+
+The conversations between the course instructor - Prof. Percy Dias, and the IS auditing practitioner will give you a concrete idea on how IS auditors perform their duties, the qualities to become IS auditors and future prospects of IS auditing industry.
+
+This course is suitable for students and graduates from Information Systems, Information Technology and Computer Science, and IT practitioners who are interested to get into the IS auditing field. It is also a good starting point for learners who would like to pursue further studies for IS audit certifications – such as Certified Information Systems Auditor (CISA).",53909.0,88049.0,4.7,2457.0
+Integração e Cibersegurança entre os Sistemas de Informação,https://www.coursera.org/learn/integracao-e-ciberseguranca-entre-os-sistemas-de-informacao,Information Technology,Security,Edson Germano,"Nossas boas-vindas ao Curso Integração e Cibersegurança entre os Sistemas de Informação.
+
+Neste curso, você aprenderá como os atores de um ecossistema de soluções e produtos digitais conseguem se conectar entre si, estabelecer um fluxo de informações que gere valor ao entregar ao cliente serviços de múltiplos fornecedores integrados. Como em qualquer transação que envolva valor na integração e comunicação entre sistemas, é necessário identificar a presença de criminosos tentando transgredir as regras de funcionamento do ecossistema. Por isso, a atenção à segurança cibernética deve também fazer parte dos projetos de integração e comunicação entre sistemas.
+
+Ao final deste curso, você será capaz de compreender como os sistemas de informação de uma mesma organização, ou de diferentes organizações, conectam-se e trocam informações e dados entre si, quais os riscos de segurança da informação envolvidos nestas integrações e como garantir a segurança dos dados e dos sistemas integrados.
+
+Este curso é composto por quatro módulos, disponibilizados em semanas de aprendizagem. Cada módulo é composto por vídeos, leituras e testes de verificação de aprendizagem. Ao final de cada módulo, temos uma avaliação de verificação dos conhecimentos.
+
+Estamos muito felizes com sua presença neste curso e esperamos que você tire o máximo de proveito dos conceitos aqui apresentados.
+
+Bons estudos!",,1642.0,,
+Introducing Security: Aligning Asset and Risk Management,https://www.coursera.org/learn/sscp-4th-ed-course-1,Information Technology,Security,(ISC)² Education & Training,"Course 1 -  Introducing Security and Aligning Asset Management to Risk Management
+
+In this course, we're going to start by discussing the security concepts, identifying corporate assets, and discussing the risk management process. 
+
+Course 1 Learning Objectives
+
+After completing this course, the participant will be able to:  
+
+L1.1 - Classify information security and security concepts.  
+L1.2 - Summarize components of the asset management lifecycle.  
+L1.3 - Identify common risks and vulnerabilities.  
+L1.4 - Provide examples of appropriate risk treatment. 
+
+Course Agenda
+
+Module 1: Understand Security Concepts (Domain 1 - Security Operations and Administration)
+Module 2: Participate in Asset Management (Domain 1 - Security Operations and Administration)
+Module 3: Understand the Risk Management Process (Domain 3 - Risk Identification, Monitoring and Analysis)
+Module 4: Understand the Risk Treatment Process (Domain 3 - Risk Identification, Monitoring and Analysis)
+
+Who Should Take This Course: Beginners
+
+Experience Required: No prior experience required",1735.0,39374.0,4.6,17.0
+Introduction to C++,https://www.coursera.org/learn/introduction-to-c,Information Technology,Security,Martin Dubois,"This course is an introduction to the course. It presents the teacher, the tools and the content of the courses and explains why C/C++ is important. This course also covers C/C++ particularities a programmer needs to know to create secure programs using these languages.",,3195.0,,
+Introduction to Cybersecurity Essentials,https://www.coursera.org/learn/introduction-to-cybersecurity-essentials,Information Technology,Security,Skills Network,"Build key skills needed to recognize common security threats and risks. Discover the characteristics of cyber-attacks and learn how organizations employ best practices to guard against them.
+
+Designed specifically for beginners and those who are interested in a Cyber Analyst I or an entry-level Cloud & Security Engineer role, this course dives into the world of cybersecurity to give you the critical skills employers need. This course also supports the needs of technical support roles, who can find themselves on the front lines of defense for cybersecurity issues and is part of the IBM Technical Support Professional Certificate. 
+
+Learn about malware and explore methods for securing and managing confidential information.  Then, discover how to configure browsers to help reduce security breaches.",6593.0,50308.0,4.8,110.0
+Introduction to Cybersecurity for Business,https://www.coursera.org/learn/intro-cyber-security-business,Information Technology,Security,Greg Williams,"The world runs computers.  From small to large businesses, from the CEO down to level 1 support staff, everyone uses computers.  This course is designed to give you a practical perspective on computer security.  This course approaches computer security in a way that anyone can understand.  Ever wonder how your bank website is secure when you connect to it?  Wonder how other business owners secure their network?  Wonder how large data breaches happen?  This is practical computer security.  It will help you answer the question – what should I focus on?",40579.0,26806.0,4.7,960.0
+Introduction to Privacy - Part 1,https://www.coursera.org/learn/introduction-to-privacy---part-1,Information Technology,Security,Ralph O'Brien,"This course will explore how to create a privacy program including the dangers, challenges and methods. We will also explore concepts like Privacy governance, Privacy program frameworks and discuss existing legal, standards and frameworks that can be utilized to build your privacy program.",,1524.0,,
+Introduction to Privacy - Part 2,https://www.coursera.org/learn/introduction-to-privacy---part-2,Information Technology,Security,Ralph O'Brien,"Part 2 of the Privacy Fundamentals course will cover data assessments, documentation and privacy rights. We will also explore different training methods including competency based training.",,,,
+Introduction to Privacy - Part 3,https://www.coursera.org/learn/introduction-to-privacy---part-3,Information Technology,Security,Ralph O'Brien,"Part 3 of the Privacy Fundamentals explores information security and data protection and how to manage a security breach. We will also take a look at continual improvement which includes understanding performance, exploring metrics, different audit methodologies and more.",,,,
+Introduction to Python for Cybersecurity,https://www.coursera.org/learn/pythonforcybersecurity-introduction,Information Technology,Security,Howard Poston,This course it the first part of the Python for Cybersecurity Specialization. Learners will get an introduction and overview of the course format and learning objectives.,11091.0,24207.0,4.4,197.0
+Introduction to the Threat Intelligence Lifecycle,https://www.coursera.org/learn/introduction-threat-intelligence-lifecycle,Information Technology,Security,IBM Security Learning Services,"Today, we are faced with the increasing challenges of dealing with more aggressive and persistent threat actors, while being inundated with information, which is full of misinformation and false flags across multiple, unconnected systems. With information coming from such a wide variety of sources, how do you tell what is reliable and actionable, and what isn't?
+
+The Threat Intelligence lifecycle is the planning, collecting, processing, analyzing, and disseminating of information to help mitigate potential attacks and harmful events by treat actors.
+
+In this course, you will learn to:
+
+- Describe the different phases of the Threat Intelligence lifecycle
+- Explain the levels of information
+- Identify different intelligence data sources
+- Explain procedures and techniques used to process and analyze information
+- Discuss distributing intelligence to different audiences",,5735.0,,
+JavaScript Security Part 2,https://www.coursera.org/learn/javascript-security-part-2,Information Technology,Security,Vladimir de Turckheim,"This course covers Expressions, Prototype Pollution and Ecosystem Modules (npm) and Supply Chain.",,,,
+JavaScript Security Part 3,https://www.coursera.org/learn/javascript-security-part-3,Information Technology,Security,Vladimir de Turckheim,This course covers Serverless Javascript and Web Developer Desktop Security.,,,,
+JavaScript Security Refreshers,https://www.coursera.org/learn/javascript-security-refreshers,Information Technology,Security,Vladimir de Turckheim,"This course is a Secure Javascript Programming Overview. It gives the student an introduction to JavaScript security and covers important topics like authentication best practices and refreshers on  JavaScript, Web browsers and Node.js.",,5516.0,4.5,25.0
+Keamanan IT: Pertahanan terhadap Kejahatan Digital,https://www.coursera.org/learn/keamanan-it-pertahanan-terhadap-kejahatan-digital,Information Technology,Security,Google Career Certificates,"Pelatihan ini membahas berbagai macam konsep, alat, dan praktik terbaik dari keamanan IT. Di sini akan diperkenalkan ancaman dan serangan dan berbagai cara kemunculan mereka. Kami akan memberi Anda beberapa latar belakang algoritma enkripsi dan bagaimana mereka digunakan untuk melindungi data. Kemudian, kami akan membahas lebih jauh tentang “tiga A”dari keamanan informasi: authentication, authorization, accounting. Kami juga akan membahas solusi keamanan jaringan, mulai dari firewall hingga opsi enkripsi Wifi. Pelatihan ini diakhiri dengan menyatukan semua elemen ini ke dalam arsitektur keamanan yang berlapis-lapis dan mendalam, diikuti dengan rekomendasi tentang cara mengintegrasikan budaya keamanan ke dalam organisasi atau tim Anda.
+
+Di akhir pelatihan ini, Anda akan memahami:
+● bagaimana cara kerja berbagai algoritma dan teknik enkripsi beserta semua manfaat dan keterbatasannya.
+● berbagai sistem dan jenis autentikasi.
+● perbedaan antara autentikasi dan otorisasi.
+● bagaimana mengevaluasi potensi risiko dan merekomendasikan cara untuk mengurangi risiko.
+● praktik baik untuk mengamankan jaringan.
+● bagaimana membantu orang lain untuk memahami konsep keamanan dan melindungi diri mereka sendiri.",6717.0,210934.0,4.9,535.0
+Linux Server Management and Security,https://www.coursera.org/learn/linux-server-management-security,Information Technology,Security,Greg Williams,"Whether you are accessing a bank website, Netflix or your home router, chances are that your computer is interacting with a Linux system.  The world runs on Linux.  In this course, we will dive into how Linux works from an enterprise perspective.  
+
+In week 1 we will look at what Linux is used for in the enterprise.  By the end of week 1, you will be able to differentiate between different versions of Linux and understand how they are used in an enterprise environment.  In week 2, we will explore how Linux systems are configured.  By the end of week 2, you will be able to demonstrate different Linux commands and how they are used.  You will also be able to interact with a Linux system.  In week 3, we will explore Linux authentication mechanisms and how to add users and user controls to a Linux system.  By the end of week 3, you should be able to demonstrate how to appropriately add users to a Linux machine and secure them.  In week 4, we will explore how to harden a Linux system.  By the end of week 4, you should be able to classify different technologies to secure Linux and differentiate access control methods for Linux applications.",33941.0,22991.0,4.6,846.0
+Malware Analysis and Introduction to Assembly Language,https://www.coursera.org/learn/malware-analysis-and-assembly,Information Technology,Security,IBM Security Learning Services,"Malicious software, or malware, is typically delivered over a network and is designed to cause disruption to a computer, client, server, or network. Disruptions can include leaked private information, unauthorized access to information or systems, blocked user access, interference with security and privacy, or numerous other variations of attacking systems.
+
+Malware analysis dissects malware to gather information about the malware functionality, how the system was compromised so that you can defend against future attacks. 
+
+Assembly is a low-level language that is used to communicate with the machine. Assembly programming is writing human-readable machine codes or machine instructions that are directly read by the computer. All high-level languages compiled programs like C or C++ can be broken down, analyzed, and understood using Assembly language with the help of a debugger. This process is known as reverse engineering.  Understanding what an executable program does is easy if you have direct access to the source code. But if not, such as the case with malware, learning Assembly can be helpful.
+
+In this course, through video demonstrations, hands-on reverse engineering, and capture-the-flag type activities, you will be introduced to the processes and methods for conducting malware analysis of different file types. You will analyze native executable files, and analyze popular files like PowerShell, JavaScripts, and Microsoft Office documents.
+
+Then you will learn the fundamentals of Assembly language, basic Win32 Assembly programming concepts, and how Reverse Engineers use Assembly to analyze malware.",,9365.0,,
+Managing Cybersecurity Incidents and Disasters,https://www.coursera.org/learn/managing-cybersecurity-incidents-and-disasters,Information Technology,Security,"Herbert J. Mattord, Ph.D., CISM, CISSP, CDP, Michael Whitman, Ph.D., CISM, CISSP","Most organizations plan for routine operations, but what happens when unexpected events overtake the routine? This course examines contingency planning used to prepare for and manage non-normal operations, including cybersecurity incidents – like hacking attempts, web site defacement, denial of service attacks, information disclosures; a well as other natural and man-made cybersecurity disasters.
+
+In this course, a learner will be able to:
+●	Define and describe the components of a cybersecurity contingency planning program
+●	Identify the components and structure of an effective cybersecurity incident response program
+●	Identify the components and structure of an effective cybersecurity disaster recovery program
+●	Define and describe recommended contingency strategies including data backup and recovery and continuity of cybersecurity operations.",6186.0,13745.0,4.8,180.0
+Managing Network Security,https://www.coursera.org/learn/managing-network-cybersecurity,Information Technology,Security,"Herbert J. Mattord, Ph.D., CISM, CISSP, CDP, Michael Whitman, Ph.D., CISM, CISSP","Almost every organization uses computer networks to share their information and to support their business operations. When we allow network access to data  it is exposed to threats from inside and outside of the organization.  This course examines the threats associated with using internal and external networks and how to manage the protection of information when it’s accessible via networks.
+
+In this course, a learner will be able to:
+●	 Describe the threats to data from information communication technology (ICT)
+●	 Identify the issues and practices associated with managing network security
+●	 Identify the practices, tools, and methodologies associated with assessing network security
+●	 Describe the components of an effective network security program",6655.0,14265.0,4.8,180.0
+Managing Policies and Security with Istio,https://www.coursera.org/learn/googlecloud-managing-policies-and-security-with-istio-j9wpn,Information Technology,Security,Google Cloud Training ,"We help millions of organizations empower their employees, serve their customers, and build what’s next for their businesses with innovative technology created in—and for—the cloud. Our products are engineered for security, reliability, and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping customers apply our technologies to create success.",,,,
+Managing Threat Intelligence with Cortex XSOAR,https://www.coursera.org/learn/googlecloud-managing-threat-intelligence-with-cortex-xsoar-rxwyf,Information Technology,Security,Google Cloud Training ,"We help millions of organizations empower their employees, serve their customers, and build what’s next for their businesses with innovative technology created in—and for—the cloud. Our products are engineered for security, reliability, and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping customers apply our technologies to create success.",,,,
+Maturing Risk Management,https://www.coursera.org/learn/sscp-4th-ed-course-8,Information Technology,Security,(ISC)² Education & Training,"Course 8: Maturing Risk Management
+
+In management science terms, maturing a process or practice means taking positive steps over time to make it more reliable, repeatable and efficient. In practice, this means getting better every day, while showing the measurements that demonstrate improvement and suggest other opportunities to improve. As we saw in chapters one and two risk management for information intensive organizations works best when using evidence-based reasoning to identify, characterize, and take actions as necessary to resolve the issues. Course eight will bring together numerous threads that are intrinsically related to managing the risks associated with information systems. Also, we know that cyber attack is a risk for all organizations. In this course, we will focus on bringing these ideas together in a context of continuous maturity modeling, measuring and monitoring. Risk alignment works best at the strategic long-term level of planning. By contrast risk maturation can be most effective when considered in day-to-day business operations. This is sometimes called operationalizing one's approach to risk management and maturation. Operationalizing risk management asks us to take the life cycle models about systems, software and data and connect or pivot them around business operations. We'll take on the view of the workers who use the business logic and the systems or the people who oversee the robotics and internet of things on the factory or warehouse floor and see how each of the different security disciplines brings something to them. This course has five modules. Module one focuses on change management and reveals how this detailed administratively intense process plays a primary role in protecting information systems. We'll also look at its vital contributions to incident response and remediation. Module two shows how physical security design principles are used to monitor and control the flow of physical objects in and out of various security zones. This module also considers the operational effects of safety planning and preparation on people and property, as well as availability and integrity of systems and information. Module three provides a different attitude and mindset about empowering and enabling the people in the organization to become more effective contributors and proponents of its information security. Security training programs have failed to help people complete their job safely and securely. New concepts such as micro chaining demonstrates that security education and awareness can add value to the security process. Module four shows us that system security assessment should be an ongoing task. Security has always involved continuous vigilance and integrity. Formal and informal audits demonstrate just how effective an organization's security controls are. As its process of maturing those controls continues to improve their performance. Module five brings many of these ideas and concepts together through business continuity and disaster recovery planning. The emphasis will be the operational support of these tasks, both in the planning and execution stages. We've prepared the foundations so you can bring concepts covered thus far into a cohesive daily operational context. 
+
+Course 8 Learning Objectives
+
+After completing this course, the participant will be able to: 
+
+L8.1 - Identify operational aspects of change management.
+L8.2 - Summarize physical security considerations.
+L8.3 - Design a security education and awareness strategy.
+L8.4 - Recognize common security assessment activities.
+L8.5 - Classify the components of a business continuity plan and disaster recovery plan.
+
+Course Agenda
+
+Module 1: Participate in Change Management (Domain 1 - Security Operations and Administration)
+Module 2: Physical Security Considerations (Domain 1 - Security Operations and Administration)
+Module 3: Collaborate in Security Awareness and Training (Domain 1 - Security Operations and Administration)
+Module 4: Perform Security Assessment Activities (Domain 3 - Risk Identification, Monitoring and Analysis)
+Module 5: Understand and Support the Business Continuity Plan (BCP) and Disaster Recovery Plan (DRP) (Domain 4 - Incident Response and Recovery)
+
+Who Should Take This Course: Beginners
+
+Experience Required: No prior experience required",,7401.0,,
+NIST 800-171,https://www.coursera.org/learn/nist-800-171,Information Technology,Security,Dave Hatter,"NIST SP 800-171 is a cybersecurity framework of 110 controls in 14 families published by the National Institute of Standards and Technology (NIST). This learning path will teach you how to comply with the requirements of NIST 800-171. You will understand what CUI is and how to identify it; what a nonfederal information systems is; how to understand each of the 110 requirements in the framework and satisfy each of them if necessary; how to create a Body of Evidence (BOE) including Organizational Policy or Procedures; a System Security Plan (SSP) and Plans of Action and Milestones (POAM). Upon completion of this course, you will have the knowledge and skills to implement the controls required by the NIST 800-171 framework and build your BOE.",,4734.0,4.3,13.0
+NIST CSF,https://www.coursera.org/learn/nist-csf,Information Technology,Security,Ross Casanova,"This course will help you to build a basic understanding of NIST cybersecurity fundamentals. You will learn about the RMF process and managing risk by identifying, assessing and responding to risk. Additionally, you will learn how to use the framework to assess an organization's cybersecurity risk and the steps to implement or improve a cybersecurity program. The Cybersecurity Framework skill path introduces the framework for improving infrastructure cybersecurity.",1876.0,8692.0,4.2,38.0
+NIST DoD RMF,https://www.coursera.org/learn/nist-dod-rmf,Information Technology,Security,Ross Casanova,"The Risk Management Framework (RMF) provides a disciplined, structured and flexible process for managing security and privacy risk. It includes information security categorization; control selection, implementation and assessment; system and common control authorizations; and continuous monitoring. It includes activities to prepare organizations to execute the framework at appropriate risk management levels. This learning path explains the RMF steps and its processes (aka tasks) which link essential risk management processes at the system level to risk management processes at the organization level. This learning path explains the Risk Management Framework (RMF) and its processes and provides guidance for applying the RMF to information systems and organizations.",,3812.0,4.2,14.0
+Network Defense Essentials (NDE),https://www.coursera.org/learn/network-defense-essentials-nde,Information Technology,Security,EC-Council,"Network Defense Essentials covers the fundamental concepts of information security and network defense. This introductory cybersecurity course is designed for today's entry-level information security or cybersecurity careers and is ideal for learners aspiring to pursue a career in cybersecurity.
+
+The course gives a holistic overview of the key components of Information Security such as Identification, Authentication and Authorization, Virtualization and Cloud Computing, Wireless Networks, Mobile and IoT Devices, and Data Security. The interactive labs component of this course ensures that learners receive the hands-on, practical experience required for a future in cybersecurity.
+
+NDE-certified learners have an assured means of formal recognition to add to their resumes and show off their expertise and skills to prospective employers. The purpose of the NDE certification is to recognize the competency and expertise of a professional in network defense and information security skills, thereby adding value to their workplace and employer.",,7612.0,,
+Network Security,https://www.coursera.org/learn/-network-security,Information Technology,Security,(ISC)² Education & Training,"Welcome to course 4 of 5 of this Specialization, Network Security.
+
+In this course, we will look at computer networking and securing the network. In today’s world, the internet connects nearly everyone and everything, and this is accomplished through networking. While most see computer networking as a positive, criminals routinely use the internet, and the networking protocols themselves, as weapons and tools to exploit vulnerabilities and for this reason we must do our best to secure the network. We will review the basic components of a network, threats and attacks to the network, and learn how to protect them from attackers. Network security itself can be a specialty career within cybersecurity; however, all information security professionals need to understand how networks operate and are exploited to better secure them. 
+
+After completing this chapter, the participant will be able to: 
+
+Explain the concepts of network security. 
+
+- Recognize common networking terms and models. 
+- Identify common protocols and ports and their secure counterparts. 
+- Identify types of network (cyber) threats and attacks. 
+- Discuss common tools used to identify and prevent threats. 
+- Identify common data center terminology. 
+- Recognize common cloud service terminology. 
+- Identify secure network design terminology. 
+- Practice the terminology of and review network security concepts. 
+
+Agenda
+
+Course Introduction
+Module 1: Network Concepts and Models 
+Module 2: Common Network Threats and Attacks
+Module 3: Network Security Infrastructure
+Module 4: Network Security Review
+
+This training is for IT professionals, career changers, college students, recent college graduates, advanced high school students and recent high school graduates looking to start their path toward cybersecurity leadership by taking the Certified in Cybersecurity entry-level exam.
+
+There are no prerequisites to take the training or the exam. It is recommended that candidates have basic Information Technology (IT) knowledge. No work experience in cybersecurity or formal education diploma/degree is required.",,12429.0,,
+Network Security & Database Vulnerabilities,https://www.coursera.org/learn/network-security-database-vulnerabilities,Information Technology,Security,IBM Security Learning Services,"This course gives you the background needed to understand basic network security.  You will learn the about Local Area Networks, TCP/IP, the OSI Framework and routing basics.  You will learn how networking affects security systems within an organization.  You will learn the network components that guard an organization from cybersecurity attacks.
+
+In addition to networking, you will learn about database vulnerabilities and the tools/knowledge needed to research a database vulnerability for a variety of databases including SQL Injection, Oracle, Mongo and Couch.  
+
+You will learn about various security breach types associated with databases and organizations that define standards and provide tools for cybersecurity professionals.
+
+This course is intended for anyone who wants to gain a basic understanding of Network Security/Database Vulnerabilities or as the fourth course in a series of courses to acquire the skills to work in the Cybersecurity field as a Jr Cybersecurity Analyst.",59384.0,189679.0,4.7,2571.0
+Networks and Communications Security,https://www.coursera.org/learn/network-security-communications-sscp,Information Technology,Security,(ISC)² Education & Training,"Welcome to Networks and Communications Security Course!
+
+In the Networks and Communications Security Course, you will learn about the network structure, data transmission methods, transport formats, and the security measures used to maintain integrity, availability, authentication, and confidentiality of the information being transmitted.
+Concepts for both public and private communication networks will be discussed.
+
+Course Objectives
+1. Describe network-related security issues
+2. Identify protective measures for telecommunication technologies
+3. Define processes for controlling network access
+4. Identify processes for managing LAN-based security
+5. Describe procedures for operating and configuring networked-based
+security devices
+6. Define procedures to implement and operate wireless technologies",5090.0,18974.0,4.7,218.0
+OWASP Top 10 - Welcome and Risks 1-5,https://www.coursera.org/learn/owasp-top-10-risks-1-5,Information Technology,Security,John Wagnon,"In this course, we will look at the OWASP organization and what its purpose is. We’ll dive into the details of how they create the Top Ten list: where it comes from, how they calculate the severity of each risk and how they determine where each risk ranks. We also review the possible disparity between OWASP’s ranking and your own organization’s ranking, depending on your needs. We will also examine Broken Access Control, Cryptographic Failures, Injection Attacks, Insecure Design and Security Misconfiguration. We’ll use demos, graphics and real-life examples to help you understand the details of each of these risks.",,4311.0,,
+Palo Alto Networks Cloud Security Fundamentals,https://www.coursera.org/learn/palo-alto-networks-cloud-sec-fundamentals,Information Technology,Security,James Dalton,In this Cloud Security Fundamentals course you will learn basic principles associated with securing the cloud and SaaS-based applications through Secure Access Service Edge architecture and identify concepts required to recognize and potentially mitigate attacks against traditional and hybrid datacenters as well as mission critical infrastructure. The course also demonstrates how to initially setup and configure containers on a docker bridge network and test the container security through the use of vulnerability scans and reports.,1864.0,8309.0,4.6,27.0
+Palo Alto Networks Cybersecurity Foundation,https://www.coursera.org/learn/palo-alto-networks-cybersecurity-foundation-a,Information Technology,Security,James Dalton,"Palo Alto Networks Cybersecurity Foundation
+
+Course Description:
+In this course, students will learn fundamental principles associated with the current
+cybersecurity landscape and identify concepts required to recognize and potentially
+mitigate attacks against enterprise networks as well as mission critical infrastructure.
+Students will also learn how to initially setup and configure security zones,
+authentication, and policies on a next generation firewall.
+
+Learning Objectives: 
+Upon completion of this course, students will be able to: 
+
+Upon completion of this course students will be able to perform the following:
+• Discover modern computing trends and application threat vectors.
+• Configure a network interface and test for connectivity.
+• Identify cloud computing and software-as-a-service (SaaS) application
+challenges.
+• Explore recent cyberattacks and their impact on business.
+• Review attacker profiles, motivations and the Cyber-Attack Lifecycle.
+• Recognize high-profile cybersecurity attacks and Advanced Persistent Threats.
+• Identify malware types, vulnerabilities, exploits, spamming and phishing attacks.
+• Configure and test a malware analysis security profile.
+• Describe how bots and botnets are used to attack enterprise networks.
+• Explore Zero Trust design principles, architecture, capabilities, and
+implementation.
+• Review perimeter network security strategies, policies, models, and trust
+boundaries.
+• Setup and configure inside, outside and DMZ security zones on a NGFW.
+• Create and test an authentication policy on a next generation firewall.
+• Review capabilities of the Security Operating Platform and components.
+• Explore how to secure the enterprise with NGFW and Traps endpoint protection.
+• Discover how to secure the cloud with Prisma Access, SaaS, and Cloud.
+• Examine how to secure the future with Cortex Data Lake and XDR.
+• Apply two-factor authentication on the next generation firewall (NGFW).
+• Configure the NGFW to allow only trusted applications.",7714.0,28877.0,4.7,162.0
+Palo Alto Networks Network Security Fundamentals,https://www.coursera.org/learn/palo-alto-networks-network-security-fundamentals,Information Technology,Security,James Dalton,In this Network Security Fundamentals course you will gain an understanding of the fundamental tenants of network security and review the general concepts involved in maintaining a secure network computing environment. Upon successful completion of this course you will be able to describe general network security concepts and implement basic network security configuration techniques.,2517.0,14281.0,4.8,42.0
+Palo Alto Networks Security Operations  Fundamentals,https://www.coursera.org/learn/palo-alto-networks-security-operations-center-fundamentals,Information Technology,Security,James Dalton,"In this Security Operations Fundamentals course you will gain an understanding of Security Pperations (SecOps) and the role it plays in protecting our digital way of life, for businesses and customers. You will focus on continuous improvement processes to collect high-fidelity intelligence, contextual data, and automated prevention workflows that quickly identify and respond to fast-evolving threats. The course also demonstrates how to leverage automation to reduce strain on analysts and execute the Security Operation Center’s (SOC) mission to identify, investigate, and mitigate threats.",1807.0,9259.0,4.6,40.0
+"Penetration Testing, Incident Response and Forensics",https://www.coursera.org/learn/ibm-penetration-testing-incident-response-forensics,Information Technology,Security,IBM Security Learning Services,"This course gives you the background needed to gain Cybersecurity skills as part of the Cybersecurity Security Analyst Professional Certificate program. 
+
+You will learn about the different phases of penetration testing, how to gather data for your penetration test and popular penetration testing tools.  Furthermore, you will learn the phases of an incident response, important documentation to collect, and the components of an incident response policy and team.  Finally, you will learn key steps in the forensic process and important data to collect.  
+
+This course also gives you a first look at scripting and the importance to a system analyst.
+
+This course is intended for anyone who wants to gain a basic understanding of Cybersecurity or as the fifth course in a series of courses to acquire the skills to work in the Cybersecurity field as a Cybersecurity Analyst.
+
+The completion of this course also makes you eligible to earn the Penetration Testing, Incident Response and Forensics IBM digital badge.  More information about the badge can be found https://www.youracclaim.com/org/ibm/badge/penetration-testing-incident-response-and-forensics.
+
+
+In this course you will learn to:
+•	Describe penetration testing tools and the benefits to an organization
+•	Describe a deep dive into incident response techniques and tools
+•	Describe digital forensics and digital evidence.
+•	Discuss the power of scripting.",44929.0,153928.0,4.6,1681.0
+Personnel & Third-Party Security,https://www.coursera.org/learn/internal-risk-mitigation,Information Technology,Security,Qasim Ijaz,"In this course, you will learn all about the process of implementing effective education, training, and awareness programs. You will also study the role personnel security plays in protecting an organization’s assets, intellectual property, and physical assets. You will also be introduced to the steps required for effective Vendor Risk Management (VRM), including: due diligence, contracting, monitoring & accessing, and termination. Throughout the course, you will engage with current case studies that illustrate the key concepts in your lessons. You will also have the chance to submit assignments in which you will apply the material in a practical application.",,3443.0,4.6,16.0
+"Planning, Auditing and Maintaining Enterprise Systems",https://www.coursera.org/learn/planning-auditing-maintaining-enterprise-systems,Information Technology,Security,Greg Williams,"Good system management not only requires managing the systems themselves, but requires careful planning to make systems interact with each other, auditing of the systems once the systems are built, and proactive maintenance of all systems.  Organizations also rely on organizational policies, such as Acceptable Use Policies to bolster the technical aspect of system management.  
+
+This course explores many of the behind the scenes requirements of good system management.  The first half of the course covers how to build security into system management process and the organization policies necessary for any enterprise to follow.  The latter half of the course focuses on auditing and maintenance of systems once they have been designed, and implemented.  
+By the end of the course you should be able to design and construct organizational policies based on a set of requirements, audit a system based on those requirements, and make sure systems adhere technically to the set of requirements.",9254.0,6180.0,4.7,199.0
+Proactive Computer Security,https://www.coursera.org/learn/proactive-computer-security,Information Technology,Security,Greg Williams,"I’ve heard this before – “I’m not sure my computer security practices are working”.  I reply “Have you tested them?”  This course is the fourth and final course in the Practical Computer Security specialization.  In this course, you’ll learn how to proactively test what you have put in place to protect your data.  In the first week you’ll be able to discuss the basics of deterrents and how to “trick” attackers into believing they’ve hit a goldmine of data away from your real systems.  In week 2, you’ll be able to understand and discuss the steps of penetration testing methodology.  In week 3, you will be able to understand and apply what you have learned on your own systems to test whether your systems are secure or not.  In week 4, we’ll discuss planning for your own methodology that you can apply to your own systems.  And finally in week 5, we’ll finish up with a project that will allow you to test your skills in a safe environment.",14035.0,6858.0,4.7,237.0
+Python for Active Defense,https://www.coursera.org/learn/python-for-active-defense,Information Technology,Security,Howard Poston,This course covers Python for active defense.,1629.0,3860.0,4.2,20.0
+"Python for Command-and-control, Exfiltration and Impact",https://www.coursera.org/learn/command-and-control-exfiltration-and-impact,Information Technology,Security,Howard Poston,"This course covers python for Command-and-control, Exfiltration and Impact.",1557.0,3347.0,4.6,13.0
+Risk Management: Use of Access Controls to Protect Assets,https://www.coursera.org/learn/sscp-4th-ed-course-2,Information Technology,Security,(ISC)² Education & Training,"Course 2: Understanding Risk Management Options and the Use of Access Controls to Protect Assets
+
+In this course,  we will focus on understanding risk management options and the use of access controls to protect assets. We will start by examining the basic steps that must be in place to develop a security culture within the organization and impacting policies. We will also look into how to write and use them to enforce security requirements. Then we will move on to the actual business of controlling how our systems, services, resources, and data can be accessed safely by authorized persons. We will also cover access control models like MAC, DAC, RBAC, and conclude the chapter with an examination of both LAN and WAN identity management. 
+
+Course 2 Learning Objectives
+
+After completing this course, the participant will be able to: 
+
+L2.1 - Provide examples of the types of functional security controls and policies for identified scenarios. 
+L2.2 - Classify various access control models. 
+L2.3 - Identify components of identity management lifecycle. 
+L2.4 - Recognize access control and authentication methods.
+
+Course Agenda
+
+Module 1: Document, Implement, and Maintain Functional Security Controls (Domain 1 - Security Operations and Administration)
+Module 2: Access Controls Models (Domain 1 - Security Operations and Administration, Domain 2 - Access Controls)
+Module 3: Identity Management Lifecycle (Domain 2 - Access Controls)
+Module 4: Implement and Maintain Authentication Methods (Domain 2 - Access Controls, Domain 6 - Network and Communication Security)
+
+Who Should Take This Course: Beginners
+
+Experience Required: No prior experience required",,15701.0,,
+Road to the CISO – Culminating Project Course,https://www.coursera.org/learn/road-to-ciso,Information Technology,Security,"Herbert J. Mattord, Ph.D., CISM, CISSP, CDP, Michael Whitman, Ph.D., CISM, CISSP","The ultimate destination for a security manager is the Chief Information Security Officer (or Chief Security Officer) a senior executive role responsible for all cybersecurity operations in the organization. But how do you get from entry-level IT or security employee to the CISO’s office and what do you need to know when you get there? This course examines the career path and requirements to be an effective CISO, as well as the roles and responsibilities of the position.
+
+In this course, a learner will be able to:
+●	Identify the career development and path of a Cybersecurity professional from entry-level to CISO
+●	Define and describe the role and function of a CISO in planning for cybersecurity
+●	Identify the development of a cybersecurity governance program and the role the CISO would play in it
+●	Discuss the strategic responsibilities of the CISO in overseeing an organization’s cybersecurity program",3726.0,4228.0,5.0,14.0
+Securing Applications on Kubernetes Engine - Three Examples,https://www.coursera.org/learn/googlecloud-securing-applications-on-kubernetes-engine-three-examples-1rm0s,Information Technology,Security,Google Cloud Training ,"We help millions of organizations empower their employees, serve their customers, and build what’s next for their businesses with innovative technology created in—and for—the cloud. Our products are engineered for security, reliability, and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping customers apply our technologies to create success.",,,,
+"Securing Software, Data and End Points",https://www.coursera.org/learn/sscp-4th-ed-course-4,Information Technology,Security,(ISC)² Education & Training,"Course 4: Securing Software, Data and End Points
+
+Welcome to Course Four. As we know, most attacks against systems involve exploiting vulnerabilities in software that powers hardware. Additionally, attackers may exploit vulnerabilities in the underlying hardware, especially when that hardware is for the protected against being stolen or accessed with unauthorized use, but their real target and all the tax is data. Therefore, it's so critical, the total set of software powering an organization's business logic and processes must be kept secure. As we'll see in this chapter, the software provides a layered environment. Building from a core or kernel of trustworthy functions up through to the mobile code and executable content. This enables and empowers all web apps and remote data access. Security professionals need to appreciate securing software covers two very different, but closely related major tasks. They need to ensure that the Security Posture of that software is known and understood, as well as ensure the software is installed, maintained, and used in ways consistent with Security Posture or improve it over time. As we discussed in the previous chapter, Security Posture is the set of risks, vulnerabilities controls, and residual risks pertaining to an asset or system. We summarize the safety or risk of using an asset and the degree of reliance that can be placed on the results from a specific context or situation.  In this course, we'll build on that foundation by looking more closely at how the data can be the target of an attack and part of exploiting other vulnerabilities in the system. We'll explore what security professionals, as non-programmers, can do to reduce the risk of such malformed input attacks. In course two, we also discussed the non-human user concept as a general way to view management and security of devices and software entities to protect those entities from threats to their integrity and to protect the overall system and individual assets from unauthorized behavior by those non-human users. In this chapter, we'll build on those concepts, as we dive into Endpoint Security Issues and Approaches.
+
+Course 4 Learning Objectives
+
+After completing this course, the participant will be able to: 
+
+L4.1 - Discuss software systems and application security.
+L4.2 - Recognize data security concepts and skills. 
+L4.3 - Identify malicious code and countermeasures.  
+L4.4 - Evaluate mobile device management (MDM) and security issues with mobile and autonomous endpoints.
+L4.5 - Review attacks and countermeasures for virtual machines.
+
+Course Agenda
+
+Module 1: Securing Software (Domain 1 - Security Operations and Administration, Domain 3 - Risk Identification, Monitoring and Analysis , Domain 7 - Systems and Application Security )
+Module 2: Securing Data (Domain 1 - Security Operations and Administration, Domain 7 - Systems and Application Security )
+Module 3: Identify and Analyze Malicious Code and Activity (Domain 7 - Systems and Application Security)
+Module 4: Implement and Operate Endpoint Security (Domain 7 - Systems and Application Security )
+Module 5: Operate and Secure Virtual Environments (Domain 7 - Systems and Application Security , Domain 6 - Network and Communications Security)   
+
+Who Should Take This Course: Beginners
+
+Experience Required: No prior experience required",,10599.0,,
+Security Awareness Training,https://www.coursera.org/learn/security-awareness-training,Information Technology,Security,(ISC)² Education & Training,"The security of an organization is of the utmost importance and every member of the organization's staff plays a vital role in defending against cyber threats. One of the best ways to protect the organization is to institute a company-wide security-awareness training initiative. 
+
+This course is a complete foundational security awareness training program that covers a wide array of topics for nearly every type of end-user and learner level. The content is designed to allow organizations to be able to provide a comprehensive training program to help them protect their information assets against threats.
+
+This training lasts approximately 2 hours and was designed to be engaging and is based on real scenarios staff may face. The training is modular and does not have to be completed in one sitting.
+
+Topics included in this course are as follows:
+
+• Importance of Security
+• Data and Account Security
+• Passwords
+• Networking and Mobile Security
+• Malware
+• Social Engineering",15928.0,19025.0,4.6,1164.0
+Security Governance & Compliance,https://www.coursera.org/learn/security-governance-compliance,Information Technology,Security,Jacob Horne,"Students are introduced to the field of cyber security with a focus on the domain of security & risk management. Topics include the fundamental concepts and goals of cybersecurity (the CIA triad), security governance design, the NIST cybersecurity framework, relevant laws and regulations, and the roles of policies, strategies, and procedures in cybersecurity governance.",6368.0,12580.0,4.6,95.0
+Security Operations,https://www.coursera.org/learn/security-operations,Information Technology,Security,(ISC)² Education & Training,"Welcome to course 5 of 5 of this Specialization, Security Operations.
+
+This course focuses our attention on the day-to-day, moment-by-moment active use of the security controls and risk mitigation strategies that an organization has in place. We will explore ways to secure the data and the systems they reside on, and how to encourage secure practices among people who interact with the data and systems during their daily duties. 
+
+After completing this course, the participant will be able to: 
+
+Explain concepts of security operations.
+
+- Discuss data handling best practices.
+- Identify important concepts of logging and monitoring.
+- Summarize the different types of encryption and their common uses.
+- Describe the concepts of configuration management.
+- Explain the application of common security policies.
+- Discuss the importance of security awareness training.
+- Practice the terminology of and review the concepts of network operations.
+
+Agenda
+
+Course Introduction
+Module 1: Understanding Data Security and Encryption
+Module 2: Controls and Asset Management
+Module 3: Best Practice Security Policies
+Module 4: Understand Security Education Training and Awareness (SETA)
+Module 5: Security Operations Review
+Final Assessment
+
+This training is for IT professionals, career changers, college students, recent college graduates, advanced high school students and recent high school graduates looking to start their path toward cybersecurity leadership by taking the Certified in Cybersecurity entry-level exam.
+
+There are no prerequisites to take the training or the exam. It is recommended that candidates have basic Information Technology (IT) knowledge. No work experience in cybersecurity or formal education diploma/degree is required.",,5162.0,,
+Security Operations and Administration,https://www.coursera.org/learn/security-operations-administration-sscp,Information Technology,Security,(ISC)² Education & Training,"Security operations and administration is the task of identifying an organization's information assets and the documentation needed for policy implementation, standards, procedures, and guidelines to ensure confidentiality, integrity, and availability. You will understand the process necessary for working with management and information owners, custodians, and users so that proper data classifications are defined. This will ensure the proper handling of all hard copy and electronic information.
+
+The Security operations and Administration course addresses basic security concepts and the application of those concepts in the day to day operation and administration of enterprise computer systems and the information that they host.Ethical considerations in general, and the (ISC)2 Code of Ethics in particular, provide the backdrop for any discussion of information security and SSCP candidates will be tested on both. Information security professionals often find themselves in positions of trust and must be beyond reproach in every way.Several core principles of information security stand above all others and this domain covers these principles in some depth. It can be said that the CIA triad of confidentiality, integrity and availability forms the basis for almost everything that we do in information security and the SSCP candidate must not only fully understand these principles but be able to apply them in all situations. additional security concepts covered in this domain include privacy, least privilege, non-repudiation and the separation of duties.
+  
+ Course Objectives
+
+1. Define Code of Ethics
+2. Describe the security concepts
+3. Document and operate security controls
+4. Describe the asset management process
+5. Implement compliance controls
+6. Assess compliance controls
+7. Describe the change management process
+8. Contribute to the security awareness training program
+9. Contribute to physical security operations",3794.0,10285.0,4.8,181.0
+Security Principles,https://www.coursera.org/learn/-security-principles,Information Technology,Security,(ISC)² Education & Training,"Welcome to course 1 of 5 of this Specialization, Security Principles.
+
+After completing this course, the participant will be able to: 
+
+Discuss the foundational concepts of cybersecurity principles.
+
+- Recognize foundational security concepts of information assurance.
+- Define risk management terminology and summarize the process.
+- Relate risk management to personal or professional practices.
+- Classify types of security controls.
+- Distinguish between policies, procedures, standards, regulations and laws.
+- Demonstrate the relationship among governance elements.
+- Analyze appropriate outcomes according to the canons of the (ISC)2 Code of Ethics when given examples.
+- Practice the terminology and review security principles.
+
+Agenda
+
+Course Introduction
+Module 1: Information Assurance 
+Module 2: Risk Management Process 
+Module 3: Security Controls
+Module 4: Governance
+Module 5: (ISC)2 Code of Ethics
+Module 6: Course Summary
+
+This training is for IT professionals, career changers, college students, recent college graduates, advanced high school students and recent high school graduates looking to start their path toward cybersecurity leadership by taking the Certified in Cybersecurity entry-level exam.
+
+There are no prerequisites to take the training or the exam. It is recommended that candidates have basic Information Technology (IT) knowledge. No work experience in cybersecurity or formal education diploma/degree is required.",,18625.0,,
+Security and Privacy for Big Data - Part 1,https://www.coursera.org/learn/security-privacy-big-data,Information Technology,Security,"Enrique Barra, Fabian Garcia Pastor","This course sensitizes security in Big Data environments. You will discover cryptographic principles, mechanisms to manage access controls in your Big Data system. By the end of the course, you will be ready to plan your next Big Data project successfully, ensuring that all security-related issues are under control.
+
+You will look at decent-sized big data projects with security-skilled eyes, being able to recognize dangers. This will allow you to improve your systems to a grown and sustainable level. 
+
+If you are an ICT professional or someone who designs and manages systems in big data environments, this course is for you! Knowledge about Big Data and IT is advantageous, but if you are e.g. a product manager just touching the surface of Big Data and security, this course will suit you as well.",16507.0,13299.0,4.7,541.0
+Segurança de TI: Defesa Contra as Artes Obscuras do Mundo Digital,https://www.coursera.org/learn/seguranca-de-it,Information Technology,Security,Google Career Certificates,"Este curso aborda uma série de conceitos, ferramentas e práticas recomendadas de segurança de TI. Nele, temos uma introdução às ameaças e ataques e suas muitas formas de se manifestar. Daremos a você uma base de conhecimento sobre algoritmos de criptografia e como eles são usados para proteger dados. Depois, vamos estudar a fundo os três tipos de segurança da informação: autenticação, autorização e registro. Além disso, vamos abordar soluções de segurança de rede, de firewalls a opções de criptografia Wi-Fi. Por fim, vamos analisar o modelo de segurança do Chrome OS em um estudo de caso. O curso é encerrado com a junção de todos esses elementos em uma arquitetura de segurança detalhada e multicamada, seguida de recomendações sobre como integrar uma cultura de segurança à sua empresa ou equipe.
+
+Ao fim deste curso, você entenderá:
+● como vários algoritmos e técnicas de criptografia funcionam, além de seus benefícios e limitações.
+● vários sistemas e tipos de autenticação.
+● a diferença entre autenticação e autorização.
+● como avaliar os riscos potenciais e recomendar maneiras de atenuá-los.
+● práticas recomendadas para proteger uma rede.
+● como ajudar as pessoas a entender os conceitos de segurança e se proteger.",4912.0,33067.0,4.9,424.0
+Segurança de TI: defesa contra as artes negras digitais,https://www.coursera.org/learn/it-security-pt,Information Technology,Security,Google Career Certificates,"Este curso abrange uma grande variedade de conceitos, ferramentas e práticas recomendadas ao nível da segurança de TI. Aborda ameaças e ataques e as várias formas através das quais podem surgir. Vamos fornecer-lhe algumas informações gerais sobre o que são os algoritmos de encriptação e como são utilizados para salvaguardar dados. Em seguida, vamos analisar detalhadamente os três aspetos mais importantes da segurança das informações: autenticação, autorização e contabilidade. Também vamos abordar soluções de segurança de rede, desde firewalls a opções de encriptação de Wi-Fi. Por último, vamos analisar um caso prático, no qual examinamos o modelo de segurança do Chrome OS. O curso conclui ao reunir todos estes elementos numa arquitetura de segurança detalhada e de várias camadas, apresentando depois recomendações sobre como integrar uma cultura de segurança na sua entidade ou equipa.
+
+No final deste curso, vai saber mais sobre:
+● como funcionam vários algoritmos e técnicas de encriptação, bem como as respetivas vantagens e limitações
+● vários tipos e sistemas de autenticação
+● a diferença entre autenticação e autorização
+● como avaliar potenciais riscos e recomendar formas de reduzir o risco
+● práticas recomendadas para proteger uma rede
+● como ajudar as outras pessoas a entender conceitos de segurança e a protegerem-se",,2363.0,4.9,36.0
+Seguridad informática: defensa contra las artes oscuras digitales,https://www.coursera.org/learn/seguridad-informatica,Information Technology,Security,Google Career Certificates,"Este curso cubre una amplia variedad de conceptos, herramientas y mejores prácticas de seguridad de TI. Introduce amenazas y ataques, y las muchas formas en que pueden aparecer. Te daremos algunos antecedentes de algoritmos de cifrado y cómo se utilizan para salvaguardar los datos. Luego, nos sumergiremos en los tres sistemas de seguridad de la información: autenticación, autorización y contabilidad. También cubriremos soluciones de seguridad de red, que van desde Firewalls hasta opciones de encriptación de Wifi. Finalmente, veremos un caso de estudio, donde examinaremos el modelo de seguridad del sistema operativo Chrome. El curso se completa al reunir todos estos elementos en una arquitectura de seguridad de múltiples capas y en profundidad, seguido de recomendaciones sobre cómo integrar una cultura de seguridad en tu organización o equipo.
+
+Al final de este curso, entenderás:
+● cómo funcionan los diversos algoritmos y técnicas de cifrado, así como sus ventajas y limitaciones.
+● varios sistemas y tipos de autenticación.
+● la diferencia entre autenticación y autorización.
+● cómo evaluar los riesgos potenciales y recomendar formas de reducir el riesgo.
+● mejores prácticas para asegurar una red.
+● cómo ayudar a otros a comprender los conceptos de seguridad y protegerse a sí mismos.",30898.0,118713.0,4.9,2064.0
+Splunk Knowledge Manager 101,https://www.coursera.org/learn/splunk-knowledge-manager-101,Information Technology,Security,Splunk Instructor,"This course will introduce you to the basics of machine data, Splunk’s architecture, and how to navigate the Splunk Web interface. You will gain fundamental knowledge for defining, creating, and using fields in searches. You will learn about the different types of knowledge objects and how to create knowledge objects including event types, workflow actions, tags, aliases, search macros, and calculated fields.",,2770.0,,
+Splunk Knowledge Manager 102,https://www.coursera.org/learn/splunk-knowledge-manager-102,Information Technology,Security,Splunk Instructor,"In this course, you will learn how fields are extracted and how to create regex and delimited field extractions. You will upload and define lookups, create automatic lookups, and use advanced lookup options. You will learn about datasets, designing data models, and using the Pivot editor. You’ll improve search performance by creating efficient base searches, accelerating reports and data models, and how to use the tstats command.",,2317.0,,
+Splunk Knowledge Manager 103,https://www.coursera.org/learn/splunk-knowledge-manager-103,Information Technology,Security,Splunk Instructor,"In this course, you will go beyond dashboard basics and learn about Dashboard Studio's underlying framework, the dashboard development process from prototyping and wireframing to troubleshooting as well as adding visualizations, dynamic coloring and drilldowns. Then you will go further by making your dashboards interactive with user inputs. You will learn how to use mock data, add annotation searches to a visualization, and improve dashboard performance. Finally, you will take a deep dive into maps using the classic simple XML framework where you will learn how to create cluster and choropleth maps, customize their color, and make them interactive.",,2120.0,,
+Splunk Search Expert 101,https://www.coursera.org/learn/splunk-search-expert-101,Information Technology,Security,Splunk Instructor,"This course helps you understand the basics of machine data. You will learn about Splunk components, its basic functions, and be introduced to apps, which becomes your workspace. It teaches you how to navigate Splunk, get you familiar with search anatomy to run searches using fields and basic commands.",2574.0,14720.0,4.7,85.0
+Splunk Search Expert 102,https://www.coursera.org/learn/splunk-search-expert-102,Information Technology,Security,Splunk Instructor,"Take the next step in your knowledge of Splunk. In this course, you will learn how to use time differently based on scenarios, learn commands to help process, manipulate and correlate data.",,9535.0,4.6,17.0
+Splunk Search Expert 103,https://www.coursera.org/learn/splunk-search-expert-103,Information Technology,Security,Splunk Instructor,"In this course, you will learn how to calculate co-occurrence between fields and analyze data from multiple datasets, increase your knowledge of searching and learn how to work with multivalue data. In addition, you will learn tips and tricks to improve search performance using accelerations.",,6512.0,4.8,22.0
+Systems and Application Security,https://www.coursera.org/learn/systems-application-security-sscp,Information Technology,Security,(ISC)² Education & Training,"Welcome to Systems and Application Security Course!
+
+In the Systems and Application Security Course, you will gain an understanding of computer code that can be described as harmful or malicious. Both technical and non-technical attacks will be discussed. You will learn how an organization can protect itself from these attacks. You will learn concepts in endpoint device security, cloud infrastructure security, securing big data systems, and securing virtual environments.
+Objectives
+1. Identify malicious code activity
+2. Describe malicious code and the various countermeasures
+3. Describe the processes for operating endpoint device security
+4. Define mobile device management processes
+5. Describe the process for configuring cloud security
+6. Explain the process for securing big data systems
+7. Summarize the process for securing virtual environments",3109.0,7321.0,4.8,137.0
+Sécurisation du serveur web Nginx sous linux,https://www.coursera.org/learn/securisation-serveur-web-nginx-linux,Information Technology,Security,Viranson HOUNNOUVI,"Dans ce cours d'une heure, basé sur un projet, vous installerez et configurerez le serveur web Nginx et apprendrez à le sécuriser en tenant compte de plusieurs vulnérabilités existantes et en suivant les recommandations de l'OWASP. 
+A la fin de ce projet guidé, vous serez en mesure de:
+- Installer le serveur web Nginx sur une machine Linux
+- Configurer les logs d'accès et d'erreurs de Nginx
+- Implémenter le SSL et sécuriser Nginx avec Let's Encrypt
+- Exécuter une analyse SSL et Optimiser le SSL / TLS
+- Implémenter les en-têtes HTTP de sécurité recommandés par OWASP avec Nginx
+- Tester la sécurité d'un serveur web Nginx
+- Utiliser des outils pratique de contrôle de configuration d'un serveur Nginx
+- Adopter de bonnes pratiques pour assurer un maximum de sécurité sur un serveur Nginx
+
+Ce projet guidé est recommandé aux personnes désirant sécuriser au mieux le serveur web Nginx. Il vous donnera des connaissances suffisantes pour sécuriser une installation du serveur web Nginx et apporter également une sécurité aux applications web hébergées derrière Nginx.
+Une connaissance préalable de l'environnement Linux Ubuntu et du shell est recommandée dans le cadre de ce projet guidé.",,,,
+Sécurité des TI : Défense contre les pratiques sombres du numérique,https://www.coursera.org/learn/securite-des-ti-defense-contre-les-pratiques-sombres-du-numerique,Information Technology,Security,Google Career Certificates,"Ce cours couvre une grande variété de concepts, d’outils et de meilleures pratiques en matière de sécurité informatique. Il présente les menaces et les attaques et les nombreuses façons dont elles peuvent se manifester. Nous allons vous présenter les algorithmes de cryptage et la manière dont ils sont utilisés pour protéger les données. Ensuite, nous nous plongerons dans les trois A de la sécurité de l’information : authentification, autorisation et comptabilité. Nous aborderons également les solutions de sécurité du réseau, allant des pare-feu aux options de cryptage Wi-Fi. Le cours se termine par la mise en commun de tous ces éléments dans une architecture de sécurité multicouche et approfondie, suivie de recommandations sur la manière d’intégrer une culture de la sécurité dans votre organisation ou votre équipe.
+
+À la fin de ce cours, vous serez capables de comprendre :
+● le fonctionnement des différents algorithmes et techniques de cryptage, ainsi que leurs avantages et leurs limites;
+● divers systèmes et types d’authentification;
+● la différence entre l’authentification et l’autorisation;
+● comment évaluer les risques potentiels et recommander des moyens de réduire les risques;
+● les meilleures pratiques pour sécuriser un réseau;
+● comment aider les autres à appréhender les concepts de sécurité et à se protéger.",,,,
+Sécurité informatique et dangers du numérique,https://www.coursera.org/learn/securite-informatique-defense-contre-les-pratiques-sombres-du-numerique,Information Technology,Security,Google Career Certificates,"Ce cours couvre une grande variété de concepts, d’outils et de meilleures pratiques en matière de sécurité informatique. Il présente les menaces et les attaques et les nombreuses façons dont elles peuvent se manifester. Nous allons vous présenter les algorithmes de cryptage et la manière dont ils sont utilisés pour protéger les données. Ensuite, nous nous plongerons dans les trois A de la sécurité de l’information : authentification, autorisation et comptabilité. Nous aborderons également les solutions de sécurité du réseau, allant des pare-feu aux options de cryptage Wi-Fi. Le cours se termine par la mise en commun de tous ces éléments dans une architecture de sécurité multicouche et approfondie, suivie de recommandations sur la manière d’intégrer une culture de la sécurité dans votre organisation ou votre équipe.
+
+À la fin de ce cours, vous serez capables de comprendre :
+● le fonctionnement des différents algorithmes et techniques de cryptage, ainsi que leurs avantages et leurs limites ;
+● divers systèmes et types d’authentification ;
+● la différence entre l’authentification et l’autorisation ;
+● comment évaluer les risques potentiels et recommander des moyens de réduire les risques ;
+● les meilleures pratiques pour sécuriser un réseau ;
+● comment aider les autres à appréhender les concepts de sécurité et à se protéger.",,3468.0,,
+The Foundations of Cybersecurity,https://www.coursera.org/learn/foundations-cybersecurity,Information Technology,Security,"Herbert J. Mattord, Ph.D., CISM, CISSP, CDP, Michael Whitman, Ph.D., CISM, CISSP","In order to manage the cybersecurity function business, you must first understand its language and its environment.  This course covers the foundations of cybersecurity, including threats and vulnerabilities as well as the tools, technologies, and strategies used to manage it.
+
+After completing this course, a learner will be able to:
+●	Define key concepts and terminology in Cybersecurity
+●	Identify threats to cybersecurity
+●	Identify strategies to identify and remediate vulnerabilities in information assets 
+●	Identify the systemic components  (including personnel) necessary for an effective cybersecurity program",14221.0,45347.0,4.7,436.0
+The GRC Approach to Managing Cybersecurity,https://www.coursera.org/learn/grc-approach-to-managing-cybersecurity,Information Technology,Security,"Herbert J. Mattord, Ph.D., CISM, CISSP, CDP, Michael Whitman, Ph.D., CISM, CISSP","Managing cybersecurity is about managing risk, specifically the risk to information assets of valued by an organization.  This course examines the role of Governance, Risk Management, and Compliance (GRC) as part of the Cybersecurity management process, including key functions of planning, policies, and the administration of technologies to support the protection of critical information assets.
+
+In this course, a learner will be able to:
+●	Identify the importance and functions of Governance, Risk Management, and Compliance in Cybersecurity program management.
+●	Describe best practices in risk management including the domains of risk assessment and risk treatment.
+●	Describe the structure and content of Cybersecurity-related strategy, plans, and planning
+●	Identify the key components and methodologies of Cybersecurity policies and policy development
+●	Discuss the role of performance measures as a method to assess and improve GRC programs",6487.0,20935.0,4.8,181.0
+"Understanding, Using, and Securing Crypto and Digital Assets",https://www.coursera.org/learn/blcf20b,Information Technology,Security,AICPA ,This specialization offers the latest developments in blockchain technology through a highly engaging learning experience with animated video components and intuitive course flow to maximize your knowledge retention.,2699.0,1822.0,4.7,58.0
+Using Role-based Access Control in Kubernetes Engine,https://www.coursera.org/learn/googlecloud-using-role-based-access-control-in-kubernetes-engine-jhymq,Information Technology,Security,Google Cloud Training ,"We help millions of organizations empower their employees, serve their customers, and build what’s next for their businesses with innovative technology created in—and for—the cloud. Our products are engineered for security, reliability, and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping customers apply our technologies to create success.",,,,
+Vulnerabilidades y pruebas de penetración,https://www.coursera.org/learn/vulnerabilidades-y-pruebas-de-penetracion,Information Technology,Security,"Yezid Enrique Donoso Meisel, Carlos Andrés Lozano Garzón","El curso Vulnerabilidades y pruebas de penetración busca que identifiques los conceptos de detección de vulnerabilidades y amenazas, los fundamentos de los ciberataques y de pruebas de penetración a sistemas. 
+
+Este curso se desarrolla en cuatro (4) módulos en donde aprenderás a cómo Identificar las vulnerabilidades y amenazas de los ciberataques, recopilar la información disponible de la organización y los sistemas objetivo y la posterior identificación de los activos de información y las posibles amenazas, revisar como realizar la explotación de las vulnerabilidades de los sistemas para irrumpir en el mismo y poder acceder a los activos de información; es decir establecer el acceso a un sistema o recurso, determinar el valor del sistema comprometido y mantener el control para su uso posterior, y revisar como realizar la explotación de las vulnerabilidades de los servidores y las aplicaciones web.
+
+Este curso está diseñado para personas que quieran empezar a estudiar o aprender conocimientos básicos en seguridad de la información y ciberseguridad y que tengan interés en adquirir conocimientos básicos en identificación de vulnerabilidades a través de pruebas de penetración.
+
+El curso está diseñado para que realices algunas actividades con máquinas virtuales. Esto requiere que tu computador cumpla con los siguientes requerimientos:    
+
+-CPU compatible 64-bit X86/AMD64 de 2011 o posterior  
+-Procesador de 1.3GHz o mayor - Quadcore  
+-3GB de RAM aunque es preferible tener 4 GB.",1587.0,14331.0,4.5,28.0
+Windows OS Forensics,https://www.coursera.org/learn/windows-os-forensics,Information Technology,Security,Denise Duffy,"The Windows OS Forensics course covers windows file systems, Fat32, ExFat, and NTFS. You will learn how these systems store data, what happens when a file gets written to disc, what happens when a file gets deleted from disc, and how to recover deleted files. You will also learn how to correctly interpret the information in the file system data structures, giving the student a better understanding of how these file systems work. This knowledge will enable you to validate the information from multiple forensic tools properly.",2000.0,13169.0,4.7,33.0
+Windows Registry Forensics,https://www.coursera.org/learn/windows-registry-forensics,Information Technology,Security,Denise Duffy,"The Windows Registry Forensics course shows you how to examine the live registry, the location of the registry files on the forensic image, and how to extract files.",1657.0,11274.0,4.8,26.0
+Windows Server Management and Security,https://www.coursera.org/learn/windows-server-management-security,Information Technology,Security,Greg Williams,"Microsoft Windows has been at the forefront of enterprise computing for several decades.  What most office workers see is the desktop side – such as Windows 7, 8 or 10.  This course explores what it takes to design and build the server side of Windows in an enterprise environment.  This course will explore everything from Windows Server installation to configuring users, to hardening the server operating system itself.  
+
+This course is the second course in the System Management and Security Specialization focusing on enterprise system management.  The first week of this course provides an overview of how Windows operates in an enterprise environment and what it may look like in the real world.  Week 2 of the course will show you how Windows users interact with the system.  At the end of Week 2, you will be able to demonstrate how Windows authentication works at the end of Week 2.  Week 3 will explore authorization in a Windows environment.  At the end of Week 3, you will be able to differentiate between different authorization mechanisms and use different technologies to secure data within the environment.  Week 4 explores built in security features of Windows and demonstrates how to use each technology effectively and in what circumstances you would use what technology for what purpose. At the end of week 4, you will be able to determine which technology is the best technology to use to secure certain portions of the Windows operating system.",21478.0,72678.0,4.7,579.0
+Wireshark for Basic Network Security Analysis,https://www.coursera.org/learn/wireshark-for-network-security,Information Technology,Security,Menna ElSharkawy,"In this 1-hour 30-minutes long project-based course, you will learn how to use Wireshark to capture the Network Traffic you need and analyze it securely. You will have a better understanding of encrypted and unencrypted traffic and how to differentiate between them. You will dig deeply into unencrypted protocols such as RADIUS, HTTP, DNS and Telnet by generating the Traffic of each of them and capturing it yourself. Also you will generate, capture and look into secure and encrypted protocols such as HTTPS and SSH. Additionally, you will learn how to capture HTTPS Traffic and decrypt them by using a pre-master secret key.
+
+Note: This project works best for learners who are based in the North America region. We’re currently working on providing the same experience in other regions.",4142.0,,4.5,164.0
+ІТ-безпека: захист від цифрового кібершахрайства,https://www.coursera.org/learn/it-security-ua,Information Technology,Security,Google Career Certificates,"Цей курс охоплює широкий спектр понять ІТ-безпеки, інструментів та найкращих практик. У ньому представлено загрози й атаки, а також багато способів їхнього прояву. Ми розповімо вам про алгоритми шифрування та про те, як вони використовуються для захисту даних. Далі ми розглянемо три аспекти інформаційної безпеки: автентифікацію, авторизацію та облік. Ми також розглянемо рішення мережевої безпеки, починаючи брандмауерами й закінчуючи параметрами шифрування Wi-Fi. Курс завершується об’єднанням усіх цих елементів у багаторівневу, поглиблену архітектуру безпеки, а потім рекомендаціями щодо того, як інтегрувати культуру безпеки у вашу організацію чи команду.
+
+Пройшовши цей курс, ви зрозумієте:
+● як працюють різні алгоритми та методи шифрування, а також їхні переваги та обмеження;
+● різні системи та типи автентифікації;
+● різницю між автентифікацією та авторизацією;
+● як оцінити потенційні ризики та рекомендувати способи їхнього зниження;
+● найкращі практики захисту мережі;
+● як допомогти іншим зрозуміти поняття безпеки та захистити себе.",,3570.0,,
+Безопасность в IT: искусство борьбы с темными силами,https://www.coursera.org/learn/it-security-ru,Information Technology,Security,Google Career Certificates,"В этом курсе мы рассмотрим основные понятия, связанные с безопасностью IT-инфраструктуры. Вы познакомитесь с инструментами и оптимальными методами, позволяющими поддерживать достаточный уровень защиты. Мы расскажем об угрозах и атаках, а также о том, как они могут проявиться. Вы получите общее представление об алгоритмах шифрования и их использовании для защиты данных. Мы расскажем о трех ключевых процессах защиты данных: аутентификации, авторизации и учете. Вы узнаете о решениях для сетевой безопасности – от брандмауэров до шифрования Wi-Fi. Мы рассмотрим модель защиты Chrome OS. В конце курса все эти элементы объединяются в многоуровневую и углубленную архитектуру безопасности. Наши рекомендации помогут вам привнести культуру безопасности в свою организацию или команду.
+
+Пройдя этот курс, вы сможете:
+● разбираться в работе алгоритмов и методов шифрования, а также знать обо всех их преимуществах и недостатках;
+● ориентироваться в системах и типах аутентификации;
+● отличать аутентификацию от авторизации;
+● оценивать потенциальные риски и предлагать способы их снижения;
+● применять полученные знания для улучшения защиты сетей;
+● рассказывать окружающим о сетевой безопасности и помогать им защищать свои данные.",,3110.0,4.9,19.0
+أمان تكنولوجيا المعلومات: الحماية من الهجمات الرقمية,https://www.coursera.org/learn/it-security-ar,Information Technology,Security,Google Career Certificates,"تغطي هذه الدورة مجموعة متنوعة من المفاهيم والأدوات وأفضل الممارسات المتعلقة بأمان تكنولوجيا المعلومات. وهي تتناول التهديدات والهجمات والأشكال العديدة التي قد تتخذها. سنقدم لك بعض المعلومات التمهيدية عن خوارزميات التشفير وكيفية استخدامها لتأمين البيانات. ثم نستعرض بالتفصيل ثلاثة من جوانب أمان المعلومات، وهي المصادقة والترخيص والمحاسبة. سنغطي أيضًا حلول أمان الشبكات المتنوعة التي تشمل جدران الحماية وخيارات تشفير الشبكات اللاسلكية Wifi. وتكتمل الدورة بتجميع كل هذه العناصر معًا في بنية أمنية عميقة ومتعددة الطبقات، يلي ذلك توصيات حول كيفية دمج ثقافة الأمان في مؤسستك أو لدى أعضاء فريقك.
+
+في نهاية هذه الدورة، ستفهم ما يلي:
+● طريقة عمل خوارزميات وتقنيات التشفير المختلفة فضلًا عن مزاياها وعيوبها.
+● أنظمة وأنواع المصادقة المختلفة.
+● الفرق بين المصادقة والترخيص
+●كيفية تقييم المخاطر المحتملة والتوصية بالطرق التي من شأنها تقليل المخاطر.
+● أفضل الممارسات الخاصة بتأمين الشبكة.
+● كيفية مساعدة الآخرين في فهم مصطلحات الأمان وحماية أنفسهم.",,7893.0,4.7,26.0

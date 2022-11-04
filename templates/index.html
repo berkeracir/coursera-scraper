@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Coursera Courses</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/css/bootstrap-select.min.css" />
+    </head>
+	<body>
+		<h2>Coursera Courses</h2>
+		<form action="/get-file">
+			<label for="category_subcategory">Category/Subcategory:</label>
+			<select name="category_subcategory" id="category_subcategory" class="selectpicker" title="Select" data-width="auto">
+				<option value="all_courses" selected>All</option>
+				<optgroup></optgroup>
+				{% for category in categories %}
+					<option value="{{category}}">{{category}}</option>
+					<optgroup>
+					{% for subcategory in categories[category] %}
+						<option value="{{category}}-{{subcategory}}">{{subcategory}}</option>
+					{% endfor %}
+					</optgroup>
+				{% endfor %}
+				</optgroup>
+			</select>
+			<input type="submit" value="Get">
+		</form> 
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.12.2/js/bootstrap-select.min.js"></script>
+	</body>
+</html>
+
